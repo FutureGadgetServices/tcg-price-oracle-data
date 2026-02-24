@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ .Site.Title }}</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: ui-monospace, "Cascadia Code", "Source Code Pro", monospace;
+      background: #0d1117;
+      color: #c9d1d9;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    a { color: #58a6ff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .container { max-width: 760px; margin: 0 auto; }
+    h1 { color: #f0f6fc; font-size: 1.5rem; margin-bottom: 0.25rem; }
+    .subtitle { color: #8b949e; font-size: 0.875rem; margin-bottom: 2rem; }
+    .section-title {
+      color: #8b949e;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-bottom: 0.75rem;
+    }
+    .endpoint-list { list-style: none; display: flex; flex-direction: column; gap: 0.5rem; }
+    .endpoint {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      padding: 0.875rem 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .endpoint-path { color: #79c0ff; font-size: 0.9rem; }
+    .endpoint-badge {
+      font-size: 0.7rem;
+      background: #1f3a1f;
+      color: #3fb950;
+      border: 1px solid #238636;
+      border-radius: 12px;
+      padding: 0.15rem 0.6rem;
+    }
+    .footer {
+      margin-top: 3rem;
+      color: #484f58;
+      font-size: 0.75rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>{{ .Site.Title }}</h1>
+    <p class="subtitle">Static JSON snapshots updated daily from BigQuery.</p>
+
+    <p class="section-title">Endpoints</p>
+    <ul class="endpoint-list">
+      <li class="endpoint">
+        <a class="endpoint-path" href="/tcg-price-oracle-data/data/card_metrics.json">/data/card_metrics.json</a>
+        <span class="endpoint-badge">JSON</span>
+      </li>
+      <li class="endpoint">
+        <a class="endpoint-path" href="/tcg-price-oracle-data/data/set_metrics.json">/data/set_metrics.json</a>
+        <span class="endpoint-badge">JSON</span>
+      </li>
+    </ul>
+
+    <p class="footer">Auto-generated &mdash; do not edit manually.</p>
+  </div>
+</body>
+</html>

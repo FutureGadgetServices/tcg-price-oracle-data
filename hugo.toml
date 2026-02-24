@@ -1,0 +1,14 @@
+baseURL = "https://futuregadgetlabs.github.io/tcg-price-oracle-data/"
+languageCode = "en-us"
+title = "TCG Price Oracle Data"
+
+[build]
+  writeStats = false
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false

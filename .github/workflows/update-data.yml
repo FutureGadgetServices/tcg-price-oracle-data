@@ -1,0 +1,103 @@
+name: Update TCG Price Data
+
+on:
+  schedule:
+    # 08:00 UTC every day
+    - cron: "0 8 * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+
+# Needed to commit back to the repo and deploy to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Only allow one deploy at a time; don't cancel in-progress runs
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      # -----------------------------------------------------------------------
+      # 1. Checkout
+      # -----------------------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # -----------------------------------------------------------------------
+      # 2. Authenticate to Google Cloud
+      #    Store your service-account JSON key as the secret GCP_SA_KEY.
+      #    Alternatively, swap this step for Workload Identity Federation.
+      # -----------------------------------------------------------------------
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.GCP_SA_KEY }}
+
+      # -----------------------------------------------------------------------
+      # 3. Python + BigQuery fetch
+      # -----------------------------------------------------------------------
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install google-cloud-bigquery
+
+      - name: Fetch data from BigQuery
+        env:
+          # Store these in repo Settings → Secrets and variables → Actions
+          GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+          BQ_DATASET: ${{ vars.BQ_DATASET }}
+        run: python scripts/fetch_data.py
+
+      # -----------------------------------------------------------------------
+      # 4. Commit updated JSON back to main so the repo always reflects the
+      #    latest snapshot (skips commit if nothing changed)
+      # -----------------------------------------------------------------------
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add static/data/
+          git diff --staged --quiet \
+            || git commit -m "chore: update price data $(date -u '+%Y-%m-%d')"
+          git push
+
+      # -----------------------------------------------------------------------
+      # 5. Build Hugo site
+      # -----------------------------------------------------------------------
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "latest"
+          extended: false
+
+      - name: Build Hugo site
+        run: hugo --minify
+
+      # -----------------------------------------------------------------------
+      # 6. Deploy to GitHub Pages
+      #    In repo Settings → Pages, set Source to "GitHub Actions".
+      # -----------------------------------------------------------------------
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public/
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
