@@ -2,8 +2,8 @@ name: Update TCG Price Data
 
 on:
   schedule:
-    # 08:00 UTC every day
-    - cron: "0 8 * * *"
+    # 17:00 UTC every 15th of the month
+    - cron: "0 17 15 * *"
   # Allow manual runs from the Actions tab
   workflow_dispatch:
 
