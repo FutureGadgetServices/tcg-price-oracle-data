@@ -163,6 +163,7 @@ def write_json(payload: dict, filename: str) -> None:
 # ---------------------------------------------------------------------------
 
 def main() -> None:
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     client = bigquery.Client(project=PROJECT_ID)
     now = datetime.now(timezone.utc).isoformat()
 
