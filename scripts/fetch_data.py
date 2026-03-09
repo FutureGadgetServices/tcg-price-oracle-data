@@ -1,6 +1,7 @@
 """
-Fetches card_metrics and set_metrics from BigQuery and writes them as
-static JSON files for the Hugo site.
+Fetches card_market_history, set_market_history, tcgplayer_market_snapshots,
+and booster_box_ml_features from BigQuery and writes them as static JSON files
+for the Hugo site.
 
 Required environment variables:
   GCP_PROJECT_ID  - GCP project that owns the BigQuery dataset
@@ -25,32 +26,24 @@ OUTPUT_DIR = "static/data"
 # Queries
 # ---------------------------------------------------------------------------
 
-CARD_METRICS_QUERY = f"""
+CARD_MARKET_HISTORY_QUERY = f"""
 SELECT
-  set_id,
+  card_id,
   month,
-  card_number,
-  card_name,
-  rarity,
-  raw_price,
-  psa_10_price,
-  psa_9_price,
-  tag_10_price,
-  ace_10_price,
-  cgc_10_price,
-  bgs_10_price,
-  bgs_10_black_label_price,
-  cgc_10_pristine_price
+  grade_id,
+  market_price,
+  volume
 FROM
-  `{PROJECT_ID}.{DATASET}.card_metrics`
+  `{PROJECT_ID}.{DATASET}.card_market_history`
 ORDER BY
   month DESC,
-  set_id,
-  card_number
+  card_id,
+  grade_id
 """
 
-SET_METRICS_QUERY = f"""
+SET_MARKET_HISTORY_QUERY = f"""
 SELECT
+  game,
   set_id,
   month,
   ev,
@@ -58,9 +51,69 @@ SELECT
   top_5_value,
   top_5_ratio
 FROM
-  `{PROJECT_ID}.{DATASET}.set_metrics`
+  `{PROJECT_ID}.{DATASET}.set_market_history`
 ORDER BY
   month DESC,
+  game,
+  set_id
+"""
+
+TCGPLAYER_MARKET_SNAPSHOTS_QUERY = f"""
+SELECT
+  snapshot_date,
+  tcg,
+  set_id,
+  product_type,
+  tcgplayer_id,
+  seller_count,
+  product_count,
+  median_ask_price,
+  avg_sold_30d,
+  sales_to_inventory_ratio
+FROM
+  `{PROJECT_ID}.{DATASET}.tcgplayer_market_snapshots`
+ORDER BY
+  snapshot_date DESC,
+  tcg,
+  set_id
+"""
+
+BOOSTER_BOX_ML_FEATURES_QUERY = f"""
+SELECT
+  game,
+  set_id,
+  snapshot_date,
+  release_date,
+  era,
+  product_type,
+  is_special_set,
+  is_standard_legal,
+  pack_count,
+  months_since_release,
+  msrp,
+  market_price,
+  ev,
+  ev_to_market_ratio,
+  set_value,
+  top_5_value,
+  top_5_ratio,
+  median_ask_price,
+  seller_count,
+  product_count,
+  avg_sold_30d,
+  sales_to_inventory_ratio,
+  price_change_90d_pct,
+  worst_rarity_master_exp_packs,
+  second_worst_rarity_master_exp_packs,
+  label_90d_price_change_pct,
+  label_365d_price_change_pct,
+  label_2y_price_change_pct,
+  label_5y_price_change_pct
+FROM
+  `{PROJECT_ID}.{DATASET}.booster_box_ml_features`
+ORDER BY
+  snapshot_date DESC,
+  game,
   set_id
 """
 
@@ -103,18 +156,32 @@ def main() -> None:
     client = bigquery.Client(project=PROJECT_ID)
     now = datetime.now(timezone.utc).isoformat()
 
-    # card_metrics
-    card_rows = run_query(client, CARD_METRICS_QUERY)
+    # card_market_history
+    card_rows = run_query(client, CARD_MARKET_HISTORY_QUERY)
     write_json(
         {"last_updated": now, "record_count": len(card_rows), "data": card_rows},
-        "card_metrics.json",
+        "card_market_history.json",
     )
 
-    # set_metrics
-    set_rows = run_query(client, SET_METRICS_QUERY)
+    # set_market_history
+    set_rows = run_query(client, SET_MARKET_HISTORY_QUERY)
     write_json(
         {"last_updated": now, "record_count": len(set_rows), "data": set_rows},
-        "set_metrics.json",
+        "set_market_history.json",
+    )
+
+    # tcgplayer_market_snapshots
+    tcgplayer_rows = run_query(client, TCGPLAYER_MARKET_SNAPSHOTS_QUERY)
+    write_json(
+        {"last_updated": now, "record_count": len(tcgplayer_rows), "data": tcgplayer_rows},
+        "tcgplayer_market_snapshots.json",
+    )
+
+    # booster_box_ml_features
+    ml_rows = run_query(client, BOOSTER_BOX_ML_FEATURES_QUERY)
+    write_json(
+        {"last_updated": now, "record_count": len(ml_rows), "data": ml_rows},
+        "booster_box_ml_features.json",
     )
 
     print("Done.")
