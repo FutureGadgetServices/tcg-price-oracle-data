@@ -1,0 +1,15 @@
+{
+  "last_updated": "2026-03-09T04:03:43.827042+00:00",
+  "record_count": 1,
+  "data": [
+    {
+      "game": "riftbound",
+      "set_id": "rb02",
+      "month": "2026-03-01",
+      "ev": 0.0,
+      "set_value": 57.0,
+      "top_5_value": 57.0,
+      "top_5_ratio": 1.0
+    }
+  ]
+}
