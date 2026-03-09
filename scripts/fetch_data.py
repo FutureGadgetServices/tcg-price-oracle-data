@@ -35,10 +35,11 @@ SELECT
   volume
 FROM
   `{PROJECT_ID}.{DATASET}.card_market_history`
+WHERE
+  month IS NOT NULL
 ORDER BY
-  month DESC,
   card_id,
-  grade_id
+  month DESC
 """
 
 SET_MARKET_HISTORY_QUERY = f"""
@@ -52,10 +53,12 @@ SELECT
   top_5_ratio
 FROM
   `{PROJECT_ID}.{DATASET}.set_market_history`
+WHERE
+  month IS NOT NULL
 ORDER BY
-  month DESC,
   game,
-  set_id
+  set_id,
+  month DESC
 """
 
 TCGPLAYER_MARKET_SNAPSHOTS_QUERY = f"""
@@ -72,10 +75,13 @@ SELECT
   sales_to_inventory_ratio
 FROM
   `{PROJECT_ID}.{DATASET}.tcgplayer_market_snapshots`
+WHERE
+  snapshot_date IS NOT NULL
 ORDER BY
-  snapshot_date DESC,
   tcg,
-  set_id
+  set_id,
+  product_type,
+  snapshot_date DESC
 """
 
 BOOSTER_BOX_ML_FEATURES_QUERY = f"""
@@ -111,10 +117,14 @@ SELECT
   label_5y_price_change_pct
 FROM
   `{PROJECT_ID}.{DATASET}.booster_box_ml_features`
+WHERE
+  snapshot_date IS NOT NULL
 ORDER BY
-  snapshot_date DESC,
   game,
-  set_id
+  era,
+  set_id,
+  product_type,
+  snapshot_date DESC
 """
 
 
