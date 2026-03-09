@@ -4,3 +4,10 @@ resources/_gen/
 .DS_Store
 
 .idea/
+
+# Stale data files replaced by split card_market_history/{game}/{set_id}.json
+static/data/card_metrics.json
+static/data/set_metrics.json
+static/data/card_market_history.json
+
+.claude/

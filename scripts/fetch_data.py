@@ -167,12 +167,22 @@ def main() -> None:
     client = bigquery.Client(project=PROJECT_ID)
     now = datetime.now(timezone.utc).isoformat()
 
-    # card_market_history
+    # card_market_history — split into per-set files: card_market_history/{game}/{set_id}.json
+    # card_id format: "{game}_{set_id}_{card_number}"
     card_rows = run_query(client, CARD_MARKET_HISTORY_QUERY)
-    write_json(
-        {"last_updated": now, "record_count": len(card_rows), "data": card_rows},
-        "card_market_history.json",
-    )
+    card_groups: dict[tuple[str, str], list[dict]] = {}
+    for row in card_rows:
+        parts = row["card_id"].split("_", 2)
+        game, set_id = parts[0], parts[1]
+        card_groups.setdefault((game, set_id), []).append(row)
+
+    for (game, set_id), rows in sorted(card_groups.items()):
+        out_dir = f"{OUTPUT_DIR}/card_market_history/{game}"
+        os.makedirs(out_dir, exist_ok=True)
+        write_json(
+            {"last_updated": now, "record_count": len(rows), "data": rows},
+            f"card_market_history/{game}/{set_id}.json",
+        )
 
     # set_market_history
     set_rows = run_query(client, SET_MARKET_HISTORY_QUERY)
