@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ .Title }} — {{ .Site.Title }}</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: ui-monospace, "Cascadia Code", "Source Code Pro", monospace;
+      background: #0d1117;
+      color: #c9d1d9;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    a { color: #58a6ff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .container { max-width: 960px; margin: 0 auto; }
+    nav { margin-bottom: 1.5rem; font-size: 0.85rem; }
+    h1  { color: #f0f6fc; font-size: 1.5rem; margin-bottom: 0.25rem; }
+    .subtitle { color: #8b949e; font-size: 0.875rem; margin-bottom: 2rem; }
+
+    .filters {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.875rem;
+    }
+    .filter-row {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+    .filter-label {
+      color: #8b949e;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      min-width: 3.5rem;
+    }
+    select, .search-input {
+      background: #0d1117;
+      color: #c9d1d9;
+      border: 1px solid #30363d;
+      border-radius: 4px;
+      padding: 0.3rem 0.6rem;
+      font-family: inherit;
+      font-size: 0.85rem;
+    }
+    select { cursor: pointer; }
+    select:disabled { opacity: 0.4; cursor: default; }
+    select:focus, .search-input:focus { outline: 1px solid #58a6ff; }
+    .search-input { width: 20rem; }
+    .search-input::placeholder { color: #484f58; }
+    .btn {
+      background: #21262d;
+      color: #c9d1d9;
+      border: 1px solid #30363d;
+      border-radius: 4px;
+      padding: 0.3rem 0.75rem;
+      font-family: inherit;
+      font-size: 0.8rem;
+      cursor: pointer;
+    }
+    .btn:hover { background: #30363d; }
+    .btn:disabled { opacity: 0.4; cursor: default; }
+    .btn-primary {
+      background: #1f3a1f;
+      border-color: #238636;
+      color: #3fb950;
+    }
+    .btn-primary:hover { background: #2ea043; color: #fff; }
+
+    /* Grade chips */
+    .chip-row { display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; }
+    .grade-chip, .card-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      background: #21262d;
+      border: 1px solid #30363d;
+      border-radius: 12px;
+      padding: 0.2rem 0.6rem;
+      font-size: 0.8rem;
+      cursor: pointer;
+      user-select: none;
+      transition: border-color 0.15s;
+    }
+    .grade-chip.active { border-color: #58a6ff; color: #79c0ff; }
+    .card-chip.active  { border-color: var(--chip-color); }
+    .grade-chip input, .card-chip input { display: none; }
+    .color-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+
+    /* Charts */
+    .chart-section { margin-bottom: 2rem; }
+    .chart-title { color: #f0f6fc; font-size: 1rem; margin-bottom: 0.75rem; }
+    .chart-wrap {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      padding: 1rem;
+      height: 320px;
+      position: relative;
+    }
+    .status { color: #8b949e; font-size: 0.875rem; padding: 2rem 0; text-align: center; }
+    .hint { color: #484f58; font-size: 0.8rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <nav><a href="/tcg-price-oracle-data/">&larr; Back</a></nav>
+    <h1>{{ .Title }}</h1>
+    <p class="subtitle">Price and volume history per card and grade. Select a set to load its data.</p>
+
+    <!-- Set selector -->
+    <div class="filters">
+      <div class="filter-row">
+        <span class="filter-label">Game</span>
+        <select id="game-select" disabled><option value="">loading…</option></select>
+        <span class="filter-label" style="margin-left:0.5rem">Set</span>
+        <select id="set-select" disabled><option value="">—</option></select>
+        <button class="btn btn-primary" id="load-btn" disabled>Load</button>
+      </div>
+    </div>
+
+    <div id="loading-set" class="status" style="display:none">Loading set data&hellip;</div>
+
+    <div id="app" style="display:none">
+      <!-- Card + grade filters -->
+      <div class="filters">
+        <div class="filter-row">
+          <span class="filter-label">Grades</span>
+          <div class="chip-row" id="grade-chips"></div>
+        </div>
+        <div class="filter-row">
+          <span class="filter-label">Cards</span>
+          <input class="search-input" id="card-search" type="text" placeholder="search by card id or number…" autocomplete="off" />
+          <button class="btn" id="select-all">Select All Visible</button>
+          <button class="btn" id="clear-all">Clear All</button>
+        </div>
+        <div class="filter-row">
+          <div class="chip-row" id="card-chips"></div>
+        </div>
+      </div>
+
+      <!-- Charts -->
+      <div class="chart-section">
+        <div class="chart-title">Market Price</div>
+        <div class="chart-wrap"><canvas id="chart-price"></canvas></div>
+      </div>
+      <div class="chart-section">
+        <div class="chart-title">Volume (Sales / Month)</div>
+        <div class="chart-wrap"><canvas id="chart-volume"></canvas></div>
+      </div>
+    </div>
+
+    <div id="error" class="status" style="display:none;color:#f78166"></div>
+  </div>
+
+  <script>
+    const BASE = "/tcg-price-oracle-data";
+
+    const PALETTE = [
+      "#58a6ff","#3fb950","#f78166","#d2a8ff","#ffa657",
+      "#79c0ff","#56d364","#ff7b72","#bc8cff","#7ee787",
+      "#ffd700","#20c997","#fd7e14","#e83e8c","#6f42c1",
+    ];
+
+    const CHART_OPTS = {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: "index", intersect: false },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: "#161b22", borderColor: "#30363d", borderWidth: 1,
+          titleColor: "#8b949e", bodyColor: "#c9d1d9",
+        },
+      },
+      scales: {
+        x: { ticks: { color: "#8b949e", maxRotation: 45, font: { size: 11 } }, grid: { color: "#21262d" } },
+        y: { ticks: { color: "#8b949e", font: { size: 11 } }, grid: { color: "#21262d" } },
+      },
+    };
+
+    // State
+    let index      = {};      // { game -> [set_id] }
+    let cardData   = {};      // { "cardId:gradeId" -> { cardId, gradeId, points: { month -> {price, volume} } } }
+    let allMonths  = [];
+    let colorMap   = {};
+    let activeKeys = new Set();
+    let activeGrades = new Set();
+    let allGrades  = new Set();
+    let charts     = {};
+
+    function fmtMonth(m) {
+      return new Date(m).toLocaleDateString("en-US", { month: "short", year: "numeric", timeZone: "UTC" });
+    }
+
+    function cardLabel(k) {
+      // card_id is game_setId_cardNumber — show just the card number part
+      const cardId = cardData[k].cardId;
+      const parts  = cardId.split("_");
+      const num    = parts.slice(2).join("_");
+      return `${num} (${cardData[k].gradeId})`;
+    }
+
+    function initCharts() {
+      ["price", "volume"].forEach(id => {
+        const ctx = document.getElementById(`chart-${id}`).getContext("2d");
+        charts[id] = new Chart(ctx, {
+          type: "line",
+          data: { labels: allMonths.map(fmtMonth), datasets: [] },
+          options: JSON.parse(JSON.stringify(CHART_OPTS)),
+        });
+      });
+    }
+
+    function updateCharts() {
+      const visibleKeys = [...activeKeys].filter(k => activeGrades.has(cardData[k].gradeId)).sort();
+      ["price", "volume"].forEach(id => {
+        charts[id].data.datasets = visibleKeys.map(k => ({
+          label: cardLabel(k),
+          data: allMonths.map(m => {
+            const pt = cardData[k].points[m];
+            return pt ? (id === "price" ? pt.price : pt.volume) : null;
+          }),
+          borderColor: colorMap[k],
+          backgroundColor: colorMap[k] + "22",
+          borderWidth: 2,
+          pointRadius: 3,
+          spanGaps: true,
+          tension: 0.3,
+        }));
+        charts[id].update();
+      });
+    }
+
+    function applySearch() {
+      const q = document.getElementById("card-search").value.toLowerCase();
+      document.querySelectorAll(".card-chip").forEach(chip => {
+        chip.style.display = !q || chip.dataset.key.toLowerCase().includes(q) ? "" : "none";
+      });
+    }
+
+    function renderCardChips() {
+      const container = document.getElementById("card-chips");
+      container.innerHTML = "";
+      Object.keys(cardData).sort().forEach(key => {
+        const color = colorMap[key];
+        const chip  = document.createElement("label");
+        chip.className = "card-chip" + (activeKeys.has(key) ? " active" : "");
+        chip.style.setProperty("--chip-color", color);
+        chip.dataset.key = key;
+
+        const cb = document.createElement("input");
+        cb.type = "checkbox";
+        cb.checked = activeKeys.has(key);
+        cb.addEventListener("change", () => {
+          if (cb.checked) { activeKeys.add(key); chip.classList.add("active"); }
+          else            { activeKeys.delete(key); chip.classList.remove("active"); }
+          updateCharts();
+        });
+
+        const dot = document.createElement("span");
+        dot.className = "color-dot";
+        dot.style.background = color;
+
+        chip.appendChild(cb);
+        chip.appendChild(dot);
+        chip.appendChild(document.createTextNode(cardLabel(key)));
+        container.appendChild(chip);
+      });
+      applySearch();
+    }
+
+    function renderGradeChips() {
+      const container = document.getElementById("grade-chips");
+      container.innerHTML = "";
+      [...allGrades].sort().forEach(grade => {
+        const chip = document.createElement("label");
+        chip.className = "grade-chip" + (activeGrades.has(grade) ? " active" : "");
+
+        const cb = document.createElement("input");
+        cb.type = "checkbox";
+        cb.checked = activeGrades.has(grade);
+        cb.addEventListener("change", () => {
+          if (cb.checked) { activeGrades.add(grade); chip.classList.add("active"); }
+          else            { activeGrades.delete(grade); chip.classList.remove("active"); }
+          updateCharts();
+        });
+
+        chip.appendChild(cb);
+        chip.appendChild(document.createTextNode(grade));
+        container.appendChild(chip);
+      });
+    }
+
+    // ── Boot: load index ──
+    fetch(`${BASE}/data/card_market_history/index.json`)
+      .then(r => r.json())
+      .then(({ data }) => {
+        data.forEach(({ game, set_id }) => {
+          if (!index[game]) index[game] = [];
+          index[game].push(set_id);
+        });
+
+        const gameSelect = document.getElementById("game-select");
+        gameSelect.innerHTML = "";
+        Object.keys(index).sort().forEach(g => {
+          const opt = document.createElement("option");
+          opt.value = g; opt.textContent = g;
+          gameSelect.appendChild(opt);
+        });
+        gameSelect.disabled = false;
+        populateSets(gameSelect.value);
+      })
+      .catch(() => {
+        document.getElementById("game-select").innerHTML = "<option>unavailable</option>";
+      });
+
+    function populateSets(game) {
+      const setSelect = document.getElementById("set-select");
+      setSelect.innerHTML = "";
+      (index[game] || []).sort().forEach(s => {
+        const opt = document.createElement("option");
+        opt.value = s; opt.textContent = s;
+        setSelect.appendChild(opt);
+      });
+      setSelect.disabled = false;
+      document.getElementById("load-btn").disabled = false;
+    }
+
+    document.getElementById("game-select").addEventListener("change", e => populateSets(e.target.value));
+
+    document.getElementById("load-btn").addEventListener("click", () => {
+      const game   = document.getElementById("game-select").value;
+      const set_id = document.getElementById("set-select").value;
+      if (!game || !set_id) return;
+
+      // Reset state
+      cardData = {}; allMonths = []; colorMap = {};
+      activeKeys = new Set(); activeGrades = new Set(); allGrades = new Set();
+      document.getElementById("app").style.display = "none";
+      document.getElementById("loading-set").style.display = "block";
+      document.getElementById("error").style.display = "none";
+
+      fetch(`${BASE}/data/card_market_history/${game}/${set_id}.json`)
+        .then(r => { if (!r.ok) throw new Error(r.statusText); return r.json(); })
+        .then(({ data }) => {
+          const monthSet = new Set();
+
+          data.forEach(row => {
+            const key = `${row.card_id}:${row.grade_id}`;
+            if (!cardData[key]) cardData[key] = { cardId: row.card_id, gradeId: row.grade_id, points: {} };
+            cardData[key].points[row.month] = { price: row.market_price, volume: row.volume };
+            monthSet.add(row.month);
+            allGrades.add(row.grade_id);
+          });
+
+          allMonths = [...monthSet].sort();
+          activeGrades = new Set(allGrades); // default: all grades on
+
+          // Assign colors
+          Object.keys(cardData).sort().forEach((k, i) => {
+            colorMap[k] = PALETTE[i % PALETTE.length];
+          });
+
+          // Default: select all cards
+          activeKeys = new Set(Object.keys(cardData));
+
+          document.getElementById("loading-set").style.display = "none";
+          document.getElementById("app").style.display = "block";
+
+          renderGradeChips();
+          renderCardChips();
+
+          if (!charts["price"]) initCharts();
+          else {
+            // Re-init with new month labels
+            ["price", "volume"].forEach(id => {
+              charts[id].data.labels = allMonths.map(fmtMonth);
+            });
+          }
+          updateCharts();
+        })
+        .catch(err => {
+          document.getElementById("loading-set").style.display = "none";
+          const el = document.getElementById("error");
+          el.textContent = `Failed to load: ${err.message}`;
+          el.style.display = "block";
+        });
+    });
+
+    document.getElementById("card-search").addEventListener("input", applySearch);
+
+    document.getElementById("select-all").addEventListener("click", () => {
+      const q = document.getElementById("card-search").value.toLowerCase();
+      document.querySelectorAll(".card-chip").forEach(chip => {
+        if (chip.style.display === "none") return;
+        const cb = chip.querySelector("input");
+        cb.checked = true;
+        activeKeys.add(chip.dataset.key);
+        chip.classList.add("active");
+      });
+      updateCharts();
+    });
+
+    document.getElementById("clear-all").addEventListener("click", () => {
+      activeKeys = new Set();
+      document.querySelectorAll(".card-chip").forEach(chip => {
+        chip.querySelector("input").checked = false;
+        chip.classList.remove("active");
+      });
+      updateCharts();
+    });
+  </script>
+</body>
+</html>

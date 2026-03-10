@@ -176,6 +176,7 @@ def main() -> None:
         game, set_id = parts[0], parts[1]
         card_groups.setdefault((game, set_id), []).append(row)
 
+    index_sets = []
     for (game, set_id), rows in sorted(card_groups.items()):
         out_dir = f"{OUTPUT_DIR}/card_market_history/{game}"
         os.makedirs(out_dir, exist_ok=True)
@@ -183,6 +184,12 @@ def main() -> None:
             {"last_updated": now, "record_count": len(rows), "data": rows},
             f"card_market_history/{game}/{set_id}.json",
         )
+        index_sets.append({"game": game, "set_id": set_id})
+
+    write_json(
+        {"last_updated": now, "record_count": len(index_sets), "data": index_sets},
+        "card_market_history/index.json",
+    )
 
     # set_market_history
     set_rows = run_query(client, SET_MARKET_HISTORY_QUERY)

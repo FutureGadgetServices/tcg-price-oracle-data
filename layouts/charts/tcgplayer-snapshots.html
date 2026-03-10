@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ .Title }} — {{ .Site.Title }}</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: ui-monospace, "Cascadia Code", "Source Code Pro", monospace;
+      background: #0d1117;
+      color: #c9d1d9;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    a { color: #58a6ff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .container { max-width: 960px; margin: 0 auto; }
+    nav { margin-bottom: 1.5rem; font-size: 0.85rem; }
+    h1  { color: #f0f6fc; font-size: 1.5rem; margin-bottom: 0.25rem; }
+    .subtitle { color: #8b949e; font-size: 0.875rem; margin-bottom: 2rem; }
+
+    .filters {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.875rem;
+    }
+    .filter-row {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+    .filter-label {
+      color: #8b949e;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      min-width: 3.5rem;
+    }
+    select, .search-input {
+      background: #0d1117;
+      color: #c9d1d9;
+      border: 1px solid #30363d;
+      border-radius: 4px;
+      padding: 0.3rem 0.6rem;
+      font-family: inherit;
+      font-size: 0.85rem;
+    }
+    select { cursor: pointer; }
+    select:focus, .search-input:focus { outline: 1px solid #58a6ff; }
+    .search-input { width: 18rem; }
+    .search-input::placeholder { color: #484f58; }
+    .btn {
+      background: #21262d;
+      color: #c9d1d9;
+      border: 1px solid #30363d;
+      border-radius: 4px;
+      padding: 0.3rem 0.75rem;
+      font-family: inherit;
+      font-size: 0.8rem;
+      cursor: pointer;
+    }
+    .btn:hover { background: #30363d; }
+
+    .chip-row { display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; }
+    .series-chip, .type-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      background: #21262d;
+      border: 1px solid #30363d;
+      border-radius: 12px;
+      padding: 0.2rem 0.6rem;
+      font-size: 0.8rem;
+      cursor: pointer;
+      user-select: none;
+      transition: border-color 0.15s;
+    }
+    .series-chip.active { border-color: var(--chip-color); }
+    .type-chip.active   { border-color: #58a6ff; color: #79c0ff; }
+    .series-chip input, .type-chip input { display: none; }
+    .color-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+
+    .chart-section { margin-bottom: 2rem; }
+    .chart-title { color: #f0f6fc; font-size: 1rem; margin-bottom: 0.75rem; }
+    .chart-wrap {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      padding: 1rem;
+      height: 300px;
+      position: relative;
+    }
+    .status { color: #8b949e; font-size: 0.875rem; padding: 2rem 0; text-align: center; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <nav><a href="/tcg-price-oracle-data/">&larr; Back</a></nav>
+    <h1>{{ .Title }}</h1>
+    <p class="subtitle">TCGPlayer listing and sales data over time. Each line is a tcg / set / product type combination.</p>
+
+    <div id="loading" class="status">Loading data&hellip;</div>
+
+    <div id="app" style="display:none">
+      <div class="filters">
+        <div class="filter-row">
+          <span class="filter-label">TCG</span>
+          <select id="tcg-filter"><option value="">All</option></select>
+          <button class="btn" id="select-all">Select All</button>
+          <button class="btn" id="clear-all">Clear All</button>
+        </div>
+        <div class="filter-row">
+          <span class="filter-label">Type</span>
+          <div class="chip-row" id="type-chips"></div>
+        </div>
+        <div class="filter-row">
+          <span class="filter-label">Series</span>
+          <input class="search-input" id="series-search" type="text" placeholder="filter by set or product…" autocomplete="off" />
+        </div>
+        <div class="filter-row">
+          <div class="chip-row" id="series-chips"></div>
+        </div>
+      </div>
+
+      <div class="chart-section">
+        <div class="chart-title">Median Ask Price</div>
+        <div class="chart-wrap"><canvas id="chart-median-ask"></canvas></div>
+      </div>
+      <div class="chart-section">
+        <div class="chart-title">Seller Count</div>
+        <div class="chart-wrap"><canvas id="chart-seller-count"></canvas></div>
+      </div>
+      <div class="chart-section">
+        <div class="chart-title">Product Count (Active Listings)</div>
+        <div class="chart-wrap"><canvas id="chart-product-count"></canvas></div>
+      </div>
+      <div class="chart-section">
+        <div class="chart-title">Avg Sold (30d)</div>
+        <div class="chart-wrap"><canvas id="chart-avg-sold"></canvas></div>
+      </div>
+      <div class="chart-section">
+        <div class="chart-title">Sales-to-Inventory Ratio</div>
+        <div class="chart-wrap"><canvas id="chart-sti-ratio"></canvas></div>
+      </div>
+    </div>
+
+    <div id="error" class="status" style="display:none;color:#f78166"></div>
+  </div>
+
+  <script>
+    const BASE = "/tcg-price-oracle-data";
+
+    const METRICS = [
+      { key: "median_ask_price",       id: "chart-median-ask"    },
+      { key: "seller_count",           id: "chart-seller-count"  },
+      { key: "product_count",          id: "chart-product-count" },
+      { key: "avg_sold_30d",           id: "chart-avg-sold"      },
+      { key: "sales_to_inventory_ratio", id: "chart-sti-ratio"   },
+    ];
+
+    const PALETTE = [
+      "#58a6ff","#3fb950","#f78166","#d2a8ff","#ffa657",
+      "#79c0ff","#56d364","#ff7b72","#bc8cff","#7ee787",
+      "#ffd700","#20c997","#fd7e14","#e83e8c","#6f42c1",
+    ];
+
+    const CHART_OPTS = {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: "index", intersect: false },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: "#161b22", borderColor: "#30363d", borderWidth: 1,
+          titleColor: "#8b949e", bodyColor: "#c9d1d9",
+        },
+      },
+      scales: {
+        x: { ticks: { color: "#8b949e", maxRotation: 45, font: { size: 11 } }, grid: { color: "#21262d" } },
+        y: { ticks: { color: "#8b949e", font: { size: 11 } }, grid: { color: "#21262d" } },
+      },
+    };
+
+    let grouped     = {};   // key -> { tcg, set_id, product_type, points: { date -> row } }
+    let allDates    = [];
+    let colorMap    = {};
+    let activeKeys  = new Set();
+    let activeTypes = new Set();
+    let allTypes    = new Set();
+    let charts      = {};
+
+    function seriesKey(r)   { return `${r.tcg}:${r.set_id}:${r.product_type}`; }
+    function seriesLabel(k) { const g = grouped[k]; return `${g.tcg} / ${g.set_id} / ${g.product_type}`; }
+
+    function fmtDate(d) {
+      return new Date(d).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
+    }
+
+    function initCharts() {
+      METRICS.forEach(({ id }) => {
+        const ctx = document.getElementById(id).getContext("2d");
+        charts[id] = new Chart(ctx, {
+          type: "line",
+          data: { labels: allDates.map(fmtDate), datasets: [] },
+          options: JSON.parse(JSON.stringify(CHART_OPTS)),
+        });
+      });
+    }
+
+    function updateCharts() {
+      const visibleKeys = [...activeKeys]
+        .filter(k => activeTypes.has(grouped[k].product_type))
+        .sort();
+
+      METRICS.forEach(({ key, id }) => {
+        charts[id].data.datasets = visibleKeys.map(k => ({
+          label: seriesLabel(k),
+          data: allDates.map(d => grouped[k].points[d]?.[key] ?? null),
+          borderColor: colorMap[k],
+          backgroundColor: colorMap[k] + "22",
+          borderWidth: 2,
+          pointRadius: 3,
+          spanGaps: true,
+          tension: 0.3,
+        }));
+        charts[id].update();
+      });
+    }
+
+    function applySearch() {
+      const q = document.getElementById("series-search").value.toLowerCase();
+      document.querySelectorAll(".series-chip").forEach(chip => {
+        chip.style.display = !q || chip.dataset.label.toLowerCase().includes(q) ? "" : "none";
+      });
+    }
+
+    function populateSeriesChips(tcgFilter) {
+      const container = document.getElementById("series-chips");
+      container.innerHTML = "";
+      Object.keys(grouped)
+        .filter(k => !tcgFilter || grouped[k].tcg === tcgFilter)
+        .sort()
+        .forEach(key => {
+          const color = colorMap[key];
+          const chip  = document.createElement("label");
+          chip.className = "series-chip" + (activeKeys.has(key) ? " active" : "");
+          chip.style.setProperty("--chip-color", color);
+          chip.dataset.label = seriesLabel(key);
+
+          const cb = document.createElement("input");
+          cb.type = "checkbox";
+          cb.checked = activeKeys.has(key);
+          cb.addEventListener("change", () => {
+            if (cb.checked) { activeKeys.add(key); chip.classList.add("active"); }
+            else            { activeKeys.delete(key); chip.classList.remove("active"); }
+            updateCharts();
+          });
+
+          const dot = document.createElement("span");
+          dot.className = "color-dot";
+          dot.style.background = color;
+
+          chip.appendChild(cb);
+          chip.appendChild(dot);
+          chip.appendChild(document.createTextNode(seriesLabel(key)));
+          container.appendChild(chip);
+        });
+      applySearch();
+    }
+
+    function renderTypeChips() {
+      const container = document.getElementById("type-chips");
+      container.innerHTML = "";
+      [...allTypes].sort().forEach(type => {
+        const chip = document.createElement("label");
+        chip.className = "type-chip" + (activeTypes.has(type) ? " active" : "");
+
+        const cb = document.createElement("input");
+        cb.type = "checkbox";
+        cb.checked = activeTypes.has(type);
+        cb.addEventListener("change", () => {
+          if (cb.checked) { activeTypes.add(type); chip.classList.add("active"); }
+          else            { activeTypes.delete(type); chip.classList.remove("active"); }
+          updateCharts();
+        });
+
+        chip.appendChild(cb);
+        chip.appendChild(document.createTextNode(type));
+        container.appendChild(chip);
+      });
+    }
+
+    // ── Boot ──
+    fetch(`${BASE}/data/tcgplayer_market_snapshots.json`)
+      .then(r => { if (!r.ok) throw new Error(r.statusText); return r.json(); })
+      .then(({ data }) => {
+        const dateSet = new Set();
+
+        data.forEach(row => {
+          const key = seriesKey(row);
+          if (!grouped[key]) {
+            grouped[key] = { tcg: row.tcg, set_id: row.set_id, product_type: row.product_type, points: {} };
+          }
+          grouped[key].points[row.snapshot_date] = {
+            median_ask_price:         row.median_ask_price,
+            seller_count:             row.seller_count,
+            product_count:            row.product_count,
+            avg_sold_30d:             row.avg_sold_30d,
+            sales_to_inventory_ratio: row.sales_to_inventory_ratio,
+          };
+          dateSet.add(row.snapshot_date);
+          allTypes.add(row.product_type);
+        });
+
+        allDates    = [...dateSet].sort();
+        activeTypes = new Set(allTypes);
+
+        Object.keys(grouped).sort().forEach((k, i) => {
+          colorMap[k] = PALETTE[i % PALETTE.length];
+        });
+
+        // Populate TCG dropdown
+        const tcgs = [...new Set(Object.values(grouped).map(g => g.tcg))].sort();
+        const tcgSelect = document.getElementById("tcg-filter");
+        tcgs.forEach(t => {
+          const opt = document.createElement("option");
+          opt.value = t; opt.textContent = t;
+          tcgSelect.appendChild(opt);
+        });
+
+        activeKeys = new Set(Object.keys(grouped));
+
+        renderTypeChips();
+        populateSeriesChips("");
+        initCharts();
+        updateCharts();
+
+        document.getElementById("loading").style.display = "none";
+        document.getElementById("app").style.display     = "block";
+      })
+      .catch(err => {
+        document.getElementById("loading").style.display = "none";
+        const el = document.getElementById("error");
+        el.textContent = `Failed to load data: ${err.message}`;
+        el.style.display = "block";
+      });
+
+    // ── Filter events ──
+    document.getElementById("tcg-filter").addEventListener("change", e => {
+      const tcg = e.target.value;
+      activeKeys = new Set(Object.keys(grouped).filter(k => !tcg || grouped[k].tcg === tcg));
+      populateSeriesChips(tcg);
+      updateCharts();
+    });
+
+    document.getElementById("select-all").addEventListener("click", () => {
+      const tcg = document.getElementById("tcg-filter").value;
+      activeKeys = new Set(Object.keys(grouped).filter(k => !tcg || grouped[k].tcg === tcg));
+      populateSeriesChips(tcg);
+      updateCharts();
+    });
+
+    document.getElementById("clear-all").addEventListener("click", () => {
+      activeKeys = new Set();
+      populateSeriesChips(document.getElementById("tcg-filter").value);
+      updateCharts();
+    });
+
+    document.getElementById("series-search").addEventListener("input", applySearch);
+  </script>
+</body>
+</html>

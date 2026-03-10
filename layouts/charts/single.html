@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ .Title }} — {{ .Site.Title }}</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: ui-monospace, "Cascadia Code", "Source Code Pro", monospace;
+      background: #0d1117;
+      color: #c9d1d9;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    a { color: #58a6ff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .container { max-width: 960px; margin: 0 auto; }
+
+    nav { margin-bottom: 1.5rem; font-size: 0.85rem; }
+    h1  { color: #f0f6fc; font-size: 1.5rem; margin-bottom: 0.25rem; }
+    .subtitle { color: #8b949e; font-size: 0.875rem; margin-bottom: 2rem; }
+
+    /* ── Filters ── */
+    .filters {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.875rem;
+    }
+    .filter-row {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+    .filter-label {
+      color: #8b949e;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      min-width: 3.5rem;
+    }
+    select {
+      background: #0d1117;
+      color: #c9d1d9;
+      border: 1px solid #30363d;
+      border-radius: 4px;
+      padding: 0.3rem 0.6rem;
+      font-family: inherit;
+      font-size: 0.85rem;
+      cursor: pointer;
+    }
+    select:focus { outline: 1px solid #58a6ff; }
+    .search-input {
+      background: #0d1117;
+      color: #c9d1d9;
+      border: 1px solid #30363d;
+      border-radius: 4px;
+      padding: 0.3rem 0.6rem;
+      font-family: inherit;
+      font-size: 0.85rem;
+      width: 16rem;
+    }
+    .search-input:focus { outline: 1px solid #58a6ff; }
+    .search-input::placeholder { color: #484f58; }
+    .btn {
+      background: #21262d;
+      color: #c9d1d9;
+      border: 1px solid #30363d;
+      border-radius: 4px;
+      padding: 0.3rem 0.75rem;
+      font-family: inherit;
+      font-size: 0.8rem;
+      cursor: pointer;
+    }
+    .btn:hover { background: #30363d; }
+
+    /* Set checkboxes */
+    #set-checkboxes {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      align-items: center;
+    }
+    .set-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      background: #21262d;
+      border: 1px solid #30363d;
+      border-radius: 12px;
+      padding: 0.2rem 0.6rem;
+      font-size: 0.8rem;
+      cursor: pointer;
+      user-select: none;
+      transition: border-color 0.15s;
+    }
+    .set-chip.active { border-color: var(--chip-color); }
+    .set-chip input { display: none; }
+    .color-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    /* ── Charts ── */
+    .chart-section {
+      margin-bottom: 2rem;
+    }
+    .chart-title {
+      color: #f0f6fc;
+      font-size: 1rem;
+      margin-bottom: 0.75rem;
+    }
+    .chart-wrap {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      padding: 1rem;
+      height: 320px;
+      position: relative;
+    }
+
+    /* ── Loading / error ── */
+    .status {
+      color: #8b949e;
+      font-size: 0.875rem;
+      padding: 2rem 0;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <nav><a href="/tcg-price-oracle-data/">&larr; Back</a></nav>
+    <h1>{{ .Title }}</h1>
+    <p class="subtitle">Time series of set-level market metrics. Each line is a set; each chart is a metric.</p>
+
+    <div id="loading" class="status">Loading data&hellip;</div>
+
+    <div id="app" style="display:none">
+      <!-- Filters -->
+      <div class="filters">
+        <div class="filter-row">
+          <span class="filter-label">Game</span>
+          <select id="game-filter"><option value="">All Games</option></select>
+          <button class="btn" id="select-all">Select All</button>
+          <button class="btn" id="clear-all">Clear All</button>
+        </div>
+        <div class="filter-row">
+          <span class="filter-label">Sets</span>
+          <input class="search-input" id="set-search" type="text" placeholder="filter sets…" autocomplete="off" />
+        </div>
+        <div class="filter-row">
+          <div id="set-checkboxes"></div>
+        </div>
+      </div>
+
+      <!-- Charts -->
+      <div class="chart-section">
+        <div class="chart-title">Expected Value (EV)</div>
+        <div class="chart-wrap"><canvas id="chart-ev"></canvas></div>
+      </div>
+      <div class="chart-section">
+        <div class="chart-title">Set Value</div>
+        <div class="chart-wrap"><canvas id="chart-set-value"></canvas></div>
+      </div>
+      <div class="chart-section">
+        <div class="chart-title">Top 5 Value</div>
+        <div class="chart-wrap"><canvas id="chart-top5-value"></canvas></div>
+      </div>
+      <div class="chart-section">
+        <div class="chart-title">Top 5 Ratio</div>
+        <div class="chart-wrap"><canvas id="chart-top5-ratio"></canvas></div>
+      </div>
+    </div>
+
+    <div id="error" class="status" style="display:none;color:#f78166"></div>
+  </div>
+
+  <script>
+    const BASE = "/tcg-price-oracle-data";
+
+    const METRICS = [
+      { key: "ev",          id: "chart-ev"         },
+      { key: "set_value",   id: "chart-set-value"  },
+      { key: "top_5_value", id: "chart-top5-value" },
+      { key: "top_5_ratio", id: "chart-top5-ratio" },
+    ];
+
+    const PALETTE = [
+      "#58a6ff","#3fb950","#f78166","#d2a8ff","#ffa657",
+      "#79c0ff","#56d364","#ff7b72","#bc8cff","#7ee787",
+      "#ffd700","#20c997","#fd7e14","#e83e8c","#6f42c1",
+    ];
+
+    const CHART_DEFAULTS = {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: "index", intersect: false },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: "#161b22",
+          borderColor: "#30363d",
+          borderWidth: 1,
+          titleColor: "#8b949e",
+          bodyColor: "#c9d1d9",
+        },
+      },
+      scales: {
+        x: { ticks: { color: "#8b949e", maxRotation: 45, font: { size: 11 } }, grid: { color: "#21262d" } },
+        y: { ticks: { color: "#8b949e", font: { size: 11 } }, grid: { color: "#21262d" } },
+      },
+    };
+
+    let grouped   = {};    // key -> { game, set_id, points: { month -> row } }
+    let allMonths = [];    // sorted unique months
+    let colorMap  = {};    // key -> color
+    let activeKeys = new Set();
+    let charts = {};
+
+    function fmtMonth(m) {
+      return new Date(m).toLocaleDateString("en-US", { month: "short", year: "numeric", timeZone: "UTC" });
+    }
+
+    function buildDatasets() {
+      return [...activeKeys].sort().map(k => ({
+        label: `${grouped[k].game} / ${grouped[k].set_id}`,
+        data: allMonths.map(m => grouped[k].points[m] ?? null),
+        borderColor: colorMap[k],
+        backgroundColor: colorMap[k] + "22",
+        borderWidth: 2,
+        pointRadius: 3,
+        spanGaps: true,
+        tension: 0.3,
+      }));
+    }
+
+    function updateCharts() {
+      METRICS.forEach(({ key }) => {
+        charts[key].data.datasets = [...activeKeys].sort().map(k => ({
+          label: `${grouped[k].game} / ${grouped[k].set_id}`,
+          data: allMonths.map(m => grouped[k].points[m]?.[key] ?? null),
+          borderColor: colorMap[k],
+          backgroundColor: colorMap[k] + "22",
+          borderWidth: 2,
+          pointRadius: 3,
+          spanGaps: true,
+          tension: 0.3,
+        }));
+        charts[key].update();
+      });
+    }
+
+    function applySearch() {
+      const q = document.getElementById("set-search").value.toLowerCase();
+      document.querySelectorAll(".set-chip").forEach(chip => {
+        chip.style.display = !q || chip.textContent.toLowerCase().includes(q) ? "" : "none";
+      });
+    }
+
+    function populateSetChips(gameFilter) {
+      const container = document.getElementById("set-checkboxes");
+      container.innerHTML = "";
+      Object.keys(grouped)
+        .filter(k => !gameFilter || grouped[k].game === gameFilter)
+        .sort()
+        .forEach(key => {
+          const color = colorMap[key];
+          const chip  = document.createElement("label");
+          chip.className = "set-chip" + (activeKeys.has(key) ? " active" : "");
+          chip.style.setProperty("--chip-color", color);
+
+          const cb  = document.createElement("input");
+          cb.type   = "checkbox";
+          cb.checked = activeKeys.has(key);
+          cb.addEventListener("change", () => {
+            if (cb.checked) { activeKeys.add(key); chip.classList.add("active"); }
+            else            { activeKeys.delete(key); chip.classList.remove("active"); }
+            updateCharts();
+          });
+
+          const dot = document.createElement("span");
+          dot.className = "color-dot";
+          dot.style.background = color;
+
+          chip.appendChild(cb);
+          chip.appendChild(dot);
+          chip.appendChild(document.createTextNode(`${grouped[key].game} / ${grouped[key].set_id}`));
+          container.appendChild(chip);
+        });
+      applySearch();
+    }
+
+    function initCharts() {
+      METRICS.forEach(({ key, id }) => {
+        const ctx = document.getElementById(id).getContext("2d");
+        charts[key] = new Chart(ctx, {
+          type: "line",
+          data: { labels: allMonths.map(fmtMonth), datasets: [] },
+          options: JSON.parse(JSON.stringify(CHART_DEFAULTS)),
+        });
+      });
+    }
+
+    // ── Boot ──
+    fetch(`${BASE}/data/set_market_history.json`)
+      .then(r => { if (!r.ok) throw new Error(r.statusText); return r.json(); })
+      .then(({ data }) => {
+        const monthSet = new Set();
+
+        data.forEach(row => {
+          const key = `${row.game}:${row.set_id}`;
+          if (!grouped[key]) grouped[key] = { game: row.game, set_id: row.set_id, points: {} };
+          grouped[key].points[row.month] = {
+            ev:          row.ev,
+            set_value:   row.set_value,
+            top_5_value: row.top_5_value,
+            top_5_ratio: row.top_5_ratio,
+          };
+          monthSet.add(row.month);
+        });
+
+        allMonths = [...monthSet].sort();
+
+        // Assign colors
+        Object.keys(grouped).sort().forEach((k, i) => {
+          colorMap[k] = PALETTE[i % PALETTE.length];
+        });
+
+        // Populate game dropdown
+        const games = [...new Set(Object.values(grouped).map(d => d.game))].sort();
+        const gameSelect = document.getElementById("game-filter");
+        games.forEach(g => {
+          const opt = document.createElement("option");
+          opt.value = g; opt.textContent = g;
+          gameSelect.appendChild(opt);
+        });
+
+        activeKeys = new Set(Object.keys(grouped));
+
+        populateSetChips("");
+        initCharts();
+        updateCharts();
+
+        document.getElementById("loading").style.display = "none";
+        document.getElementById("app").style.display     = "block";
+      })
+      .catch(err => {
+        document.getElementById("loading").style.display = "none";
+        const el = document.getElementById("error");
+        el.textContent = `Failed to load data: ${err.message}`;
+        el.style.display = "block";
+      });
+
+    // ── Filter events ──
+    document.getElementById("game-filter").addEventListener("change", e => {
+      const game = e.target.value;
+      activeKeys = new Set(Object.keys(grouped).filter(k => !game || grouped[k].game === game));
+      populateSetChips(game);
+      updateCharts();
+    });
+
+    document.getElementById("select-all").addEventListener("click", () => {
+      const game = document.getElementById("game-filter").value;
+      activeKeys = new Set(Object.keys(grouped).filter(k => !game || grouped[k].game === game));
+      populateSetChips(game);
+      updateCharts();
+    });
+
+    document.getElementById("clear-all").addEventListener("click", () => {
+      activeKeys = new Set();
+      populateSetChips(document.getElementById("game-filter").value);
+      updateCharts();
+    });
+
+    document.getElementById("set-search").addEventListener("input", applySearch);
+  </script>
+</body>
+</html>
