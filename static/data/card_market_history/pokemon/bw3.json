@@ -1,0 +1,2638 @@
+{
+  "last_updated": "2026-03-10T00:23:29.133880+00:00",
+  "record_count": 376,
+  "data": [
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 26.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 25.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 24.55,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 27.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 25.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 25.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 26.52,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 27.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 26.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 25.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 24.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 20.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 17.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 16.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 15.63,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 14.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 17.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 12.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 10.85,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 13.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 12.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 13.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 12.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 13.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 12.96,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 14.78,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 12.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 14.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 12.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 14.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 13.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 11.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 11.67,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 10.76,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 15.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 17.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 12.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 13.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 12.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 10.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 11.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 13.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 12.9,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 10.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 10.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 12.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 11.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 10.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 10.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 9.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 10.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 10.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 11.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 9.22,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 9.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 8.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_097",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 9.22,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 107.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 110.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 103.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 109.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 108.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 71.52,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 85.76,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 87.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 78.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 129.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 60.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 36.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 29.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 32.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 32.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 22.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 21.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 18.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 19.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 23.73,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 22.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 21.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 23.72,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 18.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 20.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 19.61,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 20.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 16.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 17.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 16.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 11.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 13.81,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 15.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 11.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 15.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 11.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 18.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 18.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 22.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 18.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 16.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 20.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 19.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 19.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 19.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 16.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 16.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 20.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 21.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 17.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 16.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 12.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 10.61,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 15.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 18.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 21.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 21.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 15.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_098",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 13.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 23.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 26.66,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 27.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 26.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 28.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 27.96,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 22.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 35.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 29.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 31.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 22.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 23.55,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 15.67,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 13.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 12.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 14.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 14.8,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 13.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 15.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 13.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 13.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 14.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 13.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 12.87,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 12.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 14.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 10.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 11.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 17.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 15.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 15.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 9.77,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 9.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 9.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 10.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 10.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 10.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 10.33,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 12.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 10.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 11.61,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 14.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 14.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 16.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 17.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 16.59,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 16.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 17.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 18.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 8.73,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 7.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 7.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 7.66,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 8.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 5.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 7.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 4.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_099",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 6.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 42.66,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 38.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 34.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 30.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 35.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 30.78,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 35.52,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 29.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 29.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 29.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 27.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 20.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 17.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 19.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 19.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 16.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 18.73,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 19.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 15.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 14.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 15.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 11.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 11.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 11.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 9.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 11.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 10.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 14.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 14.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 15.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 14.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 14.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 14.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 10.59,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 12.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 12.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 10.1,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 13.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 12.22,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 12.59,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 12.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 11.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 14.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 13.77,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 11.8,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 9.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 11.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 9.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 9.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 8.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 9.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 9.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 12.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 13.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 14.63,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 11.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_100",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 13.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 151.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 143.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 160.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 165.38,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 155.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 185.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 175.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 166.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 131.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 150.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 151.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 118.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 112.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 84.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 87.67,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 74.81,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 71.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 71.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 56.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 50.1,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 50.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 66.54,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 66.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 75.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 63.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 67.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 68.85,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 59.73,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 49.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 57.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 64.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 64.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 65.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 66.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 54.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 45.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 55.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 48.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 44.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 52.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 40.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 43.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 44.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 42.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 42.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 45.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 40.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 39.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 41.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 39.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 36.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 35.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 43.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 44.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 54.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 57.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 55.55,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 61.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 50.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 60.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 60.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 60.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_101",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 64.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 56.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 59.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 52.34,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 40.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 41.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 39.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 40.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 38.33,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 35.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 32.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 36.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 33.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 35.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 30.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 29.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 25.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 27.78,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 22.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 20.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 25.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 25.52,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 25.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 22.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 19.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 20.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 22.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 20.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 21.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 17.61,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 23.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 26.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 29.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 26.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 25.67,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 20.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 28.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 28.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 19.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 25.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 27.21,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 24.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 22.14,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 24.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 23.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 19.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 21.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 17.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 20.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 22.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 26.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 27.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 22.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 26.63,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 31.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 32.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 22.55,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 17.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 13.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_bw3_102",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    }
+  ]
+}

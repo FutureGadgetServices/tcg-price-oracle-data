@@ -1,0 +1,3275 @@
+{
+  "last_updated": "2026-03-10T00:23:29.133880+00:00",
+  "record_count": 467,
+  "data": [
+    {
+      "card_id": "riftbound_rb01_007a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 13.52,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_007a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 15.29,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_007a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 18.4,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_007a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 24.49,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_007a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 29.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_007a",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 30.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_027a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 15.15,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_027a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 15.66,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_027a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 16.22,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_027a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 22.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_027a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 25.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_030a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 6.03,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_030a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 6.01,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_030a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 7.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_030a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 9.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_030a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 9.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_037",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 31.56,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_037",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 24.95,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_037",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 11.77,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_037",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 9.89,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_037",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_037",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 7.53,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_038",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 9.39,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_038",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 8.46,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_038",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 8.35,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_038",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 9.46,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_038",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 12.73,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_038",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_039",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 86.9,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_039",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 89.25,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_039",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 73.13,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_039",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 101.53,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_039",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 69.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_039",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 48.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_039a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 101.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_039a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 97.49,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_039a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 91.13,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_039a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 109.89,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_039a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 82.74,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_040",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 26.66,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_040",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 26.24,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_040",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 19.96,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_040",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 23.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_040",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 28.48,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_040",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_041",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 3.09,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_041",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 2.9,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_041",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 5.66,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_041",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 5.1,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_041",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 7.93,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_041",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 19.98,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_041a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 5.54,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_041a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 5.35,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_041a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 6.39,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_041a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 9.58,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_041a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 14.82,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_042a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 11.77,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_042a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 14.58,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_042a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 16.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_042a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 21.97,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_042a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 19.06,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_066a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 6.6,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_066a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 5.58,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_066a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 6.65,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_066a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 8.66,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_066a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 8.96,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_076a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 4.1,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_076a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 4.22,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_076a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 6.51,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_076a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 7.97,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_076a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 8.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_078",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 1.96,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_078",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 1.96,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_078",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 3.7,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_078",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 4.03,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_078",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 5.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_078",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_078a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 5.58,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_078a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 5.95,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_078a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 4.13,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_078a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 6.45,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_078a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 9.49,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_079",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 3.18,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_079",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 3.2,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_079",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 3.73,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_079",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 5.23,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_079",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 8.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_079",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 11.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_079a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 9.73,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_079a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 8.63,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_079a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 8.77,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_079a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 11.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_079a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 17.31,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_080",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 4.77,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_080",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 4.06,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_080",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 9.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_080",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 11.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_080",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_080",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 3.94,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_081",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 24.14,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_081",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 20.3,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_081",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 13.66,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_081",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 17.29,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_081",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 18.16,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_081",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 9.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_082",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.24,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_082",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 16.24,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_082",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 25.02,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_082",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 51.74,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_082",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 59.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_082",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 33.71,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_089a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 13.12,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_089a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 15.89,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_089a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 23.02,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_089a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 27.62,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_089a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 25.82,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_089a",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 30.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_117a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 5.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_117a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 5.08,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_117a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 6.12,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_117a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 4.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_117a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 3.7,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_119",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 9.07,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_119",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 9.57,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_119",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 14.47,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_119",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 15.39,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_119",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 18.49,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_119",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 30.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_119a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 15.16,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_119a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 15.6,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_119a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 15.66,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_119a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 20.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_119a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 24.48,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_120",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 15.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_120",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 13.94,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_120",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 11.93,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_120",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 16.47,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_120",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 15.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_120",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_121",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 4.44,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_121",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 4.17,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_121",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 5.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_121",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 7.62,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_121",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 12.84,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_121",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 10.76,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_121a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 5.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_121a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 5.02,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_121a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 5.89,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_121a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 8.69,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_121a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 15.84,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_122",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 69.83,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_122",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 69.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_122",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 49.49,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_122",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 65.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_122",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 93.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_122",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 25.82,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_123",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 11.85,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_123",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 11.88,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_123",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 11.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_123",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 14.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_123",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 14.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_123",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 18.77,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_126a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 8.35,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_126a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 11.67,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_126a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 14.17,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_126a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 17.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_126a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 19.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_126a",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 30.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_151a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 3.64,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_151a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 3.79,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_151a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 4.64,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_151a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 7.09,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_151a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 8.1,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_158a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 4.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_158a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 4.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_158a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 4.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_158a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 6.52,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_158a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 6.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_160",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 46.24,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_160",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 40.57,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_160",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 38.91,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_160",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 70.56,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_160",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 66.52,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_160",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 47.34,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_161",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 40.78,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_161",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 42.59,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_161",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 56.55,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_161",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 100.96,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_161",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 88.85,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_161",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 29.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_162",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 8.11,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_162",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 8.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_162",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 9.12,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_162",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_162",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 14.77,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_162",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 11.12,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_162a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 16.72,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_162a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 17.07,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_162a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 18.16,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_162a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 20.44,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_162a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_163",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 12.09,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_163",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 12.61,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_163",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 10.09,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_163",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 13.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_163",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 16.49,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_163",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 0.72,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_164",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 37.96,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_164",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 36.47,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_164",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_164",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 19.04,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_164",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 26.59,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_164",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_164a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 44.39,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_164a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 39.55,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_164a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 26.55,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_164a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 25.39,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_164a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 35.07,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_166a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 18.2,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_166a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 21.72,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_166a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 24.85,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_166a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 22.92,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_166a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 16.81,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_193a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 4.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_193a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 4.61,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_193a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 3.76,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_193a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 5.15,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_193a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 7.05,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_197a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 10.57,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_197a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 9.76,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_197a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 9.61,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_197a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 11.55,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_197a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.22,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_201",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 26.29,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_201",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 21.1,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_201",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 27.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_201",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 34.55,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_201",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 38.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_202",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 5.73,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_202",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 5.57,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_202",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 6.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_202",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 5.63,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_202",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 6.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_202",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 28.77,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_202a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 6.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_202a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 5.98,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_202a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 5.77,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_202a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 6.02,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_202a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 6.31,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_203",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 4.33,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_203",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 4.67,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_203",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 5.7,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_203",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 9.4,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_203",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 8.29,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_203",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 8.25,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_204",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 62.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_204",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 66.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_204",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 33.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_204",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 16.37,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_204",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 18.05,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_204",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 2.9,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_205",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 3.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_205",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 3.31,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_205",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 3.52,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_205",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 6.58,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_205",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 6.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_205",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 1.08,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_205a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 6.63,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_205a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 6.54,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_205a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 4.39,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_205a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 9.86,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_205a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 9.81,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_214a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 15.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_214a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 13.17,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_214a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 17.98,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_214a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 18.29,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_214a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 18.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_214a",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 30.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_238a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 8.3,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_238a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 6.95,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_238a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 8.3,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_238a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 12.1,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_238a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 15.49,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_240a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 3.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_240a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 3.54,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_240a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 4.47,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_240a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 6.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_240a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 7.95,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_242",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 38.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_242",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 37.49,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_242",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 29.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_242",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 31.81,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_242",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 35.14,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_242",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 16.85,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_243",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 2.3,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_243",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 2.03,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_243",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 4.01,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_243",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 5.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_243",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 8.61,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_243",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 3.94,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_243a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 4.92,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_243a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 4.33,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_243a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 5.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_243a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 7.52,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_243a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 7.48,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_244",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 8.67,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_244",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 8.65,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_244",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 9.74,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_244",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 14.73,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_244",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_244",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 0.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_245",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 22.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_245",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 21.31,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_245",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 23.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_245",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 35.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_245",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 42.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_245",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 0.72,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_246",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 6.24,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_246",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 5.14,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_246",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 6.58,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_246",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 11.74,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_246",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_246",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 4.66,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_246a",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 7.45,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_246a",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 6.44,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_246a",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 8.35,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_246a",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 10.51,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_246a",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 15.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_248",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 13.84,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_248",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_248",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 20.91,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_248",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 36.05,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_248",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 57.17,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_248",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 29.41,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_250",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 5.18,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_250",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 5.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_250",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 5.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_250",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 7.05,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_250",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 10.66,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_250",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 48.77,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_252",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.36,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_252",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 13.65,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_252",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 15.38,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_252",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 16.33,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_252",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 22.52,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_252",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 7.53,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_254",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 2.75,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_254",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 2.47,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_254",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 2.76,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_254",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 3.98,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_254",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 4.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_254",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 13.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_256",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 7.19,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_256",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 7.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_256",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 10.51,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_256",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 16.47,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_256",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 17.68,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_256",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 2.33,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_258",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 3.95,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_258",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 3.83,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_258",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 7.18,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_258",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 6.67,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_258",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 9.81,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_258",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 18.77,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_260",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 4.97,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_260",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 4.74,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_260",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 6.42,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_260",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 8.01,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_260",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 9.07,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_260",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 0.72,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_262",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 17.7,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_262",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 17.85,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_262",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_262",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_262",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 30.16,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_262",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 0.72,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_264",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 6.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_264",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 6.85,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_264",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 9.66,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_264",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 13.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_264",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 19.85,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_264",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 7.17,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_266",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 5.63,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_266",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 5.98,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_266",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 9.05,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_266",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 11.19,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_266",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 15.57,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_266",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 1.61,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_268",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.73,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_268",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 15.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_268",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 15.87,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_268",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 21.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_268",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 24.97,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_268",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 11.12,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_270",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 19.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_270",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_270",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 31.26,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_270",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 43.68,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_270",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 70.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_270",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 38.77,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_299",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 2611.45,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_299",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 2410.87,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_299",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 2126.49,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_299",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 1883.41,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_299",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 1748.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_299",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 200.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_300",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 655.3,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_300",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 562.96,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_300",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 514.9,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_300",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 499.57,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_300",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 543.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_300",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 425.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_301",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 1014.1,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_301",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 977.53,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_301",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 849.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_301",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 659.98,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_301",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 619.62,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_302",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 628.27,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_302",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 582.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_302",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 524.98,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_302",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 529.37,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_302",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 509.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_303",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 2087.75,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_303",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 1810.52,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_303",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 1485.16,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_303",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 205.27,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_303",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 177.83,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_304",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 844.44,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_304",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 752.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_304",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 699.12,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_304",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 690.74,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_304",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 579.38,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_304",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 250.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_305",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 602.38,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_305",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 685.28,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_305",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 631.48,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_305",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 648.36,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_305",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 597.68,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_306",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 697.17,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_306",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 700.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_306",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 695.46,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_306",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 599.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_306",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 591.62,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_306",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 120.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_307",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 950.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_307",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 980.75,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_307",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 699.79,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_307",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 618.31,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_307",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 550.99,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_308",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 810.6,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_308",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 807.46,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_308",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 689.57,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_308",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 625.45,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_308",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 487.16,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_308",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 171.05,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_309",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 1092.48,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_309",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 999.76,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_309",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 868.35,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_309",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 788.69,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_309",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 682.67,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_309",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 204.4,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_310",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 814.04,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_310",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 800.43,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_310",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 727.02,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_310",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 724.79,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_310",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 623.5,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb01_310",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 219.46,
+      "volume": null
+    }
+  ]
+}

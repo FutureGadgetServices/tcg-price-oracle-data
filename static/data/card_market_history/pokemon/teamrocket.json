@@ -1,0 +1,6460 @@
+{
+  "last_updated": "2026-03-10T00:23:29.133880+00:00",
+  "record_count": 922,
+  "data": [
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 38.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 39.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 33.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 35.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 32.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 37.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 30.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 29.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 29.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 35.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 38.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 39.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 31.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 26.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 28.73,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 24.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 27.72,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 24.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 23.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 28.77,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 19.59,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 22.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 22.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 19.66,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 20.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 23.63,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 20.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 17.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 18.81,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 20.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 19.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 23.67,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 20.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 17.38,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 15.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 19.96,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 19.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 18.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 21.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 21.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 22.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 18.64,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 20.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 17.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 15.64,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 17.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 17.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 15.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 15.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 18.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 19.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 16.76,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 25.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 23.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 23.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 20.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_001",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 37.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 11.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 9.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 9.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 8.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 8.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 7.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 7.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 7.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 9.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 9.73,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 9.81,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 11.14,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 8.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 6.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 8.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 8.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 7.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 6.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 6.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 6.54,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 5.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 6.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 5.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 7.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 7.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 5.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 6.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 6.87,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 7.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 6.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 6.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 8.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 8.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 7.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 9.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 5.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 6.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 6.66,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 5.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 7.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 5.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 7.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 4.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 10.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 7.9,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 6.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 7.9,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 5.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 9.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 6.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 5.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 4.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 5.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 5.33,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 5.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 5.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 6.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 6.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 6.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 7.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 7.76,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 6.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_002",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 11.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 86.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 114.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 88.63,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 89.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 102.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 82.52,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 68.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 76.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 80.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 93.81,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 85.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 71.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 71.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 60.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 57.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 57.87,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 53.54,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 54.59,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 53.61,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 45.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 48.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 51.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 50.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 53.87,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 43.77,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 48.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 48.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 42.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 34.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 39.34,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 36.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 40.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 35.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 37.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 47.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 46.76,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 42.34,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 47.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 38.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 47.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 39.61,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 42.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 42.29,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 50.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 37.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 39.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 41.72,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 44.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 32.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 48.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 48.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 52.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 33.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 46.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 50.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 49.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 52.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 53.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 67.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 57.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 44.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 65.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 131.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_003",
+      "month": "2020-12-01",
+      "grade_id": "RAW",
+      "market_price": 83.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 162.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 147.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 149.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 172.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 160.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 150.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 125.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 141.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 121.71,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 122.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 130.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 118.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 113.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 107.66,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 121.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 106.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 80.77,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 99.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 93.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 79.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 105.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 91.96,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 88.59,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 97.14,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 81.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 76.1,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 73.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 91.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 69.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 70.73,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 70.33,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 72.54,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 75.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 69.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 66.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 78.96,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 78.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 71.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 101.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 82.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 63.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 85.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 67.85,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 88.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 78.77,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 75.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 70.55,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 69.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 73.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 91.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 98.87,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 84.34,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 89.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 87.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 102.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 83.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 140.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 94.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 117.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 120.72,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 125.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 134.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 143.38,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_004",
+      "month": "2020-12-01",
+      "grade_id": "RAW",
+      "market_price": 116.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 80.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 80.55,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 73.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 78.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 66.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 61.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 65.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 73.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 64.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 66.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 67.63,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 53.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 60.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 57.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 50.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 48.64,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 33.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 37.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 35.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 41.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 49.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 47.22,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 54.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 40.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 43.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 37.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 38.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 29.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 43.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 38.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 37.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 59.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_005",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 44.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 26.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 26.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 23.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 23.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 21.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 19.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 23.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 23.8,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 23.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 21.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 18.77,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 18.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 16.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 16.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 16.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 15.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 14.78,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 16.67,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 12.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 13.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 11.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 14.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 20.33,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 15.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 12.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 11.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 10.61,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 11.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 18.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 15.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 13.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 15.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 14.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 15.77,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 14.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 12.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 12.72,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 13.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 12.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 12.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 8.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 10.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 12.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 10.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 12.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 13.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 12.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 12.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 15.34,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 14.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 12.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 10.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 16.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_006",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 15.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 20.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 23.1,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 19.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 16.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 15.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 17.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 18.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 22.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 17.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 17.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 17.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 19.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 13.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 15.52,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 15.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 14.55,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 13.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 13.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 13.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 13.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 14.33,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 15.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 12.82,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 15.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 11.72,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 12.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 12.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 12.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 11.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 9.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 12.61,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 12.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 14.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 13.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 12.38,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 9.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 12.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 10.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 12.14,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 13.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 9.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 11.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 14.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 12.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 10.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 9.22,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 9.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 11.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 10.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 8.38,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 12.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 11.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 12.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 8.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 12.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 12.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_007",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 12.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 26.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 24.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 29.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 35.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 25.81,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 20.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 18.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 27.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 31.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 22.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 24.66,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 21.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 21.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 18.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 17.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 18.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 14.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 16.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 14.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 13.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 18.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 15.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 16.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 13.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 11.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 14.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 13.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 14.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 10.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 10.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 14.71,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 14.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 14.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 9.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 12.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 14.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 12.63,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 16.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 12.71,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 14.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 12.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 11.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 13.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 15.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 8.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 12.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 12.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 12.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 12.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 13.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 16.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 12.96,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 19.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 17.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 20.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 17.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 19.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 14.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 21.29,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_008",
+      "month": "2020-12-01",
+      "grade_id": "RAW",
+      "market_price": 10.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 23.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 23.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 24.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 23.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 20.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 17.81,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 22.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 20.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 20.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 25.82,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 22.8,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 22.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 20.64,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 20.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 15.38,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 13.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 16.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 15.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 13.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 14.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 15.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 15.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 15.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 15.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 16.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 11.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 8.54,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 12.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 13.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 13.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 13.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 10.18,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 12.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 12.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 11.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 13.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 10.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 12.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.34,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 10.85,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 16.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 12.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 16.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 10.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 11.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 11.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 12.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 10.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 10.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 11.67,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 8.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 13.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 14.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 13.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 11.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 16.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 17.61,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_009",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 19.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 39.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 35.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 35.21,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 31.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 29.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 29.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 26.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 29.64,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 34.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 28.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 37.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 29.55,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 23.85,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 22.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 20.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 18.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 17.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 20.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 22.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 20.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 16.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 24.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 19.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 19.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 16.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 17.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 17.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 19.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 19.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 17.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 16.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 18.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 22.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 21.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 14.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 15.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 15.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 18.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 18.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 19.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 16.34,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 29.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 24.67,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 12.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 18.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 14.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 16.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 12.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 19.54,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 19.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 15.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 16.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 18.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 16.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 16.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 19.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 27.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 42.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_010",
+      "month": "2020-12-01",
+      "grade_id": "RAW",
+      "market_price": 13.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 23.81,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 19.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 23.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 23.78,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 25.61,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 22.14,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 18.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 19.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 22.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 17.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 22.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 22.21,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 22.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 17.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 15.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 16.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 17.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 16.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 13.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 13.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 15.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 14.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 15.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 11.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 12.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 14.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 9.18,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 10.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 12.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 16.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 17.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 14.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 16.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 14.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 14.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 12.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 13.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 12.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 12.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 17.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 14.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 12.8,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 17.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 10.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 9.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 8.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 11.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 11.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 11.87,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 14.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 12.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 14.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 15.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 16.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 14.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 11.21,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 28.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_011",
+      "month": "2020-12-01",
+      "grade_id": "RAW",
+      "market_price": 41.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 36.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 34.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 24.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 24.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 23.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 27.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 23.34,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 22.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 23.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 34.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 26.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 22.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 22.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 20.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 21.29,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 19.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 17.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 16.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 16.8,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 18.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 12.21,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 14.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 14.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 16.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 13.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 13.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 15.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 15.38,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 10.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 13.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 18.22,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 12.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 9.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 18.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 15.77,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 12.29,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 13.18,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 13.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 16.76,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 17.33,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 16.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 20.71,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 13.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.52,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 11.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 14.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 18.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 14.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 12.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 18.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 14.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 12.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 18.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 16.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 13.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 13.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_012",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 31.73,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 25.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 22.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 21.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 22.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 21.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 16.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 19.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 18.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 20.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 15.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 17.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 21.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 17.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 17.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 13.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 14.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 15.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 11.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 14.82,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 12.14,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 11.9,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 14.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 11.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 16.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 9.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 12.14,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 14.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 11.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 11.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 10.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 14.63,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 12.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 9.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 16.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 13.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 10.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 11.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 12.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 10.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 10.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 12.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 15.21,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 13.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 15.64,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 12.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 10.73,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 10.61,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 10.76,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 13.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 9.67,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 14.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 14.72,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 15.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 12.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 12.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 14.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_013",
+      "month": "2020-12-01",
+      "grade_id": "RAW",
+      "market_price": 5.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 6.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 7.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 6.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 5.87,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 6.34,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 7.81,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 4.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 7.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 5.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 7.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 6.85,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 5.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 5.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 7.54,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 6.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 5.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 5.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 5.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 4.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 5.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 5.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 5.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 5.66,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 4.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 6.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 3.64,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 5.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 4.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 4.9,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 4.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 3.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 5.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 7.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 5.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 5.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 6.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 6.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 4.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 6.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 5.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 4.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 5.82,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 4.18,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 3.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 3.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 4.77,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 7.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 5.67,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 4.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 2.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 4.59,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 5.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 6.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 3.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 3.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 6.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 4.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 2.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 7.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 6.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 4.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_014",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 21.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 60.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 66.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 51.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 59.63,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 58.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 51.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 52.72,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 54.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 55.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 64.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 58.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 50.1,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 53.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 39.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 40.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 38.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 32.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 33.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 34.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 29.76,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 27.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 28.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 30.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 33.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 28.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 26.22,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 32.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 28.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 28.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 31.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 27.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 28.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 26.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 26.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 25.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 30.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 25.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 30.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 32.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 30.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 28.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 23.72,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 32.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 31.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 36.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 24.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 31.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 25.78,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 36.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 30.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 31.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 31.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 31.1,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 24.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 35.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 34.38,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 33.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 28.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 40.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 42.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 37.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 41.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2021-01-01",
+      "grade_id": "RAW",
+      "market_price": 50.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_teamrocket_083",
+      "month": "2020-12-01",
+      "grade_id": "RAW",
+      "market_price": 167.5,
+      "volume": null
+    }
+  ]
+}

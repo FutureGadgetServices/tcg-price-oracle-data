@@ -1,0 +1,5011 @@
+{
+  "last_updated": "2026-03-10T00:23:29.133880+00:00",
+  "record_count": 715,
+  "data": [
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 22.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 22.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 19.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 19.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 19.9,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 19.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 18.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 16.67,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 16.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 16.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 16.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 19.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 15.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 15.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 7.85,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 9.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 20.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 20.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 20.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 20.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 20.64,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 20.73,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 21.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 21.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 21.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 21.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 24.76,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 25.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 17.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 17.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 17.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 17.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 17.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 17.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 17.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 17.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 14.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 14.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 14.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 14.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 14.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 14.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 14.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 14.18,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 14.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 14.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 14.96,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 7.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 7.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 9.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 8.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 9.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 8.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_141",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 9.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 30.87,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 30.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 28.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 31.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 28.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 29.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 28.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 27.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 29.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 30.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 27.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 20.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 16.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 17.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 15.9,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 17.33,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 16.38,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 25.59,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 24.29,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 20.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 18.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 17.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 21.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 21.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 17.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 13.85,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 13.85,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 14.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 14.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 14.14,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 14.55,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 13.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 15.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 17.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 19.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 24.14,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 24.14,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 24.14,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 26.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 25.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 25.81,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 25.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 30.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 30.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 28.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 26.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 17.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 17.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 17.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 19.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 15.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 14.55,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 19.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 19.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 19.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 25.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 23.82,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 14.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 13.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 16.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 9.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_142",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 1.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 129.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 129.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 129.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 127.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 95.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 76.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 56.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 55.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 55.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 55.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 55.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 55.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 39.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 55.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 38.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 37.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 37.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 34.14,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 36.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 37.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 52.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 52.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 59.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 59.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 58.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 61.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 74.8,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 66.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 65.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 37.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 57.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 57.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 70.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 66.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 80.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 58.73,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 65.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 54.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 56.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 61.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 84.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 102.82,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 83.96,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 78.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 122.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 111.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 104.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 121.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 81.33,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 88.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 86.38,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 79.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 52.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 53.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 75.82,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 37.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 48.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 58.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 45.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 60.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 90.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_143",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 209.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 28.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 32.34,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 35.18,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 24.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 23.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 19.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 19.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 18.85,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 18.81,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 19.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 15.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 12.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 12.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 12.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 7.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 7.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 9.9,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 14.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 14.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 9.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 9.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 9.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 9.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 9.59,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 9.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 11.64,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 10.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 10.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 11.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 8.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 12.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 13.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 13.33,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 13.54,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 11.64,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 11.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 11.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 11.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 11.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 11.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 11.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 11.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.54,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 13.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 11.18,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 12.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 26.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 26.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 12.29,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 8.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_144",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 10.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 97.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 81.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 106.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 116.18,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 113.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 71.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 81.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 25.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 28.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 37.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 34.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 36.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 29.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 35.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 41.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 41.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 42.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 41.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 38.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 31.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 22.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 22.14,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 25.1,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 24.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 25.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 34.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 34.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 34.33,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 35.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 35.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 31.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 30.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 32.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 32.54,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 24.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 24.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 24.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 34.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 28.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 32.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 25.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 29.21,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 25.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 28.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 31.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 24.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 31.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 28.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_146",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 41.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 24.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 24.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 20.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 20.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 20.1,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 20.29,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 15.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 20.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 17.52,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 18.8,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 16.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 13.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 14.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.66,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 11.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 10.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 10.18,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 11.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 14.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 14.1,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 13.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 14.52,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 12.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 12.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 10.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 13.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 13.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 15.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 13.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 13.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 13.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 13.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 12.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 12.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 12.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 12.52,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 12.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 12.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 10.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 9.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 10.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 15.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 8.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 8.1,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 8.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 8.87,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 11.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 8.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 9.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 13.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 13.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 8.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 17.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_147",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 5.96,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 124.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 110.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 90.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 135.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 104.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 104.67,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 119.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 82.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 83.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 75.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 77.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 83.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 77.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 76.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 68.21,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 55.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 55.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 61.63,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 44.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 68.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 67.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 71.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 65.22,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 55.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 46.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 47.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 43.81,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 52.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 50.54,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 57.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 35.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 43.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 49.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 49.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 54.72,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 51.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 50.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 37.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 40.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 50.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 56.66,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 60.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 51.71,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 53.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 56.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 46.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 53.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 41.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 42.38,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 47.66,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 54.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 35.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 43.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 54.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 52.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 42.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 58.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 37.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 36.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 35.29,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 48.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_148",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 69.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 147.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 133.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 133.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 136.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 103.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 108.34,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 100.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 85.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 96.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 85.85,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 90.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 78.21,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 64.9,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 53.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 55.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 53.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 60.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 69.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 50.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 54.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 59.59,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 42.9,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 51.29,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 50.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 53.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 61.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 55.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 46.61,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 48.81,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 48.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 46.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 56.59,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 50.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 59.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 45.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 53.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 49.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 45.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 50.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 49.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 46.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 58.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 40.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 39.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 45.67,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 47.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 33.35,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 50.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 54.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 56.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 55.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 33.82,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 43.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 43.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 36.72,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 40.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 37.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 34.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 36.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 31.8,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 48.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_149",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 29.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 92.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 91.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 98.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 104.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 122.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 115.72,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 97.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 127.8,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 106.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 89.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 70.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 86.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 59.33,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 53.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 56.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 57.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 57.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 48.73,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 48.73,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 52.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 48.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 48.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 47.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 49.33,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 48.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 55.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 56.55,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 47.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 53.32,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 66.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 48.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 42.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 40.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 39.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 47.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 54.72,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 52.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 49.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 39.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 35.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 39.96,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 40.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 41.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 42.87,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 47.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 40.52,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 34.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 32.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 30.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 66.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 46.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 46.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 36.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 45.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 41.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 45.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 46.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2021-06-01",
+      "grade_id": "RAW",
+      "market_price": 38.29,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 62.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2021-04-01",
+      "grade_id": "RAW",
+      "market_price": 45.06,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 40.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_150",
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 74.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 105.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 105.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 107.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 119.18,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 118.71,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 80.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 90.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 79.8,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 66.05,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 75.61,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 80.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 75.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 59.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 50.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 50.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 48.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 48.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 45.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 45.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 49.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 46.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 45.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 63.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 56.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 56.63,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 54.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 54.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 50.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 47.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 47.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 39.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 35.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 66.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 71.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 67.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 56.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 57.21,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 55.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 48.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 47.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 45.79,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 50.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 56.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 48.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 52.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 55.03,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 50.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 47.93,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 41.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 41.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 48.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 39.87,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 40.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 36.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH7",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 38.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 34.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 34.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 36.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 39.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 30.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 30.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 32.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 29.18,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 29.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 27.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 24.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 27.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 29.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 29.53,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 17.64,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 17.74,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 16.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 19.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 20.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 18.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 18.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 21.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 18.76,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 18.77,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 15.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 18.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 20.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 20.77,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 20.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 20.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 22.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 23.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 26.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 22.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 22.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 22.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 15.82,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 21.78,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 23.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 20.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 23.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 21.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 26.56,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 28.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 30.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 30.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 33.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 33.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 30.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 35.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH8",
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 37.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 53.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 45.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 39.82,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 28.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 35.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 38.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2025-09-01",
+      "grade_id": "RAW",
+      "market_price": 34.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 25.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 20.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 20.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2025-04-01",
+      "grade_id": "RAW",
+      "market_price": 26.96,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 23.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 26.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2024-12-01",
+      "grade_id": "RAW",
+      "market_price": 16.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 18.52,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2024-10-01",
+      "grade_id": "RAW",
+      "market_price": 18.8,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 17.62,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 18.29,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2024-06-01",
+      "grade_id": "RAW",
+      "market_price": 17.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2024-05-01",
+      "grade_id": "RAW",
+      "market_price": 19.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 19.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 19.18,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2024-02-01",
+      "grade_id": "RAW",
+      "market_price": 18.84,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 18.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 18.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2023-11-01",
+      "grade_id": "RAW",
+      "market_price": 20.29,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 25.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2023-09-01",
+      "grade_id": "RAW",
+      "market_price": 25.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2023-08-01",
+      "grade_id": "RAW",
+      "market_price": 24.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 24.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 25.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 29.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 29.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 18.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 18.22,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 18.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 18.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 18.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 19.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2022-09-01",
+      "grade_id": "RAW",
+      "market_price": 16.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2022-08-01",
+      "grade_id": "RAW",
+      "market_price": 16.83,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 16.59,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 19.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 19.4,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 18.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 26.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_pl3_SH9",
+      "month": "2022-02-01",
+      "grade_id": "RAW",
+      "market_price": 21.0,
+      "volume": null
+    }
+  ]
+}
