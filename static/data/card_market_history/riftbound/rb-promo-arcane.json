@@ -1,0 +1,48 @@
+{
+  "last_updated": "2026-03-17T17:55:25.034100+00:00",
+  "record_count": 6,
+  "data": [
+    {
+      "card_id": "riftbound_rb-promo-arcane_P001",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 0.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb-promo-arcane_P002",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 0.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb-promo-arcane_P003",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 0.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb-promo-arcane_P004",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 0.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb-promo-arcane_P005",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 0.0,
+      "volume": null
+    },
+    {
+      "card_id": "riftbound_rb-promo-arcane_P006",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 0.0,
+      "volume": null
+    }
+  ]
+}

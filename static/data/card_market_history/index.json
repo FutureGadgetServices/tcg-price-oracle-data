@@ -1,0 +1,486 @@
+{
+  "last_updated": "2026-03-17T17:55:25.034100+00:00",
+  "record_count": 120,
+  "data": [
+    {
+      "game": "pokemon",
+      "set_id": "base1u"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "base2"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "bw1"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "bw10"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "bw11"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "bw2"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "bw3"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "bw4"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "bw5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "bw6"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "bw7"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "bw8"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "bw9"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "col1"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "dp1"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "dp2"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "dp3"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "dp4"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "dp5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "dp6"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "dp7"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ecard1"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ecard2"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ecard3"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex1"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex10"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex11"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex12"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex13"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex14"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex15"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex16"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex2"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex3"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex4"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex6"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex7"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex8"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "ex9"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "fossil"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "hgss1"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "hgss2"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "hgss3"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "hgss4"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "jungle"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "me01"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "me02"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "me2.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "neo1"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "neo2"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "neo3"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "neo4"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "pl1"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "pl2"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "pl3"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "pl4"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm01"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm02"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm03"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm04"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm05"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm06"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm07"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm08"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm09"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm10"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm11"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm11.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm12"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm3.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm7.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sm9.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv01"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv02"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv03"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv04"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv05"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv06"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv07"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv08"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv09"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv10"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv3.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv4.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv6.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "sv8.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "svbb"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "svwf"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh01"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh02"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh03"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh04"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh05"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh06"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh07"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh08"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh09"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh10"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh10.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh11"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh12"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh12.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh3.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh4.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "swsh7.5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "teamrocket"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "xy1"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "xy2"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "xy3"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "xy4"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "xy5"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "xy6"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "xy7"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "xy8"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "xy9"
+    },
+    {
+      "game": "pokemon",
+      "set_id": "xy9.5"
+    },
+    {
+      "game": "riftbound",
+      "set_id": "rb-promo-arcane"
+    },
+    {
+      "game": "riftbound",
+      "set_id": "rb01"
+    },
+    {
+      "game": "riftbound",
+      "set_id": "rb02"
+    }
+  ]
+}
