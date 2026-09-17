@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T17:21:05.740393+00:00",
+  "last_updated": "2026-09-17T19:58:02.304788+00:00",
   "record_count": 2648,
   "data": [
     {
@@ -7523,20 +7523,6 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2026-03-01",
-      "grade_id": "BGS_10_BL",
-      "market_price": 170.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2026-03-01",
-      "grade_id": "CGC_10_PRISTINE",
-      "market_price": 30.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2026-03-01",
       "grade_id": "PSA_10",
       "market_price": 23.56,
       "volume": null
@@ -7551,15 +7537,22 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2026-03-01",
-      "grade_id": "TAG_10",
-      "market_price": 14.0,
+      "grade_id": "CGC_10_PRISTINE",
+      "market_price": 30.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2026-02-01",
-      "grade_id": "PSA_10",
-      "market_price": 22.07,
+      "month": "2026-03-01",
+      "grade_id": "BGS_10_BL",
+      "market_price": 170.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2026-03-01",
+      "grade_id": "TAG_10",
+      "market_price": 14.0,
       "volume": null
     },
     {
@@ -7572,6 +7565,13 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2026-02-01",
+      "grade_id": "PSA_10",
+      "market_price": 22.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2026-02-01",
       "grade_id": "GRADE_9",
       "market_price": 11.0,
       "volume": null
@@ -7579,8 +7579,8 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2026-01-01",
-      "grade_id": "RAW",
-      "market_price": 2.0,
+      "grade_id": "PSA_10",
+      "market_price": 20.24,
       "volume": null
     },
     {
@@ -7593,15 +7593,8 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2026-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 20.24,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2025-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 23.37,
+      "grade_id": "RAW",
+      "market_price": 2.0,
       "volume": null
     },
     {
@@ -7620,6 +7613,20 @@
     },
     {
       "card_id": "pokemon_swsh3.5_73",
+      "month": "2025-12-01",
+      "grade_id": "PSA_10",
+      "market_price": 23.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 2.22,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
       "month": "2025-11-01",
       "grade_id": "GRADE_9",
       "market_price": 10.0,
@@ -7634,23 +7641,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2025-11-01",
-      "grade_id": "RAW",
-      "market_price": 2.22,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
       "month": "2025-10-01",
       "grade_id": "RAW",
       "market_price": 2.37,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2025-10-01",
-      "grade_id": "PSA_10",
-      "market_price": 26.21,
       "volume": null
     },
     {
@@ -7662,9 +7655,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2025-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 8.68,
+      "month": "2025-10-01",
+      "grade_id": "PSA_10",
+      "market_price": 26.21,
       "volume": null
     },
     {
@@ -7677,6 +7670,13 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2025-09-01",
+      "grade_id": "GRADE_9",
+      "market_price": 8.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2025-09-01",
       "grade_id": "RAW",
       "market_price": 2.32,
       "volume": null
@@ -7684,8 +7684,8 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2025-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 25.13,
+      "grade_id": "RAW",
+      "market_price": 1.77,
       "volume": null
     },
     {
@@ -7698,8 +7698,15 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2025-08-01",
-      "grade_id": "RAW",
-      "market_price": 1.77,
+      "grade_id": "PSA_10",
+      "market_price": 25.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2025-07-01",
+      "grade_id": "GRADE_9",
+      "market_price": 9.86,
       "volume": null
     },
     {
@@ -7714,13 +7721,6 @@
       "month": "2025-07-01",
       "grade_id": "RAW",
       "market_price": 3.27,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2025-07-01",
-      "grade_id": "GRADE_9",
-      "market_price": 9.86,
       "volume": null
     },
     {
@@ -7789,6 +7789,13 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 2.08,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2025-03-01",
       "grade_id": "PSA_10",
       "market_price": 24.99,
       "volume": null
@@ -7802,9 +7809,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2025-03-01",
+      "month": "2025-02-01",
       "grade_id": "RAW",
-      "market_price": 2.08,
+      "market_price": 2.25,
       "volume": null
     },
     {
@@ -7812,13 +7819,6 @@
       "month": "2025-02-01",
       "grade_id": "PSA_10",
       "market_price": 25.09,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2025-02-01",
-      "grade_id": "RAW",
-      "market_price": 2.25,
       "volume": null
     },
     {
@@ -7852,15 +7852,15 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2024-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 17.39,
+      "grade_id": "GRADE_9",
+      "market_price": 12.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2024-12-01",
-      "grade_id": "GRADE_9",
-      "market_price": 12.0,
+      "grade_id": "PSA_10",
+      "market_price": 17.39,
       "volume": null
     },
     {
@@ -7901,15 +7901,15 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2024-10-01",
-      "grade_id": "RAW",
-      "market_price": 1.98,
+      "grade_id": "PSA_10",
+      "market_price": 18.61,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2024-10-01",
-      "grade_id": "PSA_10",
-      "market_price": 18.61,
+      "grade_id": "RAW",
+      "market_price": 1.98,
       "volume": null
     },
     {
@@ -7936,8 +7936,8 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2024-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 22.48,
+      "grade_id": "RAW",
+      "market_price": 2.61,
       "volume": null
     },
     {
@@ -7950,8 +7950,8 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2024-08-01",
-      "grade_id": "RAW",
-      "market_price": 2.61,
+      "grade_id": "PSA_10",
+      "market_price": 22.48,
       "volume": null
     },
     {
@@ -7978,13 +7978,6 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2024-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 8.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2024-06-01",
       "grade_id": "RAW",
       "market_price": 1.0,
       "volume": null
@@ -7992,15 +7985,15 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2024-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 20.17,
+      "grade_id": "GRADE_9",
+      "market_price": 8.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2024-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 8.0,
+      "month": "2024-06-01",
+      "grade_id": "PSA_10",
+      "market_price": 20.17,
       "volume": null
     },
     {
@@ -8019,9 +8012,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2024-04-01",
-      "grade_id": "PSA_10",
-      "market_price": 16.88,
+      "month": "2024-05-01",
+      "grade_id": "GRADE_9",
+      "market_price": 8.0,
       "volume": null
     },
     {
@@ -8034,22 +8027,22 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2024-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 8.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2024-03-01",
-      "grade_id": "GRADE_9",
-      "market_price": 8.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2024-03-01",
       "grade_id": "PSA_10",
-      "market_price": 18.47,
+      "market_price": 16.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2024-04-01",
+      "grade_id": "GRADE_9",
+      "market_price": 8.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2024-03-01",
+      "grade_id": "GRADE_9",
+      "market_price": 8.0,
       "volume": null
     },
     {
@@ -8057,6 +8050,13 @@
       "month": "2024-03-01",
       "grade_id": "RAW",
       "market_price": 1.45,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2024-03-01",
+      "grade_id": "PSA_10",
+      "market_price": 18.47,
       "volume": null
     },
     {
@@ -8083,15 +8083,15 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2024-01-01",
-      "grade_id": "RAW",
-      "market_price": 1.77,
+      "grade_id": "PSA_10",
+      "market_price": 19.22,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2024-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 19.22,
+      "grade_id": "RAW",
+      "market_price": 1.77,
       "volume": null
     },
     {
@@ -8111,22 +8111,15 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2023-12-01",
-      "grade_id": "GRADE_9",
-      "market_price": 9.59,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2023-12-01",
       "grade_id": "RAW",
       "market_price": 1.59,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2023-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 17.86,
+      "month": "2023-12-01",
+      "grade_id": "GRADE_9",
+      "market_price": 9.59,
       "volume": null
     },
     {
@@ -8134,6 +8127,13 @@
       "month": "2023-11-01",
       "grade_id": "RAW",
       "market_price": 2.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2023-11-01",
+      "grade_id": "PSA_10",
+      "market_price": 17.86,
       "volume": null
     },
     {
@@ -8188,15 +8188,15 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2023-08-01",
-      "grade_id": "RAW",
-      "market_price": 1.99,
+      "grade_id": "PSA_10",
+      "market_price": 17.92,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2023-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 17.92,
+      "grade_id": "RAW",
+      "market_price": 1.99,
       "volume": null
     },
     {
@@ -8216,15 +8216,22 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2023-07-01",
+      "grade_id": "PSA_10",
+      "market_price": 19.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2023-07-01",
       "grade_id": "GRADE_9",
       "market_price": 10.55,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2023-07-01",
-      "grade_id": "PSA_10",
-      "market_price": 19.5,
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 1.8,
       "volume": null
     },
     {
@@ -8243,16 +8250,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2023-06-01",
-      "grade_id": "RAW",
-      "market_price": 1.8,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
       "month": "2023-05-01",
-      "grade_id": "RAW",
-      "market_price": 2.24,
+      "grade_id": "PSA_10",
+      "market_price": 18.93,
       "volume": null
     },
     {
@@ -8265,15 +8265,8 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2023-05-01",
-      "grade_id": "PSA_10",
-      "market_price": 18.93,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2023-04-01",
       "grade_id": "RAW",
-      "market_price": 2.09,
+      "market_price": 2.24,
       "volume": null
     },
     {
@@ -8286,6 +8279,13 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 2.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2023-04-01",
       "grade_id": "GRADE_9",
       "market_price": 10.76,
       "volume": null
@@ -8293,15 +8293,15 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2023-03-01",
-      "grade_id": "RAW",
-      "market_price": 2.26,
+      "grade_id": "PSA_10",
+      "market_price": 18.51,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2023-03-01",
-      "grade_id": "PSA_10",
-      "market_price": 18.51,
+      "grade_id": "RAW",
+      "market_price": 2.26,
       "volume": null
     },
     {
@@ -8335,6 +8335,13 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2023-01-01",
+      "grade_id": "PSA_10",
+      "market_price": 19.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2023-01-01",
       "grade_id": "GRADE_9",
       "market_price": 13.23,
       "volume": null
@@ -8348,9 +8355,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2023-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 19.88,
+      "month": "2022-12-01",
+      "grade_id": "GRADE_9",
+      "market_price": 13.53,
       "volume": null
     },
     {
@@ -8358,13 +8365,6 @@
       "month": "2022-12-01",
       "grade_id": "PSA_10",
       "market_price": 20.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2022-12-01",
-      "grade_id": "GRADE_9",
-      "market_price": 13.53,
       "volume": null
     },
     {
@@ -8419,6 +8419,13 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2022-09-01",
+      "grade_id": "PSA_10",
+      "market_price": 17.85,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2022-09-01",
       "grade_id": "RAW",
       "market_price": 1.92,
       "volume": null
@@ -8432,9 +8439,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2022-09-01",
+      "month": "2022-08-01",
       "grade_id": "PSA_10",
-      "market_price": 17.85,
+      "market_price": 19.43,
       "volume": null
     },
     {
@@ -8442,13 +8449,6 @@
       "month": "2022-08-01",
       "grade_id": "GRADE_9",
       "market_price": 12.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2022-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 19.43,
       "volume": null
     },
     {
@@ -8482,13 +8482,6 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2022-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 13.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2022-06-01",
       "grade_id": "PSA_10",
       "market_price": 18.99,
       "volume": null
@@ -8502,9 +8495,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2022-05-01",
-      "grade_id": "PSA_10",
-      "market_price": 21.51,
+      "month": "2022-06-01",
+      "grade_id": "GRADE_9",
+      "market_price": 13.0,
       "volume": null
     },
     {
@@ -8523,9 +8516,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2022-04-01",
+      "month": "2022-05-01",
       "grade_id": "PSA_10",
-      "market_price": 21.1,
+      "market_price": 21.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2022-04-01",
+      "grade_id": "RAW",
+      "market_price": 2.12,
       "volume": null
     },
     {
@@ -8538,15 +8538,8 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2022-04-01",
-      "grade_id": "RAW",
-      "market_price": 2.12,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_73",
-      "month": "2022-03-01",
       "grade_id": "PSA_10",
-      "market_price": 19.91,
+      "market_price": 21.1,
       "volume": null
     },
     {
@@ -8565,9 +8558,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2022-02-01",
+      "month": "2022-03-01",
       "grade_id": "PSA_10",
-      "market_price": 22.86,
+      "market_price": 19.91,
       "volume": null
     },
     {
@@ -8580,15 +8573,15 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2022-02-01",
-      "grade_id": "GRADE_9",
-      "market_price": 18.0,
+      "grade_id": "PSA_10",
+      "market_price": 22.86,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2022-01-01",
-      "grade_id": "RAW",
-      "market_price": 1.88,
+      "month": "2022-02-01",
+      "grade_id": "GRADE_9",
+      "market_price": 18.0,
       "volume": null
     },
     {
@@ -8607,9 +8600,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_73",
-      "month": "2021-12-01",
+      "month": "2022-01-01",
       "grade_id": "RAW",
-      "market_price": 2.09,
+      "market_price": 1.88,
       "volume": null
     },
     {
@@ -8624,6 +8617,13 @@
       "month": "2021-12-01",
       "grade_id": "GRADE_9",
       "market_price": 15.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_73",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 2.09,
       "volume": null
     },
     {
@@ -8650,8 +8650,8 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2021-10-01",
-      "grade_id": "RAW",
-      "market_price": 2.55,
+      "grade_id": "PSA_10",
+      "market_price": 38.6,
       "volume": null
     },
     {
@@ -8664,8 +8664,8 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2021-10-01",
-      "grade_id": "PSA_10",
-      "market_price": 38.6,
+      "grade_id": "RAW",
+      "market_price": 2.55,
       "volume": null
     },
     {
@@ -8678,15 +8678,15 @@
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2021-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 22.5,
+      "grade_id": "RAW",
+      "market_price": 2.86,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_73",
       "month": "2021-09-01",
-      "grade_id": "RAW",
-      "market_price": 2.86,
+      "grade_id": "GRADE_9",
+      "market_price": 22.5,
       "volume": null
     },
     {
@@ -8748,48 +8748,6 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2026-03-01",
-      "grade_id": "BGS_10_BL",
-      "market_price": 2262.82,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2026-03-01",
-      "grade_id": "BGS_10",
-      "market_price": 399.43,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2026-03-01",
-      "grade_id": "PSA_10",
-      "market_price": 300.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2026-03-01",
-      "grade_id": "RAW",
-      "market_price": 159.48,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2026-03-01",
-      "grade_id": "CGC_10",
-      "market_price": 204.25,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2026-03-01",
-      "grade_id": "TAG_10",
-      "market_price": 300.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2026-03-01",
       "grade_id": "GRADE_9",
       "market_price": 150.0,
       "volume": null
@@ -8804,8 +8762,57 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2026-03-01",
+      "grade_id": "PSA_10",
+      "market_price": 300.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2026-03-01",
+      "grade_id": "BGS_10",
+      "market_price": 399.43,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 159.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2026-03-01",
+      "grade_id": "TAG_10",
+      "market_price": 300.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2026-03-01",
+      "grade_id": "CGC_10",
+      "market_price": 204.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2026-03-01",
       "grade_id": "ACE_10",
       "market_price": 230.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2026-03-01",
+      "grade_id": "BGS_10_BL",
+      "market_price": 2262.82,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 155.63,
       "volume": null
     },
     {
@@ -8824,9 +8831,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2026-02-01",
-      "grade_id": "RAW",
-      "market_price": 155.63,
+      "month": "2026-01-01",
+      "grade_id": "PSA_10",
+      "market_price": 305.0,
       "volume": null
     },
     {
@@ -8845,16 +8852,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2026-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 305.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
       "month": "2025-12-01",
-      "grade_id": "RAW",
-      "market_price": 152.5,
+      "grade_id": "PSA_10",
+      "market_price": 300.0,
       "volume": null
     },
     {
@@ -8867,15 +8867,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2025-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 300.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2025-11-01",
-      "grade_id": "GRADE_9",
-      "market_price": 156.12,
+      "grade_id": "RAW",
+      "market_price": 152.5,
       "volume": null
     },
     {
@@ -8894,9 +8887,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2025-10-01",
-      "grade_id": "PSA_10",
-      "market_price": 325.33,
+      "month": "2025-11-01",
+      "grade_id": "GRADE_9",
+      "market_price": 156.12,
       "volume": null
     },
     {
@@ -8911,6 +8904,13 @@
       "month": "2025-10-01",
       "grade_id": "GRADE_9",
       "market_price": 160.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2025-10-01",
+      "grade_id": "PSA_10",
+      "market_price": 325.33,
       "volume": null
     },
     {
@@ -8937,13 +8937,6 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2025-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 164.99,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2025-08-01",
       "grade_id": "RAW",
       "market_price": 149.99,
       "volume": null
@@ -8957,6 +8950,13 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
+      "month": "2025-08-01",
+      "grade_id": "GRADE_9",
+      "market_price": 164.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
       "month": "2025-07-01",
       "grade_id": "GRADE_9",
       "market_price": 164.25,
@@ -8965,15 +8965,15 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2025-07-01",
-      "grade_id": "RAW",
-      "market_price": 157.5,
+      "grade_id": "PSA_10",
+      "market_price": 300.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2025-07-01",
-      "grade_id": "PSA_10",
-      "market_price": 300.0,
+      "grade_id": "RAW",
+      "market_price": 157.5,
       "volume": null
     },
     {
@@ -9000,13 +9000,6 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2025-05-01",
-      "grade_id": "PSA_10",
-      "market_price": 296.68,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2025-05-01",
       "grade_id": "GRADE_9",
       "market_price": 168.5,
       "volume": null
@@ -9020,9 +9013,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2025-04-01",
+      "month": "2025-05-01",
       "grade_id": "PSA_10",
-      "market_price": 290.46,
+      "market_price": 296.68,
       "volume": null
     },
     {
@@ -9041,9 +9034,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2025-03-01",
+      "month": "2025-04-01",
       "grade_id": "PSA_10",
-      "market_price": 298.35,
+      "market_price": 290.46,
       "volume": null
     },
     {
@@ -9051,6 +9044,13 @@
       "month": "2025-03-01",
       "grade_id": "GRADE_9",
       "market_price": 163.46,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2025-03-01",
+      "grade_id": "PSA_10",
+      "market_price": 298.35,
       "volume": null
     },
     {
@@ -9070,13 +9070,27 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2025-02-01",
+      "grade_id": "PSA_10",
+      "market_price": 310.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2025-02-01",
       "grade_id": "RAW",
       "market_price": 169.71,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2025-02-01",
+      "month": "2025-01-01",
+      "grade_id": "RAW",
+      "market_price": 174.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2025-01-01",
       "grade_id": "PSA_10",
       "market_price": 310.0,
       "volume": null
@@ -9090,16 +9104,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2025-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 310.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2025-01-01",
+      "month": "2024-12-01",
       "grade_id": "RAW",
-      "market_price": 174.99,
+      "market_price": 163.11,
       "volume": null
     },
     {
@@ -9118,20 +9125,6 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2024-12-01",
-      "grade_id": "RAW",
-      "market_price": 163.11,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2024-11-01",
-      "grade_id": "GRADE_9",
-      "market_price": 147.63,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
       "month": "2024-11-01",
       "grade_id": "PSA_10",
       "market_price": 282.0,
@@ -9146,9 +9139,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2024-10-01",
-      "grade_id": "PSA_10",
-      "market_price": 249.5,
+      "month": "2024-11-01",
+      "grade_id": "GRADE_9",
+      "market_price": 147.63,
       "volume": null
     },
     {
@@ -9167,9 +9160,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
+      "month": "2024-10-01",
+      "grade_id": "PSA_10",
+      "market_price": 249.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
       "month": "2024-09-01",
-      "grade_id": "RAW",
-      "market_price": 154.0,
+      "grade_id": "PSA_10",
+      "market_price": 254.95,
       "volume": null
     },
     {
@@ -9182,15 +9182,15 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2024-09-01",
-      "grade_id": "PSA_10",
-      "market_price": 254.95,
+      "grade_id": "RAW",
+      "market_price": 154.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2024-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 138.28,
+      "grade_id": "PSA_10",
+      "market_price": 233.75,
       "volume": null
     },
     {
@@ -9203,15 +9203,15 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2024-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 233.75,
+      "grade_id": "GRADE_9",
+      "market_price": 138.28,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2024-07-01",
-      "grade_id": "PSA_10",
-      "market_price": 255.0,
+      "grade_id": "RAW",
+      "market_price": 114.78,
       "volume": null
     },
     {
@@ -9224,15 +9224,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2024-07-01",
-      "grade_id": "RAW",
-      "market_price": 114.78,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2024-06-01",
-      "grade_id": "RAW",
-      "market_price": 130.67,
+      "grade_id": "PSA_10",
+      "market_price": 255.0,
       "volume": null
     },
     {
@@ -9245,15 +9238,15 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2024-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 161.0,
+      "grade_id": "RAW",
+      "market_price": 130.67,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2024-05-01",
-      "grade_id": "PSA_10",
-      "market_price": 244.28,
+      "month": "2024-06-01",
+      "grade_id": "GRADE_9",
+      "market_price": 161.0,
       "volume": null
     },
     {
@@ -9272,9 +9265,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2024-04-01",
-      "grade_id": "RAW",
-      "market_price": 135.2,
+      "month": "2024-05-01",
+      "grade_id": "PSA_10",
+      "market_price": 244.28,
       "volume": null
     },
     {
@@ -9282,6 +9275,13 @@
       "month": "2024-04-01",
       "grade_id": "GRADE_9",
       "market_price": 165.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2024-04-01",
+      "grade_id": "RAW",
+      "market_price": 135.2,
       "volume": null
     },
     {
@@ -9301,22 +9301,15 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2024-03-01",
-      "grade_id": "GRADE_9",
-      "market_price": 160.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2024-03-01",
       "grade_id": "PSA_10",
       "market_price": 258.94,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2024-02-01",
+      "month": "2024-03-01",
       "grade_id": "GRADE_9",
-      "market_price": 165.0,
+      "market_price": 160.0,
       "volume": null
     },
     {
@@ -9335,6 +9328,20 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
+      "month": "2024-02-01",
+      "grade_id": "GRADE_9",
+      "market_price": 165.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2024-01-01",
+      "grade_id": "GRADE_9",
+      "market_price": 143.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
       "month": "2024-01-01",
       "grade_id": "RAW",
       "market_price": 125.42,
@@ -9349,9 +9356,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2024-01-01",
-      "grade_id": "GRADE_9",
-      "market_price": 143.51,
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 104.92,
       "volume": null
     },
     {
@@ -9370,16 +9377,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2023-12-01",
-      "grade_id": "RAW",
-      "market_price": 104.92,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
       "month": "2023-11-01",
-      "grade_id": "RAW",
-      "market_price": 127.5,
+      "grade_id": "PSA_10",
+      "market_price": 246.02,
       "volume": null
     },
     {
@@ -9392,15 +9392,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2023-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 246.02,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2023-10-01",
-      "grade_id": "GRADE_9",
-      "market_price": 150.0,
+      "grade_id": "RAW",
+      "market_price": 127.5,
       "volume": null
     },
     {
@@ -9419,6 +9412,20 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
+      "month": "2023-10-01",
+      "grade_id": "GRADE_9",
+      "market_price": 150.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2023-09-01",
+      "grade_id": "GRADE_9",
+      "market_price": 148.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
       "month": "2023-09-01",
       "grade_id": "PSA_10",
       "market_price": 250.0,
@@ -9433,23 +9440,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2023-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 148.13,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
       "month": "2023-08-01",
       "grade_id": "RAW",
       "market_price": 137.02,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2023-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 160.92,
       "volume": null
     },
     {
@@ -9461,9 +9454,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2023-07-01",
+      "month": "2023-08-01",
       "grade_id": "GRADE_9",
-      "market_price": 167.55,
+      "market_price": 160.92,
       "volume": null
     },
     {
@@ -9482,9 +9475,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
+      "month": "2023-07-01",
+      "grade_id": "GRADE_9",
+      "market_price": 167.55,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
       "month": "2023-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 295.0,
+      "grade_id": "GRADE_9",
+      "market_price": 173.5,
       "volume": null
     },
     {
@@ -9497,15 +9497,15 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2023-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 173.5,
+      "grade_id": "PSA_10",
+      "market_price": 295.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2023-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 175.98,
+      "grade_id": "PSA_10",
+      "market_price": 305.0,
       "volume": null
     },
     {
@@ -9518,15 +9518,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2023-05-01",
-      "grade_id": "PSA_10",
-      "market_price": 305.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2023-04-01",
-      "grade_id": "PSA_10",
-      "market_price": 310.0,
+      "grade_id": "GRADE_9",
+      "market_price": 175.98,
       "volume": null
     },
     {
@@ -9545,9 +9538,23 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
+      "month": "2023-04-01",
+      "grade_id": "PSA_10",
+      "market_price": 310.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
       "month": "2023-03-01",
       "grade_id": "GRADE_9",
       "market_price": 176.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 166.48,
       "volume": null
     },
     {
@@ -9559,9 +9566,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2023-03-01",
-      "grade_id": "RAW",
-      "market_price": 166.48,
+      "month": "2023-02-01",
+      "grade_id": "PSA_10",
+      "market_price": 324.95,
       "volume": null
     },
     {
@@ -9580,16 +9587,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2023-02-01",
-      "grade_id": "PSA_10",
-      "market_price": 324.95,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
       "month": "2023-01-01",
-      "grade_id": "RAW",
-      "market_price": 152.0,
+      "grade_id": "PSA_10",
+      "market_price": 303.0,
       "volume": null
     },
     {
@@ -9602,15 +9602,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2023-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 303.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2022-12-01",
       "grade_id": "RAW",
-      "market_price": 178.13,
+      "market_price": 152.0,
       "volume": null
     },
     {
@@ -9618,6 +9611,13 @@
       "month": "2022-12-01",
       "grade_id": "GRADE_9",
       "market_price": 177.16,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 178.13,
       "volume": null
     },
     {
@@ -9651,8 +9651,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2022-10-01",
-      "grade_id": "PSA_10",
-      "market_price": 358.56,
+      "grade_id": "GRADE_9",
+      "market_price": 200.0,
       "volume": null
     },
     {
@@ -9665,15 +9665,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2022-10-01",
-      "grade_id": "GRADE_9",
-      "market_price": 200.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2022-09-01",
       "grade_id": "PSA_10",
-      "market_price": 375.76,
+      "market_price": 358.56,
       "volume": null
     },
     {
@@ -9692,9 +9685,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
+      "month": "2022-09-01",
+      "grade_id": "PSA_10",
+      "market_price": 375.76,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
       "month": "2022-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 232.0,
+      "grade_id": "PSA_10",
+      "market_price": 370.0,
       "volume": null
     },
     {
@@ -9707,8 +9707,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2022-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 370.0,
+      "grade_id": "GRADE_9",
+      "market_price": 232.0,
       "volume": null
     },
     {
@@ -9721,22 +9721,15 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2022-07-01",
-      "grade_id": "PSA_10",
-      "market_price": 349.2,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2022-07-01",
       "grade_id": "RAW",
       "market_price": 161.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2022-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 207.75,
+      "month": "2022-07-01",
+      "grade_id": "PSA_10",
+      "market_price": 349.2,
       "volume": null
     },
     {
@@ -9749,15 +9742,15 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2022-06-01",
-      "grade_id": "RAW",
-      "market_price": 173.55,
+      "grade_id": "GRADE_9",
+      "market_price": 207.75,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2022-05-01",
+      "month": "2022-06-01",
       "grade_id": "RAW",
-      "market_price": 190.0,
+      "market_price": 173.55,
       "volume": null
     },
     {
@@ -9770,6 +9763,13 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 190.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2022-05-01",
       "grade_id": "GRADE_9",
       "market_price": 226.25,
       "volume": null
@@ -9777,8 +9777,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2022-04-01",
-      "grade_id": "PSA_10",
-      "market_price": 435.0,
+      "grade_id": "GRADE_9",
+      "market_price": 227.5,
       "volume": null
     },
     {
@@ -9791,15 +9791,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2022-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 227.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2022-03-01",
-      "grade_id": "RAW",
-      "market_price": 197.0,
+      "grade_id": "PSA_10",
+      "market_price": 435.0,
       "volume": null
     },
     {
@@ -9807,6 +9800,13 @@
       "month": "2022-03-01",
       "grade_id": "PSA_10",
       "market_price": 430.54,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 197.0,
       "volume": null
     },
     {
@@ -9826,22 +9826,15 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2022-02-01",
-      "grade_id": "RAW",
-      "market_price": 193.78,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2022-02-01",
       "grade_id": "GRADE_9",
       "market_price": 250.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2022-01-01",
+      "month": "2022-02-01",
       "grade_id": "RAW",
-      "market_price": 187.5,
+      "market_price": 193.78,
       "volume": null
     },
     {
@@ -9854,8 +9847,22 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 187.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2022-01-01",
       "grade_id": "GRADE_9",
       "market_price": 227.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2021-12-01",
+      "grade_id": "PSA_10",
+      "market_price": 450.0,
       "volume": null
     },
     {
@@ -9874,16 +9881,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2021-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 450.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
       "month": "2021-11-01",
-      "grade_id": "RAW",
-      "market_price": 176.25,
+      "grade_id": "PSA_10",
+      "market_price": 486.22,
       "volume": null
     },
     {
@@ -9896,15 +9896,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2021-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 486.22,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2021-10-01",
-      "grade_id": "GRADE_9",
-      "market_price": 220.0,
+      "grade_id": "RAW",
+      "market_price": 176.25,
       "volume": null
     },
     {
@@ -9917,6 +9910,13 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2021-10-01",
+      "grade_id": "GRADE_9",
+      "market_price": 220.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2021-10-01",
       "grade_id": "RAW",
       "market_price": 162.5,
       "volume": null
@@ -9924,8 +9924,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2021-09-01",
-      "grade_id": "RAW",
-      "market_price": 162.5,
+      "grade_id": "GRADE_9",
+      "market_price": 236.25,
       "volume": null
     },
     {
@@ -9938,8 +9938,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2021-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 236.25,
+      "grade_id": "RAW",
+      "market_price": 162.5,
       "volume": null
     },
     {
@@ -9952,22 +9952,15 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2021-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 252.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2021-08-01",
       "grade_id": "PSA_10",
       "market_price": 491.92,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_74",
-      "month": "2021-07-01",
-      "grade_id": "RAW",
-      "market_price": 209.04,
+      "month": "2021-08-01",
+      "grade_id": "GRADE_9",
+      "market_price": 252.5,
       "volume": null
     },
     {
@@ -9982,6 +9975,13 @@
       "month": "2021-07-01",
       "grade_id": "PSA_10",
       "market_price": 501.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2021-07-01",
+      "grade_id": "RAW",
+      "market_price": 209.04,
       "volume": null
     },
     {
@@ -10008,8 +10008,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2021-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 310.5,
+      "grade_id": "RAW",
+      "market_price": 260.26,
       "volume": null
     },
     {
@@ -10022,15 +10022,8 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2021-05-01",
-      "grade_id": "RAW",
-      "market_price": 260.26,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2021-04-01",
-      "grade_id": "PSA_10",
-      "market_price": 650.07,
+      "grade_id": "GRADE_9",
+      "market_price": 310.5,
       "volume": null
     },
     {
@@ -10038,6 +10031,13 @@
       "month": "2021-04-01",
       "grade_id": "RAW",
       "market_price": 263.71,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2021-04-01",
+      "grade_id": "PSA_10",
+      "market_price": 650.07,
       "volume": null
     },
     {
@@ -10057,15 +10057,15 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2021-03-01",
-      "grade_id": "RAW",
-      "market_price": 263.88,
+      "grade_id": "GRADE_9",
+      "market_price": 365.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2021-03-01",
-      "grade_id": "GRADE_9",
-      "market_price": 365.0,
+      "grade_id": "RAW",
+      "market_price": 263.88,
       "volume": null
     },
     {
@@ -10078,15 +10078,15 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2021-02-01",
-      "grade_id": "RAW",
-      "market_price": 286.0,
+      "grade_id": "PSA_10",
+      "market_price": 710.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2021-02-01",
-      "grade_id": "PSA_10",
-      "market_price": 710.0,
+      "grade_id": "RAW",
+      "market_price": 286.0,
       "volume": null
     },
     {
@@ -10099,57 +10099,15 @@
     {
       "card_id": "pokemon_swsh3.5_74",
       "month": "2021-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 623.47,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_74",
-      "month": "2021-01-01",
       "grade_id": "GRADE_9",
       "market_price": 336.0,
       "volume": null
     },
     {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2026-03-01",
-      "grade_id": "CGC_10",
-      "market_price": 21.68,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2026-03-01",
-      "grade_id": "BGS_10_BL",
-      "market_price": 220.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2026-03-01",
-      "grade_id": "RAW",
-      "market_price": 5.99,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2026-03-01",
-      "grade_id": "TAG_10",
-      "market_price": 20.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2026-03-01",
+      "card_id": "pokemon_swsh3.5_74",
+      "month": "2021-01-01",
       "grade_id": "PSA_10",
-      "market_price": 34.07,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2026-03-01",
-      "grade_id": "CGC_10_PRISTINE",
-      "market_price": 39.0,
+      "market_price": 623.47,
       "volume": null
     },
     {
@@ -10162,15 +10120,50 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2026-03-01",
+      "grade_id": "PSA_10",
+      "market_price": 34.07,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 5.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2026-03-01",
+      "grade_id": "CGC_10",
+      "market_price": 21.68,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2026-03-01",
+      "grade_id": "CGC_10_PRISTINE",
+      "market_price": 39.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2026-03-01",
       "grade_id": "BGS_10",
       "market_price": 44.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2026-02-01",
-      "grade_id": "GRADE_9",
-      "market_price": 19.99,
+      "month": "2026-03-01",
+      "grade_id": "BGS_10_BL",
+      "market_price": 220.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2026-03-01",
+      "grade_id": "TAG_10",
+      "market_price": 20.0,
       "volume": null
     },
     {
@@ -10189,6 +10182,13 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
+      "month": "2026-02-01",
+      "grade_id": "GRADE_9",
+      "market_price": 19.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
       "month": "2026-01-01",
       "grade_id": "PSA_10",
       "market_price": 33.2,
@@ -10197,15 +10197,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2026-01-01",
-      "grade_id": "RAW",
-      "market_price": 6.15,
+      "grade_id": "GRADE_9",
+      "market_price": 19.67,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2026-01-01",
-      "grade_id": "GRADE_9",
-      "market_price": 19.67,
+      "grade_id": "RAW",
+      "market_price": 6.15,
       "volume": null
     },
     {
@@ -10218,22 +10218,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2025-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 29.81,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2025-12-01",
       "grade_id": "RAW",
       "market_price": 6.39,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2025-11-01",
+      "month": "2025-12-01",
       "grade_id": "PSA_10",
-      "market_price": 36.68,
+      "market_price": 29.81,
       "volume": null
     },
     {
@@ -10241,6 +10234,13 @@
       "month": "2025-11-01",
       "grade_id": "GRADE_9",
       "market_price": 18.87,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2025-11-01",
+      "grade_id": "PSA_10",
+      "market_price": 36.68,
       "volume": null
     },
     {
@@ -10274,13 +10274,6 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2025-09-01",
-      "grade_id": "RAW",
-      "market_price": 6.92,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2025-09-01",
       "grade_id": "GRADE_9",
       "market_price": 15.29,
       "volume": null
@@ -10294,9 +10287,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2025-08-01",
+      "month": "2025-09-01",
       "grade_id": "RAW",
-      "market_price": 6.77,
+      "market_price": 6.92,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2025-08-01",
+      "grade_id": "PSA_10",
+      "market_price": 26.65,
       "volume": null
     },
     {
@@ -10309,8 +10309,8 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2025-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 26.65,
+      "grade_id": "RAW",
+      "market_price": 6.77,
       "volume": null
     },
     {
@@ -10337,13 +10337,6 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2025-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 28.36,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2025-06-01",
       "grade_id": "RAW",
       "market_price": 6.99,
       "volume": null
@@ -10357,9 +10350,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
+      "month": "2025-06-01",
+      "grade_id": "PSA_10",
+      "market_price": 28.36,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
       "month": "2025-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 13.36,
+      "grade_id": "RAW",
+      "market_price": 6.99,
       "volume": null
     },
     {
@@ -10372,8 +10372,8 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2025-05-01",
-      "grade_id": "RAW",
-      "market_price": 6.99,
+      "grade_id": "GRADE_9",
+      "market_price": 13.36,
       "volume": null
     },
     {
@@ -10386,15 +10386,22 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2025-04-01",
+      "grade_id": "GRADE_9",
+      "market_price": 14.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2025-04-01",
       "grade_id": "PSA_10",
       "market_price": 26.49,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2025-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 14.94,
+      "month": "2025-03-01",
+      "grade_id": "RAW",
+      "market_price": 6.26,
       "volume": null
     },
     {
@@ -10413,23 +10420,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2025-03-01",
-      "grade_id": "RAW",
-      "market_price": 6.26,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
       "month": "2025-02-01",
       "grade_id": "RAW",
       "market_price": 5.99,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2025-02-01",
-      "grade_id": "GRADE_9",
-      "market_price": 11.75,
       "volume": null
     },
     {
@@ -10441,9 +10434,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2025-01-01",
+      "month": "2025-02-01",
       "grade_id": "GRADE_9",
-      "market_price": 10.5,
+      "market_price": 11.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2025-01-01",
+      "grade_id": "PSA_10",
+      "market_price": 29.84,
       "volume": null
     },
     {
@@ -10456,15 +10456,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2025-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 29.84,
+      "grade_id": "GRADE_9",
+      "market_price": 10.5,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2024-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 24.49,
+      "grade_id": "RAW",
+      "market_price": 6.0,
       "volume": null
     },
     {
@@ -10477,8 +10477,8 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2024-12-01",
-      "grade_id": "RAW",
-      "market_price": 6.0,
+      "grade_id": "PSA_10",
+      "market_price": 24.49,
       "volume": null
     },
     {
@@ -10491,15 +10491,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2024-11-01",
-      "grade_id": "GRADE_9",
-      "market_price": 17.39,
+      "grade_id": "PSA_10",
+      "market_price": 21.93,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2024-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 21.93,
+      "grade_id": "GRADE_9",
+      "market_price": 17.39,
       "volume": null
     },
     {
@@ -10554,22 +10554,22 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2024-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 24.49,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2024-08-01",
       "grade_id": "GRADE_9",
       "market_price": 10.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
+      "month": "2024-08-01",
+      "grade_id": "PSA_10",
+      "market_price": 24.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
       "month": "2024-07-01",
-      "grade_id": "RAW",
-      "market_price": 5.61,
+      "grade_id": "GRADE_9",
+      "market_price": 12.03,
       "volume": null
     },
     {
@@ -10582,8 +10582,8 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2024-07-01",
-      "grade_id": "GRADE_9",
-      "market_price": 12.03,
+      "grade_id": "RAW",
+      "market_price": 5.61,
       "volume": null
     },
     {
@@ -10610,15 +10610,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2024-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 12.0,
+      "grade_id": "RAW",
+      "market_price": 6.99,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2024-05-01",
-      "grade_id": "RAW",
-      "market_price": 6.99,
+      "grade_id": "GRADE_9",
+      "market_price": 12.0,
       "volume": null
     },
     {
@@ -10659,15 +10659,22 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 5.23,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2024-03-01",
       "grade_id": "PSA_10",
       "market_price": 24.5,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2024-03-01",
+      "month": "2024-02-01",
       "grade_id": "RAW",
-      "market_price": 5.23,
+      "market_price": 4.14,
       "volume": null
     },
     {
@@ -10686,16 +10693,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2024-02-01",
-      "grade_id": "RAW",
-      "market_price": 4.14,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
       "month": "2024-01-01",
-      "grade_id": "RAW",
-      "market_price": 5.41,
+      "grade_id": "GRADE_9",
+      "market_price": 11.75,
       "volume": null
     },
     {
@@ -10708,6 +10708,13 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 5.41,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2023-12-01",
       "grade_id": "GRADE_9",
       "market_price": 11.75,
       "volume": null
@@ -10728,16 +10735,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2023-12-01",
-      "grade_id": "GRADE_9",
-      "market_price": 11.75,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
       "month": "2023-11-01",
-      "grade_id": "GRADE_9",
-      "market_price": 13.0,
+      "grade_id": "PSA_10",
+      "market_price": 27.0,
       "volume": null
     },
     {
@@ -10750,8 +10750,8 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2023-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 27.0,
+      "grade_id": "GRADE_9",
+      "market_price": 13.0,
       "volume": null
     },
     {
@@ -10778,8 +10778,8 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2023-09-01",
-      "grade_id": "RAW",
-      "market_price": 6.0,
+      "grade_id": "PSA_10",
+      "market_price": 21.15,
       "volume": null
     },
     {
@@ -10792,15 +10792,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2023-09-01",
-      "grade_id": "PSA_10",
-      "market_price": 21.15,
+      "grade_id": "RAW",
+      "market_price": 6.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2023-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 11.83,
+      "grade_id": "PSA_10",
+      "market_price": 25.91,
       "volume": null
     },
     {
@@ -10813,8 +10813,8 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2023-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 25.91,
+      "grade_id": "GRADE_9",
+      "market_price": 11.83,
       "volume": null
     },
     {
@@ -10827,15 +10827,22 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2023-07-01",
+      "grade_id": "GRADE_9",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2023-07-01",
       "grade_id": "PSA_10",
       "market_price": 23.67,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2023-07-01",
-      "grade_id": "GRADE_9",
-      "market_price": 14.99,
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 5.13,
       "volume": null
     },
     {
@@ -10850,13 +10857,6 @@
       "month": "2023-06-01",
       "grade_id": "GRADE_9",
       "market_price": 14.99,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2023-06-01",
-      "grade_id": "RAW",
-      "market_price": 5.13,
       "volume": null
     },
     {
@@ -10883,13 +10883,6 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2023-04-01",
-      "grade_id": "RAW",
-      "market_price": 7.17,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2023-04-01",
       "grade_id": "GRADE_9",
       "market_price": 17.42,
       "volume": null
@@ -10903,9 +10896,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2023-03-01",
+      "month": "2023-04-01",
       "grade_id": "RAW",
-      "market_price": 7.49,
+      "market_price": 7.17,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2023-03-01",
+      "grade_id": "GRADE_9",
+      "market_price": 15.07,
       "volume": null
     },
     {
@@ -10918,8 +10918,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2023-03-01",
-      "grade_id": "GRADE_9",
-      "market_price": 15.07,
+      "grade_id": "RAW",
+      "market_price": 7.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 5.64,
       "volume": null
     },
     {
@@ -10934,13 +10941,6 @@
       "month": "2023-02-01",
       "grade_id": "PSA_10",
       "market_price": 23.94,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2023-02-01",
-      "grade_id": "RAW",
-      "market_price": 5.64,
       "volume": null
     },
     {
@@ -10967,8 +10967,8 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2022-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 22.39,
+      "grade_id": "RAW",
+      "market_price": 6.14,
       "volume": null
     },
     {
@@ -10981,15 +10981,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2022-12-01",
-      "grade_id": "RAW",
-      "market_price": 6.14,
+      "grade_id": "PSA_10",
+      "market_price": 22.39,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2022-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 22.2,
+      "grade_id": "GRADE_9",
+      "market_price": 15.61,
       "volume": null
     },
     {
@@ -11002,8 +11002,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2022-11-01",
+      "grade_id": "PSA_10",
+      "market_price": 22.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2022-10-01",
       "grade_id": "GRADE_9",
-      "market_price": 15.61,
+      "market_price": 14.99,
       "volume": null
     },
     {
@@ -11022,16 +11029,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2022-10-01",
-      "grade_id": "GRADE_9",
-      "market_price": 14.99,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
       "month": "2022-09-01",
-      "grade_id": "RAW",
-      "market_price": 6.13,
+      "grade_id": "GRADE_9",
+      "market_price": 16.03,
       "volume": null
     },
     {
@@ -11044,15 +11044,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2022-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 16.03,
+      "grade_id": "RAW",
+      "market_price": 6.13,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2022-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 22.52,
+      "grade_id": "RAW",
+      "market_price": 7.27,
       "volume": null
     },
     {
@@ -11065,15 +11065,8 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2022-08-01",
-      "grade_id": "RAW",
-      "market_price": 7.27,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2022-07-01",
-      "grade_id": "RAW",
-      "market_price": 8.06,
+      "grade_id": "PSA_10",
+      "market_price": 22.52,
       "volume": null
     },
     {
@@ -11092,9 +11085,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2022-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 17.27,
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 8.06,
       "volume": null
     },
     {
@@ -11113,6 +11106,20 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
+      "month": "2022-06-01",
+      "grade_id": "GRADE_9",
+      "market_price": 17.27,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 7.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
       "month": "2022-05-01",
       "grade_id": "PSA_10",
       "market_price": 29.73,
@@ -11127,16 +11134,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2022-05-01",
-      "grade_id": "RAW",
-      "market_price": 7.99,
+      "month": "2022-04-01",
+      "grade_id": "PSA_10",
+      "market_price": 28.51,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2022-04-01",
-      "grade_id": "PSA_10",
-      "market_price": 28.51,
+      "grade_id": "RAW",
+      "market_price": 7.99,
       "volume": null
     },
     {
@@ -11148,9 +11155,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2022-04-01",
-      "grade_id": "RAW",
-      "market_price": 7.99,
+      "month": "2022-03-01",
+      "grade_id": "GRADE_9",
+      "market_price": 33.0,
       "volume": null
     },
     {
@@ -11158,13 +11165,6 @@
       "month": "2022-03-01",
       "grade_id": "PSA_10",
       "market_price": 25.66,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2022-03-01",
-      "grade_id": "GRADE_9",
-      "market_price": 33.0,
       "volume": null
     },
     {
@@ -11184,22 +11184,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2022-02-01",
-      "grade_id": "PSA_10",
-      "market_price": 35.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2022-02-01",
       "grade_id": "RAW",
       "market_price": 8.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2022-01-01",
-      "grade_id": "GRADE_9",
-      "market_price": 33.0,
+      "month": "2022-02-01",
+      "grade_id": "PSA_10",
+      "market_price": 35.0,
       "volume": null
     },
     {
@@ -11212,22 +11205,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2022-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 35.3,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2021-12-01",
-      "grade_id": "RAW",
-      "market_price": 7.08,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2021-12-01",
       "grade_id": "GRADE_9",
       "market_price": 33.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2022-01-01",
+      "grade_id": "PSA_10",
+      "market_price": 35.3,
       "volume": null
     },
     {
@@ -11239,9 +11225,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2021-11-01",
+      "month": "2021-12-01",
       "grade_id": "GRADE_9",
       "market_price": 33.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 7.08,
       "volume": null
     },
     {
@@ -11254,22 +11247,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2021-11-01",
-      "grade_id": "RAW",
-      "market_price": 9.25,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2021-10-01",
-      "grade_id": "RAW",
-      "market_price": 8.68,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2021-10-01",
       "grade_id": "GRADE_9",
       "market_price": 33.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2021-11-01",
+      "grade_id": "RAW",
+      "market_price": 9.25,
       "volume": null
     },
     {
@@ -11281,9 +11267,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2021-09-01",
+      "month": "2021-10-01",
       "grade_id": "GRADE_9",
       "market_price": 33.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 8.68,
       "volume": null
     },
     {
@@ -11296,15 +11289,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2021-09-01",
-      "grade_id": "RAW",
-      "market_price": 7.95,
+      "grade_id": "GRADE_9",
+      "market_price": 33.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2021-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 47.44,
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 7.95,
       "volume": null
     },
     {
@@ -11319,6 +11312,13 @@
       "month": "2021-08-01",
       "grade_id": "RAW",
       "market_price": 7.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2021-08-01",
+      "grade_id": "PSA_10",
+      "market_price": 47.44,
       "volume": null
     },
     {
@@ -11345,13 +11345,6 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2021-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 77.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
-      "month": "2021-06-01",
       "grade_id": "RAW",
       "market_price": 9.47,
       "volume": null
@@ -11361,6 +11354,20 @@
       "month": "2021-06-01",
       "grade_id": "GRADE_9",
       "market_price": 33.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2021-06-01",
+      "grade_id": "PSA_10",
+      "market_price": 77.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_75",
+      "month": "2021-05-01",
+      "grade_id": "PSA_10",
+      "market_price": 101.95,
       "volume": null
     },
     {
@@ -11379,13 +11386,6 @@
     },
     {
       "card_id": "pokemon_swsh3.5_75",
-      "month": "2021-05-01",
-      "grade_id": "PSA_10",
-      "market_price": 101.95,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_75",
       "month": "2021-04-01",
       "grade_id": "RAW",
       "market_price": 10.0,
@@ -11394,15 +11394,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2021-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 32.0,
+      "grade_id": "PSA_10",
+      "market_price": 102.5,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2021-04-01",
-      "grade_id": "PSA_10",
-      "market_price": 102.5,
+      "grade_id": "GRADE_9",
+      "market_price": 32.0,
       "volume": null
     },
     {
@@ -11429,15 +11429,15 @@
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2021-02-01",
-      "grade_id": "GRADE_9",
-      "market_price": 35.0,
+      "grade_id": "RAW",
+      "market_price": 11.22,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_75",
       "month": "2021-02-01",
-      "grade_id": "RAW",
-      "market_price": 11.22,
+      "grade_id": "GRADE_9",
+      "market_price": 35.0,
       "volume": null
     },
     {
@@ -11450,50 +11450,8 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2026-03-01",
-      "grade_id": "BGS_10",
-      "market_price": 158.96,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2026-03-01",
-      "grade_id": "RAW",
-      "market_price": 14.99,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2026-03-01",
       "grade_id": "PSA_10",
       "market_price": 58.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2026-03-01",
-      "grade_id": "CGC_10_PRISTINE",
-      "market_price": 51.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2026-03-01",
-      "grade_id": "TAG_10",
-      "market_price": 50.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2026-03-01",
-      "grade_id": "ACE_10",
-      "market_price": 10.25,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2026-03-01",
-      "grade_id": "BGS_10_BL",
-      "market_price": 795.0,
       "volume": null
     },
     {
@@ -11506,8 +11464,57 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2026-03-01",
+      "grade_id": "CGC_10_PRISTINE",
+      "market_price": 51.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2026-03-01",
       "grade_id": "GRADE_9",
       "market_price": 23.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2026-03-01",
+      "grade_id": "BGS_10",
+      "market_price": 158.96,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2026-03-01",
+      "grade_id": "BGS_10_BL",
+      "market_price": 795.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2026-03-01",
+      "grade_id": "TAG_10",
+      "market_price": 50.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2026-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2026-03-01",
+      "grade_id": "ACE_10",
+      "market_price": 10.25,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2026-02-01",
+      "grade_id": "PSA_10",
+      "market_price": 58.0,
       "volume": null
     },
     {
@@ -11522,13 +11529,6 @@
       "month": "2026-02-01",
       "grade_id": "GRADE_9",
       "market_price": 22.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2026-02-01",
-      "grade_id": "PSA_10",
-      "market_price": 58.0,
       "volume": null
     },
     {
@@ -11562,22 +11562,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2025-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 58.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2025-12-01",
       "grade_id": "RAW",
       "market_price": 11.99,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2025-11-01",
-      "grade_id": "RAW",
-      "market_price": 13.54,
+      "month": "2025-12-01",
+      "grade_id": "PSA_10",
+      "market_price": 58.0,
       "volume": null
     },
     {
@@ -11585,6 +11578,13 @@
       "month": "2025-11-01",
       "grade_id": "GRADE_9",
       "market_price": 24.26,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2025-11-01",
+      "grade_id": "RAW",
+      "market_price": 13.54,
       "volume": null
     },
     {
@@ -11604,22 +11604,22 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2025-10-01",
-      "grade_id": "RAW",
-      "market_price": 12.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2025-10-01",
       "grade_id": "GRADE_9",
       "market_price": 22.92,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
+      "month": "2025-10-01",
+      "grade_id": "RAW",
+      "market_price": 12.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
       "month": "2025-09-01",
-      "grade_id": "PSA_10",
-      "market_price": 47.47,
+      "grade_id": "GRADE_9",
+      "market_price": 21.75,
       "volume": null
     },
     {
@@ -11632,15 +11632,8 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2025-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 21.75,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2025-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 21.67,
+      "grade_id": "PSA_10",
+      "market_price": 47.47,
       "volume": null
     },
     {
@@ -11655,6 +11648,13 @@
       "month": "2025-08-01",
       "grade_id": "RAW",
       "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2025-08-01",
+      "grade_id": "GRADE_9",
+      "market_price": 21.67,
       "volume": null
     },
     {
@@ -11709,22 +11709,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2025-05-01",
-      "grade_id": "RAW",
-      "market_price": 12.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2025-05-01",
       "grade_id": "PSA_10",
       "market_price": 39.47,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2025-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 22.0,
+      "month": "2025-05-01",
+      "grade_id": "RAW",
+      "market_price": 12.0,
       "volume": null
     },
     {
@@ -11737,6 +11730,13 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2025-04-01",
+      "grade_id": "GRADE_9",
+      "market_price": 22.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2025-04-01",
       "grade_id": "RAW",
       "market_price": 12.1,
       "volume": null
@@ -11744,8 +11744,8 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2025-03-01",
-      "grade_id": "RAW",
-      "market_price": 10.84,
+      "grade_id": "GRADE_9",
+      "market_price": 17.17,
       "volume": null
     },
     {
@@ -11758,8 +11758,8 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2025-03-01",
-      "grade_id": "GRADE_9",
-      "market_price": 17.17,
+      "grade_id": "RAW",
+      "market_price": 10.84,
       "volume": null
     },
     {
@@ -11772,22 +11772,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2025-02-01",
-      "grade_id": "GRADE_9",
-      "market_price": 15.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2025-02-01",
       "grade_id": "RAW",
       "market_price": 10.6,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2025-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 34.09,
+      "month": "2025-02-01",
+      "grade_id": "GRADE_9",
+      "market_price": 15.0,
       "volume": null
     },
     {
@@ -11800,6 +11793,13 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2025-01-01",
+      "grade_id": "PSA_10",
+      "market_price": 34.09,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2025-01-01",
       "grade_id": "GRADE_9",
       "market_price": 15.0,
       "volume": null
@@ -11807,8 +11807,8 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2024-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 29.99,
+      "grade_id": "GRADE_9",
+      "market_price": 15.0,
       "volume": null
     },
     {
@@ -11821,8 +11821,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2024-12-01",
-      "grade_id": "GRADE_9",
-      "market_price": 15.0,
+      "grade_id": "PSA_10",
+      "market_price": 29.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2024-11-01",
+      "grade_id": "PSA_10",
+      "market_price": 30.0,
       "volume": null
     },
     {
@@ -11837,20 +11844,6 @@
       "month": "2024-11-01",
       "grade_id": "GRADE_9",
       "market_price": 19.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2024-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 30.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2024-10-01",
-      "grade_id": "PSA_10",
-      "market_price": 29.99,
       "volume": null
     },
     {
@@ -11869,9 +11862,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2024-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 19.0,
+      "month": "2024-10-01",
+      "grade_id": "PSA_10",
+      "market_price": 29.99,
       "volume": null
     },
     {
@@ -11884,8 +11877,22 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2024-09-01",
+      "grade_id": "GRADE_9",
+      "market_price": 19.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2024-09-01",
       "grade_id": "PSA_10",
       "market_price": 31.78,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 7.0,
       "volume": null
     },
     {
@@ -11904,9 +11911,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2024-08-01",
-      "grade_id": "RAW",
-      "market_price": 7.0,
+      "month": "2024-07-01",
+      "grade_id": "GRADE_9",
+      "market_price": 19.0,
       "volume": null
     },
     {
@@ -11925,7 +11932,7 @@
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2024-07-01",
+      "month": "2024-06-01",
       "grade_id": "GRADE_9",
       "market_price": 19.0,
       "volume": null
@@ -11940,15 +11947,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2024-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 19.0,
+      "grade_id": "PSA_10",
+      "market_price": 29.74,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2024-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 29.74,
+      "month": "2024-05-01",
+      "grade_id": "GRADE_9",
+      "market_price": 19.0,
       "volume": null
     },
     {
@@ -11967,20 +11974,6 @@
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2024-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 19.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2024-04-01",
-      "grade_id": "PSA_10",
-      "market_price": 28.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
       "month": "2024-04-01",
       "grade_id": "RAW",
       "market_price": 9.5,
@@ -11995,9 +11988,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_76",
+      "month": "2024-04-01",
+      "grade_id": "PSA_10",
+      "market_price": 28.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
       "month": "2024-03-01",
-      "grade_id": "RAW",
-      "market_price": 7.0,
+      "grade_id": "GRADE_9",
+      "market_price": 20.0,
       "volume": null
     },
     {
@@ -12010,6 +12010,13 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2024-03-01",
+      "grade_id": "RAW",
+      "market_price": 7.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2024-02-01",
       "grade_id": "GRADE_9",
       "market_price": 20.0,
       "volume": null
@@ -12024,22 +12031,8 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2024-02-01",
-      "grade_id": "GRADE_9",
-      "market_price": 20.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2024-02-01",
       "grade_id": "PSA_10",
       "market_price": 28.17,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2024-01-01",
-      "grade_id": "RAW",
-      "market_price": 7.0,
       "volume": null
     },
     {
@@ -12054,6 +12047,13 @@
       "month": "2024-01-01",
       "grade_id": "PSA_10",
       "market_price": 28.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 7.0,
       "volume": null
     },
     {
@@ -12080,13 +12080,6 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2023-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 30.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2023-11-01",
       "grade_id": "GRADE_9",
       "market_price": 21.0,
       "volume": null
@@ -12100,9 +12093,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2023-10-01",
+      "month": "2023-11-01",
       "grade_id": "PSA_10",
-      "market_price": 26.48,
+      "market_price": 30.0,
       "volume": null
     },
     {
@@ -12110,6 +12103,13 @@
       "month": "2023-10-01",
       "grade_id": "RAW",
       "market_price": 6.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2023-10-01",
+      "grade_id": "PSA_10",
+      "market_price": 26.48,
       "volume": null
     },
     {
@@ -12150,22 +12150,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2023-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 15.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2023-08-01",
       "grade_id": "PSA_10",
       "market_price": 29.99,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2023-07-01",
-      "grade_id": "RAW",
-      "market_price": 8.25,
+      "month": "2023-08-01",
+      "grade_id": "GRADE_9",
+      "market_price": 15.5,
       "volume": null
     },
     {
@@ -12173,6 +12166,13 @@
       "month": "2023-07-01",
       "grade_id": "GRADE_9",
       "market_price": 15.87,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 8.25,
       "volume": null
     },
     {
@@ -12192,15 +12192,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2023-06-01",
-      "grade_id": "RAW",
-      "market_price": 8.0,
+      "grade_id": "PSA_10",
+      "market_price": 30.67,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2023-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 30.67,
+      "grade_id": "RAW",
+      "market_price": 8.0,
       "volume": null
     },
     {
@@ -12213,22 +12213,22 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2023-05-01",
-      "grade_id": "PSA_10",
-      "market_price": 31.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2023-05-01",
       "grade_id": "RAW",
       "market_price": 9.99,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2023-04-01",
+      "month": "2023-05-01",
       "grade_id": "PSA_10",
-      "market_price": 29.99,
+      "market_price": 31.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2023-04-01",
+      "grade_id": "RAW",
+      "market_price": 6.5,
       "volume": null
     },
     {
@@ -12241,8 +12241,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2023-04-01",
+      "grade_id": "PSA_10",
+      "market_price": 29.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2023-03-01",
       "grade_id": "RAW",
-      "market_price": 6.5,
+      "market_price": 6.7,
       "volume": null
     },
     {
@@ -12261,23 +12268,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2023-03-01",
-      "grade_id": "RAW",
-      "market_price": 6.7,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
       "month": "2023-02-01",
       "grade_id": "PSA_10",
       "market_price": 31.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2023-02-01",
-      "grade_id": "RAW",
-      "market_price": 8.65,
       "volume": null
     },
     {
@@ -12289,9 +12282,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2023-01-01",
+      "month": "2023-02-01",
       "grade_id": "RAW",
-      "market_price": 9.77,
+      "market_price": 8.65,
       "volume": null
     },
     {
@@ -12304,6 +12297,13 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 9.77,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2023-01-01",
       "grade_id": "GRADE_9",
       "market_price": 19.13,
       "volume": null
@@ -12311,15 +12311,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2022-12-01",
-      "grade_id": "RAW",
-      "market_price": 8.97,
+      "grade_id": "PSA_10",
+      "market_price": 30.06,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2022-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 30.06,
+      "grade_id": "RAW",
+      "market_price": 8.97,
       "volume": null
     },
     {
@@ -12360,22 +12360,22 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2022-10-01",
-      "grade_id": "RAW",
-      "market_price": 8.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2022-10-01",
       "grade_id": "GRADE_9",
       "market_price": 18.97,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 8.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
       "month": "2022-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 18.26,
+      "grade_id": "PSA_10",
+      "market_price": 31.0,
       "volume": null
     },
     {
@@ -12388,15 +12388,8 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2022-09-01",
-      "grade_id": "PSA_10",
-      "market_price": 31.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2022-08-01",
       "grade_id": "GRADE_9",
-      "market_price": 18.24,
+      "market_price": 18.26,
       "volume": null
     },
     {
@@ -12415,9 +12408,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2022-07-01",
-      "grade_id": "PSA_10",
-      "market_price": 29.2,
+      "month": "2022-08-01",
+      "grade_id": "GRADE_9",
+      "market_price": 18.24,
       "volume": null
     },
     {
@@ -12432,6 +12425,13 @@
       "month": "2022-07-01",
       "grade_id": "RAW",
       "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2022-07-01",
+      "grade_id": "PSA_10",
+      "market_price": 29.2,
       "volume": null
     },
     {
@@ -12465,15 +12465,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2022-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 18.76,
+      "grade_id": "RAW",
+      "market_price": 9.15,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2022-05-01",
-      "grade_id": "RAW",
-      "market_price": 9.15,
+      "grade_id": "GRADE_9",
+      "market_price": 18.76,
       "volume": null
     },
     {
@@ -12500,13 +12500,6 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2022-03-01",
-      "grade_id": "GRADE_9",
-      "market_price": 18.51,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2022-03-01",
       "grade_id": "PSA_10",
       "market_price": 30.99,
       "volume": null
@@ -12514,8 +12507,22 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2022-03-01",
+      "grade_id": "GRADE_9",
+      "market_price": 18.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2022-03-01",
       "grade_id": "RAW",
       "market_price": 8.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2022-02-01",
+      "grade_id": "GRADE_9",
+      "market_price": 20.5,
       "volume": null
     },
     {
@@ -12534,9 +12541,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2022-02-01",
-      "grade_id": "GRADE_9",
-      "market_price": 20.5,
+      "month": "2022-01-01",
+      "grade_id": "PSA_10",
+      "market_price": 44.53,
       "volume": null
     },
     {
@@ -12549,13 +12556,6 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2022-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 44.53,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2022-01-01",
       "grade_id": "GRADE_9",
       "market_price": 23.31,
       "volume": null
@@ -12563,8 +12563,8 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2021-12-01",
-      "grade_id": "RAW",
-      "market_price": 9.51,
+      "grade_id": "GRADE_9",
+      "market_price": 25.74,
       "volume": null
     },
     {
@@ -12577,8 +12577,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2021-12-01",
-      "grade_id": "GRADE_9",
-      "market_price": 25.74,
+      "grade_id": "RAW",
+      "market_price": 9.51,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2021-11-01",
+      "grade_id": "PSA_10",
+      "market_price": 46.0,
       "volume": null
     },
     {
@@ -12597,13 +12604,6 @@
     },
     {
       "card_id": "pokemon_swsh3.5_76",
-      "month": "2021-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 46.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
       "month": "2021-10-01",
       "grade_id": "RAW",
       "market_price": 11.99,
@@ -12612,15 +12612,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2021-10-01",
-      "grade_id": "PSA_10",
-      "market_price": 51.0,
+      "grade_id": "GRADE_9",
+      "market_price": 27.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2021-10-01",
-      "grade_id": "GRADE_9",
-      "market_price": 27.0,
+      "grade_id": "PSA_10",
+      "market_price": 51.0,
       "volume": null
     },
     {
@@ -12647,6 +12647,13 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 12.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
+      "month": "2021-08-01",
       "grade_id": "GRADE_9",
       "market_price": 40.0,
       "volume": null
@@ -12656,13 +12663,6 @@
       "month": "2021-08-01",
       "grade_id": "PSA_10",
       "market_price": 60.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2021-08-01",
-      "grade_id": "RAW",
-      "market_price": 12.5,
       "volume": null
     },
     {
@@ -12689,15 +12689,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2021-06-01",
-      "grade_id": "RAW",
-      "market_price": 9.25,
+      "grade_id": "GRADE_9",
+      "market_price": 32.72,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2021-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 32.72,
+      "grade_id": "RAW",
+      "market_price": 9.25,
       "volume": null
     },
     {
@@ -12731,8 +12731,8 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2021-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 33.25,
+      "grade_id": "RAW",
+      "market_price": 13.25,
       "volume": null
     },
     {
@@ -12745,15 +12745,8 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2021-04-01",
-      "grade_id": "RAW",
-      "market_price": 13.25,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_76",
-      "month": "2021-03-01",
-      "grade_id": "RAW",
-      "market_price": 14.94,
+      "grade_id": "GRADE_9",
+      "market_price": 33.25,
       "volume": null
     },
     {
@@ -12772,6 +12765,13 @@
     },
     {
       "card_id": "pokemon_swsh3.5_76",
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 14.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_76",
       "month": "2021-02-01",
       "grade_id": "GRADE_9",
       "market_price": 55.5,
@@ -12780,15 +12780,15 @@
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2021-02-01",
-      "grade_id": "PSA_10",
-      "market_price": 152.5,
+      "grade_id": "RAW",
+      "market_price": 11.67,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_76",
       "month": "2021-02-01",
-      "grade_id": "RAW",
-      "market_price": 11.67,
+      "grade_id": "PSA_10",
+      "market_price": 152.5,
       "volume": null
     },
     {
@@ -12801,8 +12801,8 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2026-03-01",
-      "grade_id": "BGS_10_BL",
-      "market_price": 160.0,
+      "grade_id": "BGS_10",
+      "market_price": 32.0,
       "volume": null
     },
     {
@@ -12810,6 +12810,34 @@
       "month": "2026-03-01",
       "grade_id": "PSA_10",
       "market_price": 26.82,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2026-03-01",
+      "grade_id": "CGC_10_PRISTINE",
+      "market_price": 28.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2026-03-01",
+      "grade_id": "BGS_10_BL",
+      "market_price": 160.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2026-03-01",
+      "grade_id": "TAG_10",
+      "market_price": 16.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2026-03-01",
+      "grade_id": "GRADE_9",
+      "market_price": 13.8,
       "volume": null
     },
     {
@@ -12828,44 +12856,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2026-03-01",
-      "grade_id": "CGC_10_PRISTINE",
-      "market_price": 28.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2026-03-01",
-      "grade_id": "GRADE_9",
-      "market_price": 13.8,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2026-03-01",
-      "grade_id": "BGS_10",
-      "market_price": 32.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2026-03-01",
-      "grade_id": "TAG_10",
-      "market_price": 16.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
       "month": "2026-02-01",
       "grade_id": "GRADE_9",
       "market_price": 11.42,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2026-02-01",
-      "grade_id": "RAW",
-      "market_price": 3.14,
       "volume": null
     },
     {
@@ -12877,9 +12870,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2026-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 25.3,
+      "month": "2026-02-01",
+      "grade_id": "RAW",
+      "market_price": 3.14,
       "volume": null
     },
     {
@@ -12898,9 +12891,23 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
+      "month": "2026-01-01",
+      "grade_id": "PSA_10",
+      "market_price": 25.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
       "month": "2025-12-01",
       "grade_id": "PSA_10",
       "market_price": 24.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 3.05,
       "volume": null
     },
     {
@@ -12912,9 +12919,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2025-12-01",
-      "grade_id": "RAW",
-      "market_price": 3.05,
+      "month": "2025-11-01",
+      "grade_id": "PSA_10",
+      "market_price": 25.75,
       "volume": null
     },
     {
@@ -12933,9 +12940,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2025-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 25.75,
+      "month": "2025-10-01",
+      "grade_id": "GRADE_9",
+      "market_price": 9.23,
       "volume": null
     },
     {
@@ -12950,13 +12957,6 @@
       "month": "2025-10-01",
       "grade_id": "RAW",
       "market_price": 3.22,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2025-10-01",
-      "grade_id": "GRADE_9",
-      "market_price": 9.23,
       "volume": null
     },
     {
@@ -12990,22 +12990,22 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2025-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 9.75,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2025-08-01",
       "grade_id": "PSA_10",
       "market_price": 21.85,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
+      "month": "2025-08-01",
+      "grade_id": "GRADE_9",
+      "market_price": 9.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
       "month": "2025-07-01",
-      "grade_id": "PSA_10",
-      "market_price": 23.99,
+      "grade_id": "RAW",
+      "market_price": 3.99,
       "volume": null
     },
     {
@@ -13018,15 +13018,8 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2025-07-01",
-      "grade_id": "RAW",
-      "market_price": 3.99,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2025-06-01",
       "grade_id": "PSA_10",
-      "market_price": 22.75,
+      "market_price": 23.99,
       "volume": null
     },
     {
@@ -13034,6 +13027,13 @@
       "month": "2025-06-01",
       "grade_id": "GRADE_9",
       "market_price": 9.34,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2025-06-01",
+      "grade_id": "PSA_10",
+      "market_price": 22.75,
       "volume": null
     },
     {
@@ -13088,6 +13088,13 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2025-03-01",
+      "grade_id": "PSA_10",
+      "market_price": 25.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2025-03-01",
       "grade_id": "GRADE_9",
       "market_price": 8.5,
       "volume": null
@@ -13101,23 +13108,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2025-03-01",
-      "grade_id": "PSA_10",
-      "market_price": 25.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
       "month": "2025-02-01",
       "grade_id": "RAW",
       "market_price": 4.76,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2025-02-01",
-      "grade_id": "PSA_10",
-      "market_price": 19.8,
       "volume": null
     },
     {
@@ -13129,9 +13122,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2025-01-01",
+      "month": "2025-02-01",
       "grade_id": "PSA_10",
-      "market_price": 20.0,
+      "market_price": 19.8,
       "volume": null
     },
     {
@@ -13139,6 +13132,13 @@
       "month": "2025-01-01",
       "grade_id": "RAW",
       "market_price": 4.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2025-01-01",
+      "grade_id": "PSA_10",
+      "market_price": 20.0,
       "volume": null
     },
     {
@@ -13172,15 +13172,15 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2024-11-01",
-      "grade_id": "RAW",
-      "market_price": 3.52,
+      "grade_id": "GRADE_9",
+      "market_price": 10.76,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2024-11-01",
-      "grade_id": "GRADE_9",
-      "market_price": 10.76,
+      "grade_id": "RAW",
+      "market_price": 3.52,
       "volume": null
     },
     {
@@ -13193,15 +13193,15 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2024-10-01",
-      "grade_id": "RAW",
-      "market_price": 4.03,
+      "grade_id": "GRADE_9",
+      "market_price": 11.19,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2024-10-01",
-      "grade_id": "GRADE_9",
-      "market_price": 11.19,
+      "grade_id": "RAW",
+      "market_price": 4.03,
       "volume": null
     },
     {
@@ -13214,8 +13214,8 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2024-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 10.26,
+      "grade_id": "RAW",
+      "market_price": 4.14,
       "volume": null
     },
     {
@@ -13228,15 +13228,8 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2024-09-01",
-      "grade_id": "RAW",
-      "market_price": 4.14,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2024-08-01",
       "grade_id": "GRADE_9",
-      "market_price": 14.0,
+      "market_price": 10.26,
       "volume": null
     },
     {
@@ -13249,15 +13242,15 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2024-08-01",
-      "grade_id": "RAW",
-      "market_price": 3.53,
+      "grade_id": "GRADE_9",
+      "market_price": 14.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2024-07-01",
-      "grade_id": "PSA_10",
-      "market_price": 16.42,
+      "month": "2024-08-01",
+      "grade_id": "RAW",
+      "market_price": 3.53,
       "volume": null
     },
     {
@@ -13270,6 +13263,20 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2024-07-01",
+      "grade_id": "PSA_10",
+      "market_price": 16.42,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2024-07-01",
+      "grade_id": "GRADE_9",
+      "market_price": 14.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2024-06-01",
       "grade_id": "GRADE_9",
       "market_price": 14.0,
       "volume": null
@@ -13290,7 +13297,7 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2024-06-01",
+      "month": "2024-05-01",
       "grade_id": "GRADE_9",
       "market_price": 14.0,
       "volume": null
@@ -13307,13 +13314,6 @@
       "month": "2024-05-01",
       "grade_id": "RAW",
       "market_price": 4.94,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2024-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 14.0,
       "volume": null
     },
     {
@@ -13340,8 +13340,8 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2024-03-01",
-      "grade_id": "RAW",
-      "market_price": 2.68,
+      "grade_id": "PSA_10",
+      "market_price": 16.9,
       "volume": null
     },
     {
@@ -13354,15 +13354,8 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2024-03-01",
-      "grade_id": "PSA_10",
-      "market_price": 16.9,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2024-02-01",
-      "grade_id": "PSA_10",
-      "market_price": 15.83,
+      "grade_id": "RAW",
+      "market_price": 2.68,
       "volume": null
     },
     {
@@ -13375,13 +13368,13 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2024-02-01",
-      "grade_id": "GRADE_9",
-      "market_price": 14.0,
+      "grade_id": "PSA_10",
+      "market_price": 15.83,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2024-01-01",
+      "month": "2024-02-01",
       "grade_id": "GRADE_9",
       "market_price": 14.0,
       "volume": null
@@ -13398,6 +13391,13 @@
       "month": "2024-01-01",
       "grade_id": "PSA_10",
       "market_price": 18.37,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2024-01-01",
+      "grade_id": "GRADE_9",
+      "market_price": 14.0,
       "volume": null
     },
     {
@@ -13424,8 +13424,8 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2023-11-01",
-      "grade_id": "RAW",
-      "market_price": 3.63,
+      "grade_id": "PSA_10",
+      "market_price": 18.51,
       "volume": null
     },
     {
@@ -13438,15 +13438,8 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2023-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 18.51,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2023-10-01",
       "grade_id": "RAW",
-      "market_price": 3.02,
+      "market_price": 3.63,
       "volume": null
     },
     {
@@ -13465,6 +13458,20 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
+      "month": "2023-10-01",
+      "grade_id": "RAW",
+      "market_price": 3.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2023-09-01",
+      "grade_id": "PSA_10",
+      "market_price": 22.2,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
       "month": "2023-09-01",
       "grade_id": "GRADE_9",
       "market_price": 13.75,
@@ -13475,13 +13482,6 @@
       "month": "2023-09-01",
       "grade_id": "RAW",
       "market_price": 4.44,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2023-09-01",
-      "grade_id": "PSA_10",
-      "market_price": 22.2,
       "volume": null
     },
     {
@@ -13508,15 +13508,15 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2023-07-01",
-      "grade_id": "RAW",
-      "market_price": 4.33,
+      "grade_id": "PSA_10",
+      "market_price": 19.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2023-07-01",
-      "grade_id": "PSA_10",
-      "market_price": 19.0,
+      "grade_id": "RAW",
+      "market_price": 4.33,
       "volume": null
     },
     {
@@ -13536,22 +13536,15 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2023-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 17.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2023-06-01",
       "grade_id": "GRADE_9",
       "market_price": 13.59,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2023-05-01",
-      "grade_id": "RAW",
-      "market_price": 4.15,
+      "month": "2023-06-01",
+      "grade_id": "PSA_10",
+      "market_price": 17.5,
       "volume": null
     },
     {
@@ -13564,6 +13557,13 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 4.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2023-05-01",
       "grade_id": "PSA_10",
       "market_price": 19.11,
       "volume": null
@@ -13571,15 +13571,15 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2023-04-01",
-      "grade_id": "PSA_10",
-      "market_price": 20.74,
+      "grade_id": "GRADE_9",
+      "market_price": 14.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2023-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 14.0,
+      "grade_id": "PSA_10",
+      "market_price": 20.74,
       "volume": null
     },
     {
@@ -13599,22 +13599,15 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2023-03-01",
-      "grade_id": "PSA_10",
-      "market_price": 16.35,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2023-03-01",
       "grade_id": "RAW",
       "market_price": 5.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2023-02-01",
-      "grade_id": "RAW",
-      "market_price": 4.49,
+      "month": "2023-03-01",
+      "grade_id": "PSA_10",
+      "market_price": 16.35,
       "volume": null
     },
     {
@@ -13633,6 +13626,20 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
+      "month": "2023-02-01",
+      "grade_id": "RAW",
+      "market_price": 4.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 3.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
       "month": "2023-01-01",
       "grade_id": "GRADE_9",
       "market_price": 14.0,
@@ -13647,13 +13654,6 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2023-01-01",
-      "grade_id": "RAW",
-      "market_price": 3.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
       "month": "2022-12-01",
       "grade_id": "RAW",
       "market_price": 4.91,
@@ -13662,15 +13662,15 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2022-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 22.76,
+      "grade_id": "GRADE_9",
+      "market_price": 16.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2022-12-01",
-      "grade_id": "GRADE_9",
-      "market_price": 16.0,
+      "grade_id": "PSA_10",
+      "market_price": 22.76,
       "volume": null
     },
     {
@@ -13683,22 +13683,22 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2022-11-01",
-      "grade_id": "GRADE_9",
-      "market_price": 14.3,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2022-11-01",
       "grade_id": "PSA_10",
       "market_price": 24.64,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
+      "month": "2022-11-01",
+      "grade_id": "GRADE_9",
+      "market_price": 14.3,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
       "month": "2022-10-01",
-      "grade_id": "PSA_10",
-      "market_price": 22.0,
+      "grade_id": "RAW",
+      "market_price": 5.97,
       "volume": null
     },
     {
@@ -13711,8 +13711,8 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2022-10-01",
-      "grade_id": "RAW",
-      "market_price": 5.97,
+      "grade_id": "PSA_10",
+      "market_price": 22.0,
       "volume": null
     },
     {
@@ -13739,15 +13739,15 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2022-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 21.6,
+      "grade_id": "GRADE_9",
+      "market_price": 12.68,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2022-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 12.68,
+      "grade_id": "PSA_10",
+      "market_price": 21.6,
       "volume": null
     },
     {
@@ -13781,13 +13781,6 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2022-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 11.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2022-06-01",
       "grade_id": "PSA_10",
       "market_price": 20.21,
       "volume": null
@@ -13797,6 +13790,20 @@
       "month": "2022-06-01",
       "grade_id": "RAW",
       "market_price": 4.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2022-06-01",
+      "grade_id": "GRADE_9",
+      "market_price": 11.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2022-05-01",
+      "grade_id": "RAW",
+      "market_price": 5.3,
       "volume": null
     },
     {
@@ -13815,23 +13822,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2022-05-01",
-      "grade_id": "RAW",
-      "market_price": 5.3,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
       "month": "2022-04-01",
       "grade_id": "RAW",
       "market_price": 4.99,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2022-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 15.67,
       "volume": null
     },
     {
@@ -13843,16 +13836,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2022-03-01",
+      "month": "2022-04-01",
       "grade_id": "GRADE_9",
-      "market_price": 23.0,
+      "market_price": 15.67,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2022-03-01",
-      "grade_id": "RAW",
-      "market_price": 9.5,
+      "grade_id": "GRADE_9",
+      "market_price": 23.0,
       "volume": null
     },
     {
@@ -13864,9 +13857,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2022-02-01",
-      "grade_id": "GRADE_9",
-      "market_price": 23.0,
+      "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 9.5,
       "volume": null
     },
     {
@@ -13879,8 +13872,22 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2022-02-01",
+      "grade_id": "GRADE_9",
+      "market_price": 23.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2022-02-01",
       "grade_id": "RAW",
       "market_price": 6.63,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2022-01-01",
+      "grade_id": "PSA_10",
+      "market_price": 29.84,
       "volume": null
     },
     {
@@ -13899,9 +13906,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2022-01-01",
+      "month": "2021-12-01",
       "grade_id": "PSA_10",
-      "market_price": 29.84,
+      "market_price": 26.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 4.13,
       "volume": null
     },
     {
@@ -13913,16 +13927,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2021-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 26.49,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2021-12-01",
-      "grade_id": "RAW",
-      "market_price": 4.13,
+      "month": "2021-11-01",
+      "grade_id": "GRADE_9",
+      "market_price": 30.0,
       "volume": null
     },
     {
@@ -13941,9 +13948,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2021-11-01",
-      "grade_id": "GRADE_9",
-      "market_price": 30.0,
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 6.17,
       "volume": null
     },
     {
@@ -13962,9 +13969,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2021-10-01",
-      "grade_id": "RAW",
-      "market_price": 6.17,
+      "month": "2021-09-01",
+      "grade_id": "GRADE_9",
+      "market_price": 31.02,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2021-09-01",
+      "grade_id": "PSA_10",
+      "market_price": 47.25,
       "volume": null
     },
     {
@@ -13976,16 +13990,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2021-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 31.02,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
-      "month": "2021-09-01",
-      "grade_id": "PSA_10",
-      "market_price": 47.25,
+      "month": "2021-08-01",
+      "grade_id": "RAW",
+      "market_price": 4.62,
       "volume": null
     },
     {
@@ -14004,13 +14011,6 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2021-08-01",
-      "grade_id": "RAW",
-      "market_price": 4.62,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
       "month": "2021-07-01",
       "grade_id": "GRADE_9",
       "market_price": 31.02,
@@ -14019,15 +14019,15 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2021-07-01",
-      "grade_id": "RAW",
-      "market_price": 6.83,
+      "grade_id": "PSA_10",
+      "market_price": 36.28,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2021-07-01",
-      "grade_id": "PSA_10",
-      "market_price": 36.28,
+      "grade_id": "RAW",
+      "market_price": 6.83,
       "volume": null
     },
     {
@@ -14054,13 +14054,20 @@
     {
       "card_id": "pokemon_swsh3.5_77",
       "month": "2021-05-01",
+      "grade_id": "PSA_10",
+      "market_price": 75.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_77",
+      "month": "2021-05-01",
       "grade_id": "RAW",
       "market_price": 6.21,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2021-05-01",
+      "month": "2021-04-01",
       "grade_id": "PSA_10",
       "market_price": 75.5,
       "volume": null
@@ -14074,7 +14081,7 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2021-04-01",
+      "month": "2021-03-01",
       "grade_id": "PSA_10",
       "market_price": 75.5,
       "volume": null
@@ -14088,7 +14095,7 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2021-03-01",
+      "month": "2021-02-01",
       "grade_id": "PSA_10",
       "market_price": 75.5,
       "volume": null
@@ -14102,16 +14109,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_77",
-      "month": "2021-02-01",
-      "grade_id": "PSA_10",
-      "market_price": 75.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_77",
       "month": "2021-01-01",
       "grade_id": "RAW",
       "market_price": 14.49,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2026-03-01",
+      "grade_id": "BGS_10",
+      "market_price": 34.15,
       "volume": null
     },
     {
@@ -14124,15 +14131,8 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2026-03-01",
-      "grade_id": "PSA_10",
-      "market_price": 39.9,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2026-03-01",
-      "grade_id": "BGS_10_BL",
-      "market_price": 171.0,
+      "grade_id": "CGC_10_PRISTINE",
+      "market_price": 32.0,
       "volume": null
     },
     {
@@ -14145,6 +14145,20 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2026-03-01",
+      "grade_id": "BGS_10_BL",
+      "market_price": 171.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2026-03-01",
+      "grade_id": "PSA_10",
+      "market_price": 39.9,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2026-03-01",
       "grade_id": "GRADE_9",
       "market_price": 16.12,
       "volume": null
@@ -14152,29 +14166,8 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2026-03-01",
-      "grade_id": "CGC_10_PRISTINE",
-      "market_price": 32.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2026-03-01",
       "grade_id": "RAW",
       "market_price": 5.2,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2026-03-01",
-      "grade_id": "BGS_10",
-      "market_price": 34.15,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2026-02-01",
-      "grade_id": "GRADE_9",
-      "market_price": 13.97,
       "volume": null
     },
     {
@@ -14193,16 +14186,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2026-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 37.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2026-01-01",
-      "grade_id": "RAW",
-      "market_price": 4.0,
+      "month": "2026-02-01",
+      "grade_id": "GRADE_9",
+      "market_price": 13.97,
       "volume": null
     },
     {
@@ -14214,9 +14200,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2025-12-01",
-      "grade_id": "GRADE_9",
-      "market_price": 12.5,
+      "month": "2026-01-01",
+      "grade_id": "PSA_10",
+      "market_price": 37.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 4.0,
       "volume": null
     },
     {
@@ -14235,9 +14228,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2025-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 30.0,
+      "month": "2025-12-01",
+      "grade_id": "GRADE_9",
+      "market_price": 12.5,
       "volume": null
     },
     {
@@ -14256,9 +14249,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2025-10-01",
-      "grade_id": "GRADE_9",
-      "market_price": 9.66,
+      "month": "2025-11-01",
+      "grade_id": "PSA_10",
+      "market_price": 30.0,
       "volume": null
     },
     {
@@ -14273,6 +14266,13 @@
       "month": "2025-10-01",
       "grade_id": "PSA_10",
       "market_price": 26.98,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2025-10-01",
+      "grade_id": "GRADE_9",
+      "market_price": 9.66,
       "volume": null
     },
     {
@@ -14299,13 +14299,6 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2025-08-01",
-      "grade_id": "RAW",
-      "market_price": 4.99,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2025-08-01",
       "grade_id": "PSA_10",
       "market_price": 28.98,
       "volume": null
@@ -14319,9 +14312,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2025-07-01",
-      "grade_id": "GRADE_9",
-      "market_price": 11.97,
+      "month": "2025-08-01",
+      "grade_id": "RAW",
+      "market_price": 4.99,
       "volume": null
     },
     {
@@ -14334,8 +14327,22 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2025-07-01",
+      "grade_id": "GRADE_9",
+      "market_price": 11.97,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2025-07-01",
       "grade_id": "RAW",
       "market_price": 4.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2025-06-01",
+      "grade_id": "PSA_10",
+      "market_price": 24.97,
       "volume": null
     },
     {
@@ -14354,16 +14361,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2025-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 24.97,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
       "month": "2025-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 10.92,
+      "grade_id": "PSA_10",
+      "market_price": 20.97,
       "volume": null
     },
     {
@@ -14376,15 +14376,8 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2025-05-01",
-      "grade_id": "PSA_10",
-      "market_price": 20.97,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2025-04-01",
-      "grade_id": "RAW",
-      "market_price": 4.0,
+      "grade_id": "GRADE_9",
+      "market_price": 10.92,
       "volume": null
     },
     {
@@ -14397,15 +14390,15 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2025-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 10.75,
+      "grade_id": "RAW",
+      "market_price": 4.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2025-03-01",
+      "month": "2025-04-01",
       "grade_id": "GRADE_9",
-      "market_price": 11.53,
+      "market_price": 10.75,
       "volume": null
     },
     {
@@ -14424,9 +14417,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2025-02-01",
+      "month": "2025-03-01",
       "grade_id": "GRADE_9",
-      "market_price": 9.97,
+      "market_price": 11.53,
       "volume": null
     },
     {
@@ -14445,9 +14438,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2025-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 22.0,
+      "month": "2025-02-01",
+      "grade_id": "GRADE_9",
+      "market_price": 9.97,
       "volume": null
     },
     {
@@ -14460,13 +14453,13 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2025-01-01",
-      "grade_id": "GRADE_9",
-      "market_price": 10.0,
+      "grade_id": "PSA_10",
+      "market_price": 22.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2024-12-01",
+      "month": "2025-01-01",
       "grade_id": "GRADE_9",
       "market_price": 10.0,
       "volume": null
@@ -14487,9 +14480,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2024-11-01",
-      "grade_id": "RAW",
-      "market_price": 3.46,
+      "month": "2024-12-01",
+      "grade_id": "GRADE_9",
+      "market_price": 10.0,
       "volume": null
     },
     {
@@ -14508,9 +14501,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2024-10-01",
-      "grade_id": "PSA_10",
-      "market_price": 20.38,
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 3.46,
       "volume": null
     },
     {
@@ -14529,9 +14522,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2024-09-01",
+      "month": "2024-10-01",
       "grade_id": "PSA_10",
-      "market_price": 24.24,
+      "market_price": 20.38,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2024-09-01",
+      "grade_id": "GRADE_9",
+      "market_price": 8.81,
       "volume": null
     },
     {
@@ -14544,8 +14544,8 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2024-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 8.81,
+      "grade_id": "PSA_10",
+      "market_price": 24.24,
       "volume": null
     },
     {
@@ -14572,15 +14572,15 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2024-07-01",
-      "grade_id": "PSA_10",
-      "market_price": 22.7,
+      "grade_id": "GRADE_9",
+      "market_price": 9.2,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2024-07-01",
-      "grade_id": "GRADE_9",
-      "market_price": 9.2,
+      "grade_id": "PSA_10",
+      "market_price": 22.7,
       "volume": null
     },
     {
@@ -14593,15 +14593,15 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2024-06-01",
-      "grade_id": "RAW",
-      "market_price": 4.74,
+      "grade_id": "GRADE_9",
+      "market_price": 11.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2024-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 11.0,
+      "grade_id": "RAW",
+      "market_price": 4.74,
       "volume": null
     },
     {
@@ -14621,22 +14621,15 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2024-05-01",
-      "grade_id": "PSA_10",
-      "market_price": 22.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2024-05-01",
       "grade_id": "GRADE_9",
       "market_price": 10.15,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2024-04-01",
+      "month": "2024-05-01",
       "grade_id": "PSA_10",
-      "market_price": 23.6,
+      "market_price": 22.5,
       "volume": null
     },
     {
@@ -14651,6 +14644,13 @@
       "month": "2024-04-01",
       "grade_id": "RAW",
       "market_price": 5.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2024-04-01",
+      "grade_id": "PSA_10",
+      "market_price": 23.6,
       "volume": null
     },
     {
@@ -14684,22 +14684,15 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2024-02-01",
-      "grade_id": "GRADE_9",
-      "market_price": 9.63,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2024-02-01",
       "grade_id": "PSA_10",
       "market_price": 23.47,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2024-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 22.09,
+      "month": "2024-02-01",
+      "grade_id": "GRADE_9",
+      "market_price": 9.63,
       "volume": null
     },
     {
@@ -14712,15 +14705,15 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2024-01-01",
-      "grade_id": "GRADE_9",
-      "market_price": 12.0,
+      "grade_id": "PSA_10",
+      "market_price": 22.09,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2023-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 27.0,
+      "month": "2024-01-01",
+      "grade_id": "GRADE_9",
+      "market_price": 12.0,
       "volume": null
     },
     {
@@ -14733,15 +14726,15 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2023-12-01",
-      "grade_id": "RAW",
-      "market_price": 3.0,
+      "grade_id": "PSA_10",
+      "market_price": 27.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2023-11-01",
+      "month": "2023-12-01",
       "grade_id": "RAW",
-      "market_price": 4.49,
+      "market_price": 3.0,
       "volume": null
     },
     {
@@ -14754,15 +14747,15 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2023-11-01",
-      "grade_id": "GRADE_9",
-      "market_price": 11.51,
+      "grade_id": "RAW",
+      "market_price": 4.49,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2023-10-01",
+      "month": "2023-11-01",
       "grade_id": "GRADE_9",
-      "market_price": 13.29,
+      "market_price": 11.51,
       "volume": null
     },
     {
@@ -14781,9 +14774,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
+      "month": "2023-10-01",
+      "grade_id": "GRADE_9",
+      "market_price": 13.29,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
       "month": "2023-09-01",
-      "grade_id": "PSA_10",
-      "market_price": 21.36,
+      "grade_id": "RAW",
+      "market_price": 4.99,
       "volume": null
     },
     {
@@ -14796,15 +14796,8 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2023-09-01",
-      "grade_id": "RAW",
-      "market_price": 4.99,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2023-08-01",
-      "grade_id": "RAW",
-      "market_price": 4.97,
+      "grade_id": "PSA_10",
+      "market_price": 21.36,
       "volume": null
     },
     {
@@ -14823,16 +14816,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2023-07-01",
+      "month": "2023-08-01",
       "grade_id": "RAW",
-      "market_price": 4.99,
+      "market_price": 4.97,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2023-07-01",
-      "grade_id": "GRADE_9",
-      "market_price": 14.39,
+      "grade_id": "RAW",
+      "market_price": 4.99,
       "volume": null
     },
     {
@@ -14844,9 +14837,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2023-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 21.0,
+      "month": "2023-07-01",
+      "grade_id": "GRADE_9",
+      "market_price": 14.39,
       "volume": null
     },
     {
@@ -14865,6 +14858,20 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
+      "month": "2023-06-01",
+      "grade_id": "PSA_10",
+      "market_price": 21.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2023-05-01",
+      "grade_id": "RAW",
+      "market_price": 6.47,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
       "month": "2023-05-01",
       "grade_id": "PSA_10",
       "market_price": 19.5,
@@ -14879,9 +14886,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2023-05-01",
-      "grade_id": "RAW",
-      "market_price": 6.47,
+      "month": "2023-04-01",
+      "grade_id": "PSA_10",
+      "market_price": 20.5,
       "volume": null
     },
     {
@@ -14900,20 +14907,6 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2023-04-01",
-      "grade_id": "PSA_10",
-      "market_price": 20.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2023-03-01",
-      "grade_id": "RAW",
-      "market_price": 4.86,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
       "month": "2023-03-01",
       "grade_id": "PSA_10",
       "market_price": 21.3,
@@ -14928,9 +14921,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2023-02-01",
-      "grade_id": "PSA_10",
-      "market_price": 24.68,
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 4.86,
       "volume": null
     },
     {
@@ -14945,6 +14938,13 @@
       "month": "2023-02-01",
       "grade_id": "GRADE_9",
       "market_price": 14.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2023-02-01",
+      "grade_id": "PSA_10",
+      "market_price": 24.68,
       "volume": null
     },
     {
@@ -14971,6 +14971,13 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2022-12-01",
+      "grade_id": "RAW",
+      "market_price": 4.24,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2022-12-01",
       "grade_id": "GRADE_9",
       "market_price": 14.07,
       "volume": null
@@ -14980,13 +14987,6 @@
       "month": "2022-12-01",
       "grade_id": "PSA_10",
       "market_price": 23.98,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2022-12-01",
-      "grade_id": "RAW",
-      "market_price": 4.24,
       "volume": null
     },
     {
@@ -15013,6 +15013,13 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2022-10-01",
+      "grade_id": "PSA_10",
+      "market_price": 23.44,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2022-10-01",
       "grade_id": "GRADE_9",
       "market_price": 12.75,
       "volume": null
@@ -15026,16 +15033,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2022-10-01",
-      "grade_id": "PSA_10",
-      "market_price": 23.44,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
       "month": "2022-09-01",
-      "grade_id": "RAW",
-      "market_price": 5.94,
+      "grade_id": "GRADE_9",
+      "market_price": 15.5,
       "volume": null
     },
     {
@@ -15048,8 +15048,15 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2022-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 15.5,
+      "grade_id": "RAW",
+      "market_price": 5.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2022-08-01",
+      "grade_id": "PSA_10",
+      "market_price": 20.27,
       "volume": null
     },
     {
@@ -15068,16 +15075,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2022-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 20.27,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
       "month": "2022-07-01",
-      "grade_id": "RAW",
-      "market_price": 5.48,
+      "grade_id": "PSA_10",
+      "market_price": 19.99,
       "volume": null
     },
     {
@@ -15090,8 +15090,15 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2022-07-01",
-      "grade_id": "PSA_10",
-      "market_price": 19.99,
+      "grade_id": "RAW",
+      "market_price": 5.48,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2022-06-01",
+      "grade_id": "RAW",
+      "market_price": 6.31,
       "volume": null
     },
     {
@@ -15110,9 +15117,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2022-06-01",
-      "grade_id": "RAW",
-      "market_price": 6.31,
+      "month": "2022-05-01",
+      "grade_id": "GRADE_9",
+      "market_price": 15.0,
       "volume": null
     },
     {
@@ -15131,16 +15138,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2022-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 15.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
       "month": "2022-04-01",
-      "grade_id": "PSA_10",
-      "market_price": 24.85,
+      "grade_id": "GRADE_9",
+      "market_price": 15.55,
       "volume": null
     },
     {
@@ -15153,8 +15153,8 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2022-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 15.55,
+      "grade_id": "PSA_10",
+      "market_price": 24.85,
       "volume": null
     },
     {
@@ -15167,22 +15167,15 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2022-03-01",
-      "grade_id": "GRADE_9",
-      "market_price": 16.7,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2022-03-01",
       "grade_id": "PSA_10",
       "market_price": 26.78,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2022-02-01",
+      "month": "2022-03-01",
       "grade_id": "GRADE_9",
-      "market_price": 19.35,
+      "market_price": 16.7,
       "volume": null
     },
     {
@@ -15190,6 +15183,13 @@
       "month": "2022-02-01",
       "grade_id": "PSA_10",
       "market_price": 29.39,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2022-02-01",
+      "grade_id": "GRADE_9",
+      "market_price": 19.35,
       "volume": null
     },
     {
@@ -15209,15 +15209,22 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2022-01-01",
+      "grade_id": "PSA_10",
+      "market_price": 33.01,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2022-01-01",
       "grade_id": "RAW",
       "market_price": 7.89,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2022-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 33.01,
+      "month": "2021-12-01",
+      "grade_id": "RAW",
+      "market_price": 5.24,
       "volume": null
     },
     {
@@ -15236,9 +15243,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2021-12-01",
-      "grade_id": "RAW",
-      "market_price": 5.24,
+      "month": "2021-11-01",
+      "grade_id": "PSA_10",
+      "market_price": 46.79,
       "volume": null
     },
     {
@@ -15251,15 +15258,15 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2021-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 46.79,
+      "grade_id": "RAW",
+      "market_price": 6.95,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2021-11-01",
-      "grade_id": "RAW",
-      "market_price": 6.95,
+      "month": "2021-10-01",
+      "grade_id": "PSA_10",
+      "market_price": 48.35,
       "volume": null
     },
     {
@@ -15278,20 +15285,6 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2021-10-01",
-      "grade_id": "PSA_10",
-      "market_price": 48.35,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2021-09-01",
-      "grade_id": "RAW",
-      "market_price": 8.98,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
       "month": "2021-09-01",
       "grade_id": "GRADE_9",
       "market_price": 11.36,
@@ -15302,6 +15295,13 @@
       "month": "2021-09-01",
       "grade_id": "PSA_10",
       "market_price": 50.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 8.98,
       "volume": null
     },
     {
@@ -15349,13 +15349,20 @@
     {
       "card_id": "pokemon_swsh3.5_78",
       "month": "2021-05-01",
+      "grade_id": "PSA_10",
+      "market_price": 99.95,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2021-05-01",
       "grade_id": "RAW",
       "market_price": 8.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2021-05-01",
+      "month": "2021-04-01",
       "grade_id": "PSA_10",
       "market_price": 99.95,
       "volume": null
@@ -15369,23 +15376,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_78",
-      "month": "2021-04-01",
-      "grade_id": "PSA_10",
-      "market_price": 99.95,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
-      "month": "2021-03-01",
-      "grade_id": "PSA_10",
-      "market_price": 99.95,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_78",
       "month": "2021-03-01",
       "grade_id": "RAW",
       "market_price": 9.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_78",
+      "month": "2021-03-01",
+      "grade_id": "PSA_10",
+      "market_price": 99.95,
       "volume": null
     },
     {
@@ -15405,13 +15405,6 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2026-03-01",
-      "grade_id": "BGS_10",
-      "market_price": 520.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2026-03-01",
       "grade_id": "RAW",
       "market_price": 239.61,
       "volume": null
@@ -15421,6 +15414,27 @@
       "month": "2026-03-01",
       "grade_id": "CGC_10",
       "market_price": 295.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2026-03-01",
+      "grade_id": "PSA_10",
+      "market_price": 391.15,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2026-03-01",
+      "grade_id": "CGC_10_PRISTINE",
+      "market_price": 600.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2026-03-01",
+      "grade_id": "ACE_10",
+      "market_price": 268.5,
       "volume": null
     },
     {
@@ -15447,22 +15461,15 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2026-03-01",
-      "grade_id": "ACE_10",
-      "market_price": 268.5,
+      "grade_id": "BGS_10",
+      "market_price": 520.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2026-03-01",
-      "grade_id": "CGC_10_PRISTINE",
-      "market_price": 600.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2026-03-01",
+      "month": "2026-02-01",
       "grade_id": "PSA_10",
-      "market_price": 391.15,
+      "market_price": 390.73,
       "volume": null
     },
     {
@@ -15481,20 +15488,6 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2026-02-01",
-      "grade_id": "PSA_10",
-      "market_price": 390.73,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2026-01-01",
-      "grade_id": "RAW",
-      "market_price": 216.58,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
       "month": "2026-01-01",
       "grade_id": "GRADE_9",
       "market_price": 209.92,
@@ -15509,6 +15502,13 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
+      "month": "2026-01-01",
+      "grade_id": "RAW",
+      "market_price": 216.58,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
       "month": "2025-12-01",
       "grade_id": "GRADE_9",
       "market_price": 188.66,
@@ -15517,15 +15517,15 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2025-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 388.1,
+      "grade_id": "RAW",
+      "market_price": 181.12,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2025-12-01",
-      "grade_id": "RAW",
-      "market_price": 181.12,
+      "grade_id": "PSA_10",
+      "market_price": 388.1,
       "volume": null
     },
     {
@@ -15538,15 +15538,15 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2025-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 406.29,
+      "grade_id": "GRADE_9",
+      "market_price": 208.5,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2025-11-01",
-      "grade_id": "GRADE_9",
-      "market_price": 208.5,
+      "grade_id": "PSA_10",
+      "market_price": 406.29,
       "volume": null
     },
     {
@@ -15573,13 +15573,6 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2025-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 210.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2025-09-01",
       "grade_id": "RAW",
       "market_price": 187.5,
       "volume": null
@@ -15589,6 +15582,20 @@
       "month": "2025-09-01",
       "grade_id": "PSA_10",
       "market_price": 501.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2025-09-01",
+      "grade_id": "GRADE_9",
+      "market_price": 210.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2025-08-01",
+      "grade_id": "GRADE_9",
+      "market_price": 178.34,
       "volume": null
     },
     {
@@ -15607,16 +15614,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2025-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 178.34,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
       "month": "2025-07-01",
-      "grade_id": "RAW",
-      "market_price": 188.5,
+      "grade_id": "GRADE_9",
+      "market_price": 197.22,
       "volume": null
     },
     {
@@ -15629,15 +15629,8 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2025-07-01",
-      "grade_id": "GRADE_9",
-      "market_price": 197.22,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2025-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 354.89,
+      "grade_id": "RAW",
+      "market_price": 188.5,
       "volume": null
     },
     {
@@ -15650,15 +15643,15 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2025-06-01",
-      "grade_id": "RAW",
-      "market_price": 180.98,
+      "grade_id": "PSA_10",
+      "market_price": 354.89,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2025-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 185.0,
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 180.98,
       "volume": null
     },
     {
@@ -15677,6 +15670,13 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
+      "month": "2025-05-01",
+      "grade_id": "GRADE_9",
+      "market_price": 185.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
       "month": "2025-04-01",
       "grade_id": "RAW",
       "market_price": 174.7,
@@ -15685,15 +15685,15 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2025-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 190.0,
+      "grade_id": "PSA_10",
+      "market_price": 357.59,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2025-04-01",
-      "grade_id": "PSA_10",
-      "market_price": 357.59,
+      "grade_id": "GRADE_9",
+      "market_price": 190.0,
       "volume": null
     },
     {
@@ -15720,6 +15720,13 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2025-02-01",
+      "grade_id": "RAW",
+      "market_price": 168.19,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2025-02-01",
       "grade_id": "GRADE_9",
       "market_price": 194.99,
       "volume": null
@@ -15729,13 +15736,6 @@
       "month": "2025-02-01",
       "grade_id": "PSA_10",
       "market_price": 379.92,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2025-02-01",
-      "grade_id": "RAW",
-      "market_price": 168.19,
       "volume": null
     },
     {
@@ -15762,8 +15762,8 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2024-12-01",
-      "grade_id": "RAW",
-      "market_price": 150.0,
+      "grade_id": "PSA_10",
+      "market_price": 296.97,
       "volume": null
     },
     {
@@ -15776,15 +15776,8 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2024-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 296.97,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2024-11-01",
       "grade_id": "RAW",
-      "market_price": 158.37,
+      "market_price": 150.0,
       "volume": null
     },
     {
@@ -15792,6 +15785,13 @@
       "month": "2024-11-01",
       "grade_id": "PSA_10",
       "market_price": 269.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2024-11-01",
+      "grade_id": "RAW",
+      "market_price": 158.37,
       "volume": null
     },
     {
@@ -15832,15 +15832,15 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2024-09-01",
-      "grade_id": "RAW",
-      "market_price": 135.67,
+      "grade_id": "GRADE_9",
+      "market_price": 140.36,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2024-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 140.36,
+      "grade_id": "RAW",
+      "market_price": 135.67,
       "volume": null
     },
     {
@@ -15888,15 +15888,15 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2024-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 252.5,
+      "grade_id": "GRADE_9",
+      "market_price": 140.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2024-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 140.0,
+      "grade_id": "PSA_10",
+      "market_price": 252.5,
       "volume": null
     },
     {
@@ -15909,8 +15909,8 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2024-05-01",
-      "grade_id": "RAW",
-      "market_price": 117.5,
+      "grade_id": "PSA_10",
+      "market_price": 256.04,
       "volume": null
     },
     {
@@ -15923,8 +15923,8 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2024-05-01",
-      "grade_id": "PSA_10",
-      "market_price": 256.04,
+      "grade_id": "RAW",
+      "market_price": 117.5,
       "volume": null
     },
     {
@@ -15951,8 +15951,8 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2024-03-01",
-      "grade_id": "PSA_10",
-      "market_price": 242.5,
+      "grade_id": "RAW",
+      "market_price": 128.33,
       "volume": null
     },
     {
@@ -15965,15 +15965,8 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2024-03-01",
-      "grade_id": "RAW",
-      "market_price": 128.33,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2024-02-01",
       "grade_id": "PSA_10",
-      "market_price": 239.7,
+      "market_price": 242.5,
       "volume": null
     },
     {
@@ -15992,9 +15985,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2024-01-01",
+      "month": "2024-02-01",
       "grade_id": "PSA_10",
-      "market_price": 243.5,
+      "market_price": 239.7,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2024-01-01",
+      "grade_id": "RAW",
+      "market_price": 123.97,
       "volume": null
     },
     {
@@ -16007,8 +16007,15 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2024-01-01",
-      "grade_id": "RAW",
-      "market_price": 123.97,
+      "grade_id": "PSA_10",
+      "market_price": 243.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2023-12-01",
+      "grade_id": "GRADE_9",
+      "market_price": 134.51,
       "volume": null
     },
     {
@@ -16027,16 +16034,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2023-12-01",
-      "grade_id": "GRADE_9",
-      "market_price": 134.51,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
       "month": "2023-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 233.5,
+      "grade_id": "RAW",
+      "market_price": 129.01,
       "volume": null
     },
     {
@@ -16049,15 +16049,8 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2023-11-01",
-      "grade_id": "RAW",
-      "market_price": 129.01,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2023-10-01",
-      "grade_id": "GRADE_9",
-      "market_price": 137.5,
+      "grade_id": "PSA_10",
+      "market_price": 233.5,
       "volume": null
     },
     {
@@ -16076,6 +16069,20 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
+      "month": "2023-10-01",
+      "grade_id": "GRADE_9",
+      "market_price": 137.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2023-09-01",
+      "grade_id": "PSA_10",
+      "market_price": 232.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
       "month": "2023-09-01",
       "grade_id": "RAW",
       "market_price": 124.5,
@@ -16086,13 +16093,6 @@
       "month": "2023-09-01",
       "grade_id": "GRADE_9",
       "market_price": 142.47,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2023-09-01",
-      "grade_id": "PSA_10",
-      "market_price": 232.5,
       "volume": null
     },
     {
@@ -16140,13 +16140,6 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2023-06-01",
-      "grade_id": "RAW",
-      "market_price": 125.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2023-06-01",
       "grade_id": "GRADE_9",
       "market_price": 153.86,
       "volume": null
@@ -16160,9 +16153,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 125.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
       "month": "2023-05-01",
-      "grade_id": "PSA_10",
-      "market_price": 305.0,
+      "grade_id": "GRADE_9",
+      "market_price": 157.2,
       "volume": null
     },
     {
@@ -16175,8 +16175,8 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2023-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 157.2,
+      "grade_id": "PSA_10",
+      "market_price": 305.0,
       "volume": null
     },
     {
@@ -16189,22 +16189,15 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2023-04-01",
-      "grade_id": "RAW",
-      "market_price": 140.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2023-04-01",
       "grade_id": "GRADE_9",
       "market_price": 144.64,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2023-03-01",
+      "month": "2023-04-01",
       "grade_id": "RAW",
-      "market_price": 146.11,
+      "market_price": 140.0,
       "volume": null
     },
     {
@@ -16217,15 +16210,15 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2023-03-01",
-      "grade_id": "GRADE_9",
-      "market_price": 151.75,
+      "grade_id": "RAW",
+      "market_price": 146.11,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2023-02-01",
+      "month": "2023-03-01",
       "grade_id": "GRADE_9",
-      "market_price": 159.75,
+      "market_price": 151.75,
       "volume": null
     },
     {
@@ -16244,9 +16237,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2023-01-01",
-      "grade_id": "RAW",
-      "market_price": 127.16,
+      "month": "2023-02-01",
+      "grade_id": "GRADE_9",
+      "market_price": 159.75,
       "volume": null
     },
     {
@@ -16265,9 +16258,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2022-12-01",
-      "grade_id": "GRADE_9",
-      "market_price": 162.75,
+      "month": "2023-01-01",
+      "grade_id": "RAW",
+      "market_price": 127.16,
       "volume": null
     },
     {
@@ -16280,8 +16273,22 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2022-12-01",
+      "grade_id": "GRADE_9",
+      "market_price": 162.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2022-12-01",
       "grade_id": "RAW",
       "market_price": 131.88,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2022-11-01",
+      "grade_id": "RAW",
+      "market_price": 129.36,
       "volume": null
     },
     {
@@ -16300,16 +16307,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2022-11-01",
-      "grade_id": "RAW",
-      "market_price": 129.36,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
       "month": "2022-10-01",
-      "grade_id": "RAW",
-      "market_price": 129.95,
+      "grade_id": "PSA_10",
+      "market_price": 315.5,
       "volume": null
     },
     {
@@ -16322,8 +16322,8 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2022-10-01",
-      "grade_id": "PSA_10",
-      "market_price": 315.5,
+      "grade_id": "RAW",
+      "market_price": 129.95,
       "volume": null
     },
     {
@@ -16336,15 +16336,22 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2022-09-01",
+      "grade_id": "GRADE_9",
+      "market_price": 163.57,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2022-09-01",
       "grade_id": "PSA_10",
       "market_price": 362.0,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2022-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 163.57,
+      "month": "2022-08-01",
+      "grade_id": "PSA_10",
+      "market_price": 350.0,
       "volume": null
     },
     {
@@ -16363,23 +16370,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2022-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 350.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
       "month": "2022-07-01",
       "grade_id": "GRADE_9",
       "market_price": 168.37,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2022-07-01",
-      "grade_id": "RAW",
-      "market_price": 125.69,
       "volume": null
     },
     {
@@ -16391,9 +16384,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2022-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 169.17,
+      "month": "2022-07-01",
+      "grade_id": "RAW",
+      "market_price": 125.69,
       "volume": null
     },
     {
@@ -16408,6 +16401,13 @@
       "month": "2022-06-01",
       "grade_id": "RAW",
       "market_price": 152.31,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2022-06-01",
+      "grade_id": "GRADE_9",
+      "market_price": 169.17,
       "volume": null
     },
     {
@@ -16434,6 +16434,13 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2022-04-01",
+      "grade_id": "GRADE_9",
+      "market_price": 192.6,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2022-04-01",
       "grade_id": "PSA_10",
       "market_price": 370.0,
       "volume": null
@@ -16447,13 +16454,6 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2022-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 192.6,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
       "month": "2022-03-01",
       "grade_id": "GRADE_9",
       "market_price": 189.93,
@@ -16462,15 +16462,15 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2022-03-01",
-      "grade_id": "RAW",
-      "market_price": 150.38,
+      "grade_id": "PSA_10",
+      "market_price": 376.43,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2022-03-01",
-      "grade_id": "PSA_10",
-      "market_price": 376.43,
+      "grade_id": "RAW",
+      "market_price": 150.38,
       "volume": null
     },
     {
@@ -16497,6 +16497,13 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2022-01-01",
+      "grade_id": "RAW",
+      "market_price": 160.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2022-01-01",
       "grade_id": "PSA_10",
       "market_price": 385.0,
       "volume": null
@@ -16510,9 +16517,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2022-01-01",
+      "month": "2021-12-01",
       "grade_id": "RAW",
-      "market_price": 160.0,
+      "market_price": 167.39,
       "volume": null
     },
     {
@@ -16531,9 +16538,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2021-12-01",
+      "month": "2021-11-01",
       "grade_id": "RAW",
-      "market_price": 167.39,
+      "market_price": 154.0,
       "volume": null
     },
     {
@@ -16548,13 +16555,6 @@
       "month": "2021-11-01",
       "grade_id": "GRADE_9",
       "market_price": 186.75,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2021-11-01",
-      "grade_id": "RAW",
-      "market_price": 154.0,
       "volume": null
     },
     {
@@ -16581,13 +16581,6 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2021-09-01",
-      "grade_id": "RAW",
-      "market_price": 160.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2021-09-01",
       "grade_id": "GRADE_9",
       "market_price": 193.5,
       "volume": null
@@ -16601,9 +16594,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
+      "month": "2021-09-01",
+      "grade_id": "RAW",
+      "market_price": 160.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
       "month": "2021-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 229.63,
+      "grade_id": "PSA_10",
+      "market_price": 434.25,
       "volume": null
     },
     {
@@ -16616,8 +16616,15 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2021-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 434.25,
+      "grade_id": "GRADE_9",
+      "market_price": 229.63,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2021-07-01",
+      "grade_id": "GRADE_9",
+      "market_price": 233.5,
       "volume": null
     },
     {
@@ -16636,9 +16643,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2021-07-01",
+      "month": "2021-06-01",
       "grade_id": "GRADE_9",
-      "market_price": 233.5,
+      "market_price": 222.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_79",
+      "month": "2021-06-01",
+      "grade_id": "PSA_10",
+      "market_price": 470.25,
       "volume": null
     },
     {
@@ -16650,16 +16664,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2021-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 222.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2021-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 470.25,
+      "month": "2021-05-01",
+      "grade_id": "RAW",
+      "market_price": 206.25,
       "volume": null
     },
     {
@@ -16678,9 +16685,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2021-05-01",
-      "grade_id": "RAW",
-      "market_price": 206.25,
+      "month": "2021-04-01",
+      "grade_id": "PSA_10",
+      "market_price": 558.75,
       "volume": null
     },
     {
@@ -16699,9 +16706,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2021-04-01",
-      "grade_id": "PSA_10",
-      "market_price": 558.75,
+      "month": "2021-03-01",
+      "grade_id": "RAW",
+      "market_price": 274.99,
       "volume": null
     },
     {
@@ -16714,15 +16721,15 @@
     {
       "card_id": "pokemon_swsh3.5_79",
       "month": "2021-03-01",
-      "grade_id": "RAW",
-      "market_price": 274.99,
+      "grade_id": "GRADE_9",
+      "market_price": 346.26,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_79",
-      "month": "2021-03-01",
-      "grade_id": "GRADE_9",
-      "market_price": 346.26,
+      "month": "2021-02-01",
+      "grade_id": "RAW",
+      "market_price": 305.25,
       "volume": null
     },
     {
@@ -16737,13 +16744,6 @@
       "month": "2021-02-01",
       "grade_id": "GRADE_9",
       "market_price": 360.68,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_79",
-      "month": "2021-02-01",
-      "grade_id": "RAW",
-      "market_price": 305.25,
       "volume": null
     },
     {
@@ -17197,22 +17197,15 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2026-03-01",
+      "grade_id": "CGC_10",
+      "market_price": 27.04,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2026-03-01",
       "grade_id": "TAG_10",
       "market_price": 14.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2026-03-01",
-      "grade_id": "CGC_10_PRISTINE",
-      "market_price": 49.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2026-03-01",
-      "grade_id": "PSA_10",
-      "market_price": 22.75,
       "volume": null
     },
     {
@@ -17225,15 +17218,15 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2026-03-01",
-      "grade_id": "CGC_10",
-      "market_price": 27.04,
+      "grade_id": "BGS_10",
+      "market_price": 38.3,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2026-03-01",
-      "grade_id": "BGS_10",
-      "market_price": 38.3,
+      "grade_id": "CGC_10_PRISTINE",
+      "market_price": 49.0,
       "volume": null
     },
     {
@@ -17246,6 +17239,13 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2026-03-01",
+      "grade_id": "PSA_10",
+      "market_price": 22.75,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2026-03-01",
       "grade_id": "GRADE_9",
       "market_price": 8.0,
       "volume": null
@@ -17253,8 +17253,8 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2026-02-01",
-      "grade_id": "PSA_10",
-      "market_price": 24.95,
+      "grade_id": "GRADE_9",
+      "market_price": 8.0,
       "volume": null
     },
     {
@@ -17267,15 +17267,8 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2026-02-01",
-      "grade_id": "GRADE_9",
-      "market_price": 8.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2026-01-01",
       "grade_id": "PSA_10",
-      "market_price": 24.98,
+      "market_price": 24.95,
       "volume": null
     },
     {
@@ -17288,15 +17281,15 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2026-01-01",
-      "grade_id": "RAW",
-      "market_price": 2.49,
+      "grade_id": "PSA_10",
+      "market_price": 24.98,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2025-12-01",
+      "month": "2026-01-01",
       "grade_id": "RAW",
-      "market_price": 2.12,
+      "market_price": 2.49,
       "volume": null
     },
     {
@@ -17309,6 +17302,20 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2025-12-01",
+      "grade_id": "RAW",
+      "market_price": 2.12,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2025-12-01",
+      "grade_id": "GRADE_9",
+      "market_price": 6.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2025-11-01",
       "grade_id": "GRADE_9",
       "market_price": 6.0,
       "volume": null
@@ -17323,22 +17330,8 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2025-11-01",
-      "grade_id": "GRADE_9",
-      "market_price": 6.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2025-11-01",
       "grade_id": "RAW",
       "market_price": 2.7,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2025-10-01",
-      "grade_id": "GRADE_9",
-      "market_price": 7.0,
       "volume": null
     },
     {
@@ -17357,6 +17350,20 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
+      "month": "2025-10-01",
+      "grade_id": "GRADE_9",
+      "market_price": 7.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2025-09-01",
+      "grade_id": "GRADE_9",
+      "market_price": 11.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
       "month": "2025-09-01",
       "grade_id": "RAW",
       "market_price": 2.37,
@@ -17371,9 +17378,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2025-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 11.0,
+      "month": "2025-08-01",
+      "grade_id": "PSA_10",
+      "market_price": 23.04,
       "volume": null
     },
     {
@@ -17386,22 +17393,8 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2025-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 23.04,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2025-08-01",
       "grade_id": "GRADE_9",
       "market_price": 10.61,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2025-07-01",
-      "grade_id": "RAW",
-      "market_price": 2.84,
       "volume": null
     },
     {
@@ -17420,9 +17413,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2025-06-01",
-      "grade_id": "GRADE_9",
-      "market_price": 10.38,
+      "month": "2025-07-01",
+      "grade_id": "RAW",
+      "market_price": 2.84,
       "volume": null
     },
     {
@@ -17435,15 +17428,15 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2025-06-01",
-      "grade_id": "RAW",
-      "market_price": 2.23,
+      "grade_id": "GRADE_9",
+      "market_price": 10.38,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2025-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 10.36,
+      "month": "2025-06-01",
+      "grade_id": "RAW",
+      "market_price": 2.23,
       "volume": null
     },
     {
@@ -17456,15 +17449,15 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2025-05-01",
-      "grade_id": "PSA_10",
-      "market_price": 19.97,
+      "grade_id": "GRADE_9",
+      "market_price": 10.36,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2025-04-01",
+      "month": "2025-05-01",
       "grade_id": "PSA_10",
-      "market_price": 22.5,
+      "market_price": 19.97,
       "volume": null
     },
     {
@@ -17479,6 +17472,13 @@
       "month": "2025-04-01",
       "grade_id": "GRADE_9",
       "market_price": 13.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2025-04-01",
+      "grade_id": "PSA_10",
+      "market_price": 22.5,
       "volume": null
     },
     {
@@ -17505,13 +17505,6 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2025-02-01",
-      "grade_id": "RAW",
-      "market_price": 18.02,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2025-02-01",
       "grade_id": "PSA_10",
       "market_price": 20.34,
       "volume": null
@@ -17525,16 +17518,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2025-01-01",
+      "month": "2025-02-01",
       "grade_id": "RAW",
-      "market_price": 23.86,
+      "market_price": 18.02,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2025-01-01",
-      "grade_id": "GRADE_9",
-      "market_price": 10.0,
+      "grade_id": "RAW",
+      "market_price": 23.86,
       "volume": null
     },
     {
@@ -17546,9 +17539,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2024-12-01",
+      "month": "2025-01-01",
       "grade_id": "GRADE_9",
-      "market_price": 14.0,
+      "market_price": 10.0,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2024-12-01",
+      "grade_id": "PSA_10",
+      "market_price": 19.99,
       "volume": null
     },
     {
@@ -17561,15 +17561,8 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2024-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 19.99,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2024-11-01",
-      "grade_id": "RAW",
-      "market_price": 18.29,
+      "grade_id": "GRADE_9",
+      "market_price": 14.0,
       "volume": null
     },
     {
@@ -17582,15 +17575,15 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2024-11-01",
-      "grade_id": "PSA_10",
-      "market_price": 21.7,
+      "grade_id": "RAW",
+      "market_price": 18.29,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2024-10-01",
+      "month": "2024-11-01",
       "grade_id": "PSA_10",
-      "market_price": 21.42,
+      "market_price": 21.7,
       "volume": null
     },
     {
@@ -17609,16 +17602,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2024-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 10.0,
+      "month": "2024-10-01",
+      "grade_id": "PSA_10",
+      "market_price": 21.42,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2024-09-01",
-      "grade_id": "RAW",
-      "market_price": 17.04,
+      "grade_id": "GRADE_9",
+      "market_price": 10.0,
       "volume": null
     },
     {
@@ -17630,9 +17623,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2024-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 11.41,
+      "month": "2024-09-01",
+      "grade_id": "RAW",
+      "market_price": 17.04,
       "volume": null
     },
     {
@@ -17640,6 +17633,13 @@
       "month": "2024-08-01",
       "grade_id": "RAW",
       "market_price": 10.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2024-08-01",
+      "grade_id": "GRADE_9",
+      "market_price": 11.41,
       "volume": null
     },
     {
@@ -17652,13 +17652,6 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2024-07-01",
-      "grade_id": "RAW",
-      "market_price": 10.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2024-07-01",
       "grade_id": "GRADE_9",
       "market_price": 11.41,
       "volume": null
@@ -17666,6 +17659,20 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2024-07-01",
+      "grade_id": "PSA_10",
+      "market_price": 16.82,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2024-07-01",
+      "grade_id": "RAW",
+      "market_price": 10.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2024-06-01",
       "grade_id": "PSA_10",
       "market_price": 16.82,
       "volume": null
@@ -17686,20 +17693,6 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2024-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 16.82,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2024-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 11.69,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
       "month": "2024-05-01",
       "grade_id": "PSA_10",
       "market_price": 15.57,
@@ -17714,9 +17707,23 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
+      "month": "2024-05-01",
+      "grade_id": "GRADE_9",
+      "market_price": 11.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
       "month": "2024-04-01",
       "grade_id": "PSA_10",
       "market_price": 14.99,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2024-04-01",
+      "grade_id": "GRADE_9",
+      "market_price": 11.88,
       "volume": null
     },
     {
@@ -17728,7 +17735,7 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2024-04-01",
+      "month": "2024-03-01",
       "grade_id": "GRADE_9",
       "market_price": 11.88,
       "volume": null
@@ -17745,13 +17752,6 @@
       "month": "2024-03-01",
       "grade_id": "RAW",
       "market_price": 2.26,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2024-03-01",
-      "grade_id": "GRADE_9",
-      "market_price": 11.88,
       "volume": null
     },
     {
@@ -17778,13 +17778,6 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2024-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 17.9,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2024-01-01",
       "grade_id": "GRADE_9",
       "market_price": 11.41,
       "volume": null
@@ -17792,8 +17785,22 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2024-01-01",
+      "grade_id": "PSA_10",
+      "market_price": 17.9,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2024-01-01",
       "grade_id": "RAW",
       "market_price": 2.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2023-12-01",
+      "grade_id": "RAW",
+      "market_price": 2.09,
       "volume": null
     },
     {
@@ -17812,9 +17819,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2023-12-01",
+      "month": "2023-11-01",
       "grade_id": "RAW",
-      "market_price": 2.09,
+      "market_price": 1.99,
       "volume": null
     },
     {
@@ -17822,13 +17829,6 @@
       "month": "2023-11-01",
       "grade_id": "GRADE_9",
       "market_price": 10.25,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2023-11-01",
-      "grade_id": "RAW",
-      "market_price": 1.99,
       "volume": null
     },
     {
@@ -17862,6 +17862,13 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2023-09-01",
+      "grade_id": "PSA_10",
+      "market_price": 19.91,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2023-09-01",
       "grade_id": "GRADE_9",
       "market_price": 9.97,
       "volume": null
@@ -17871,13 +17878,6 @@
       "month": "2023-09-01",
       "grade_id": "RAW",
       "market_price": 1.92,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2023-09-01",
-      "grade_id": "PSA_10",
-      "market_price": 19.91,
       "volume": null
     },
     {
@@ -17904,13 +17904,6 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2023-07-01",
-      "grade_id": "RAW",
-      "market_price": 3.38,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2023-07-01",
       "grade_id": "PSA_10",
       "market_price": 20.19,
       "volume": null
@@ -17918,8 +17911,22 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2023-07-01",
+      "grade_id": "RAW",
+      "market_price": 3.38,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2023-07-01",
       "grade_id": "GRADE_9",
       "market_price": 10.94,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2023-06-01",
+      "grade_id": "RAW",
+      "market_price": 3.4,
       "volume": null
     },
     {
@@ -17938,9 +17945,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2023-06-01",
+      "month": "2023-05-01",
       "grade_id": "RAW",
-      "market_price": 3.4,
+      "market_price": 3.0,
       "volume": null
     },
     {
@@ -17959,9 +17966,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2023-05-01",
-      "grade_id": "RAW",
-      "market_price": 3.0,
+      "month": "2023-04-01",
+      "grade_id": "GRADE_9",
+      "market_price": 12.51,
       "volume": null
     },
     {
@@ -17974,22 +17981,8 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2023-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 12.51,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2023-04-01",
       "grade_id": "PSA_10",
       "market_price": 20.8,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2023-03-01",
-      "grade_id": "RAW",
-      "market_price": 3.11,
       "volume": null
     },
     {
@@ -18008,9 +18001,23 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
+      "month": "2023-03-01",
+      "grade_id": "RAW",
+      "market_price": 3.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
       "month": "2023-02-01",
       "grade_id": "RAW",
       "market_price": 3.86,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2023-02-01",
+      "grade_id": "GRADE_9",
+      "market_price": 12.5,
       "volume": null
     },
     {
@@ -18022,9 +18029,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2023-02-01",
+      "month": "2023-01-01",
       "grade_id": "GRADE_9",
-      "market_price": 12.5,
+      "market_price": 11.82,
       "volume": null
     },
     {
@@ -18043,13 +18050,6 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2023-01-01",
-      "grade_id": "GRADE_9",
-      "market_price": 11.82,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
       "month": "2022-12-01",
       "grade_id": "RAW",
       "market_price": 3.53,
@@ -18058,15 +18058,15 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2022-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 19.51,
+      "grade_id": "GRADE_9",
+      "market_price": 10.73,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2022-12-01",
-      "grade_id": "GRADE_9",
-      "market_price": 10.73,
+      "grade_id": "PSA_10",
+      "market_price": 19.51,
       "volume": null
     },
     {
@@ -18079,22 +18079,15 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2022-11-01",
-      "grade_id": "GRADE_9",
-      "market_price": 13.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2022-11-01",
       "grade_id": "PSA_10",
       "market_price": 19.79,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2022-10-01",
-      "grade_id": "RAW",
-      "market_price": 2.2,
+      "month": "2022-11-01",
+      "grade_id": "GRADE_9",
+      "market_price": 13.5,
       "volume": null
     },
     {
@@ -18113,9 +18106,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2022-09-01",
-      "grade_id": "PSA_10",
-      "market_price": 18.54,
+      "month": "2022-10-01",
+      "grade_id": "RAW",
+      "market_price": 2.2,
       "volume": null
     },
     {
@@ -18128,6 +18121,13 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2022-09-01",
+      "grade_id": "PSA_10",
+      "market_price": 18.54,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2022-09-01",
       "grade_id": "RAW",
       "market_price": 2.99,
       "volume": null
@@ -18135,8 +18135,8 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2022-08-01",
-      "grade_id": "PSA_10",
-      "market_price": 19.57,
+      "grade_id": "GRADE_9",
+      "market_price": 13.76,
       "volume": null
     },
     {
@@ -18149,8 +18149,8 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2022-08-01",
-      "grade_id": "GRADE_9",
-      "market_price": 13.76,
+      "grade_id": "PSA_10",
+      "market_price": 19.57,
       "volume": null
     },
     {
@@ -18163,15 +18163,15 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2022-07-01",
-      "grade_id": "PSA_10",
-      "market_price": 20.0,
+      "grade_id": "RAW",
+      "market_price": 3.54,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2022-07-01",
-      "grade_id": "RAW",
-      "market_price": 3.54,
+      "grade_id": "PSA_10",
+      "market_price": 20.0,
       "volume": null
     },
     {
@@ -18184,22 +18184,15 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2022-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 19.91,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2022-06-01",
       "grade_id": "GRADE_9",
       "market_price": 12.15,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2022-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 14.59,
+      "month": "2022-06-01",
+      "grade_id": "PSA_10",
+      "market_price": 19.91,
       "volume": null
     },
     {
@@ -18214,6 +18207,13 @@
       "month": "2022-05-01",
       "grade_id": "PSA_10",
       "market_price": 23.13,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2022-05-01",
+      "grade_id": "GRADE_9",
+      "market_price": 14.59,
       "volume": null
     },
     {
@@ -18240,6 +18240,13 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2022-03-01",
+      "grade_id": "RAW",
+      "market_price": 3.28,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2022-03-01",
       "grade_id": "PSA_10",
       "market_price": 25.64,
       "volume": null
@@ -18249,13 +18256,6 @@
       "month": "2022-03-01",
       "grade_id": "GRADE_9",
       "market_price": 15.0,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2022-03-01",
-      "grade_id": "RAW",
-      "market_price": 3.28,
       "volume": null
     },
     {
@@ -18282,6 +18282,13 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2022-01-01",
+      "grade_id": "PSA_10",
+      "market_price": 27.69,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2022-01-01",
       "grade_id": "GRADE_9",
       "market_price": 13.76,
       "volume": null
@@ -18295,16 +18302,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2022-01-01",
-      "grade_id": "PSA_10",
-      "market_price": 27.69,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
       "month": "2021-12-01",
-      "grade_id": "PSA_10",
-      "market_price": 23.36,
+      "grade_id": "GRADE_9",
+      "market_price": 15.75,
       "volume": null
     },
     {
@@ -18317,8 +18317,8 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2021-12-01",
-      "grade_id": "GRADE_9",
-      "market_price": 15.75,
+      "grade_id": "PSA_10",
+      "market_price": 23.36,
       "volume": null
     },
     {
@@ -18345,13 +18345,6 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2021-10-01",
-      "grade_id": "RAW",
-      "market_price": 3.27,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2021-10-01",
       "grade_id": "GRADE_9",
       "market_price": 8.89,
       "volume": null
@@ -18365,9 +18358,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2021-09-01",
-      "grade_id": "GRADE_9",
-      "market_price": 8.89,
+      "month": "2021-10-01",
+      "grade_id": "RAW",
+      "market_price": 3.27,
       "volume": null
     },
     {
@@ -18380,15 +18373,15 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2021-09-01",
-      "grade_id": "PSA_10",
-      "market_price": 38.0,
+      "grade_id": "GRADE_9",
+      "market_price": 8.89,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2021-08-01",
+      "month": "2021-09-01",
       "grade_id": "PSA_10",
-      "market_price": 35.73,
+      "market_price": 38.0,
       "volume": null
     },
     {
@@ -18403,6 +18396,13 @@
       "month": "2021-08-01",
       "grade_id": "RAW",
       "market_price": 3.65,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2021-08-01",
+      "grade_id": "PSA_10",
+      "market_price": 35.73,
       "volume": null
     },
     {
@@ -18429,6 +18429,13 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2021-06-01",
+      "grade_id": "PSA_10",
+      "market_price": 55.5,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2021-06-01",
       "grade_id": "RAW",
       "market_price": 3.17,
       "volume": null
@@ -18442,9 +18449,9 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2021-06-01",
-      "grade_id": "PSA_10",
-      "market_price": 55.5,
+      "month": "2021-05-01",
+      "grade_id": "GRADE_9",
+      "market_price": 8.89,
       "volume": null
     },
     {
@@ -18457,27 +18464,6 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2021-05-01",
-      "grade_id": "GRADE_9",
-      "market_price": 8.89,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2021-05-01",
-      "grade_id": "PSA_10",
-      "market_price": 55.5,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2021-04-01",
-      "grade_id": "GRADE_9",
-      "market_price": 8.89,
-      "volume": null
-    },
-    {
-      "card_id": "pokemon_swsh3.5_80",
-      "month": "2021-04-01",
       "grade_id": "PSA_10",
       "market_price": 55.5,
       "volume": null
@@ -18491,16 +18477,16 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2021-03-01",
-      "grade_id": "PSA_10",
-      "market_price": 30.11,
+      "month": "2021-04-01",
+      "grade_id": "GRADE_9",
+      "market_price": 8.89,
       "volume": null
     },
     {
       "card_id": "pokemon_swsh3.5_80",
-      "month": "2021-03-01",
-      "grade_id": "GRADE_9",
-      "market_price": 8.89,
+      "month": "2021-04-01",
+      "grade_id": "PSA_10",
+      "market_price": 55.5,
       "volume": null
     },
     {
@@ -18512,9 +18498,23 @@
     },
     {
       "card_id": "pokemon_swsh3.5_80",
+      "month": "2021-03-01",
+      "grade_id": "GRADE_9",
+      "market_price": 8.89,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
+      "month": "2021-03-01",
+      "grade_id": "PSA_10",
+      "market_price": 30.11,
+      "volume": null
+    },
+    {
+      "card_id": "pokemon_swsh3.5_80",
       "month": "2021-02-01",
-      "grade_id": "RAW",
-      "market_price": 2.87,
+      "grade_id": "PSA_10",
+      "market_price": 56.0,
       "volume": null
     },
     {
@@ -18527,8 +18527,8 @@
     {
       "card_id": "pokemon_swsh3.5_80",
       "month": "2021-02-01",
-      "grade_id": "PSA_10",
-      "market_price": 56.0,
+      "grade_id": "RAW",
+      "market_price": 2.87,
       "volume": null
     },
     {
